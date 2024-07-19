@@ -1,0 +1,915 @@
+{'img_id': 'twitter_stream_2019_03_10_3_0_2109.jpg', 'text': 'a group of people in a stadium with red smoke'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_208.jpg', 'text': 'an image of the world news logo on a blue background'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_63.jpg', 'text': 'there is a man in a brown shirt and suspends'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_203.jpg', 'text': 'a woman is dancing on a stage'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_156.jpg', 'text': 'two women are smiling at each other in the dark'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_188.jpg', 'text': 'a small raccoon drinking water from a puddle'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_29.jpg', 'text': 'the prime event orlando logo'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_233.jpg', 'text': 'do you not know? have you not heard? the lord is the everlasting God, the creator of the ends of the earth'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_158.jpg', 'text': 'an illustration of a man with a purple background'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_27.jpg', 'text': 'two baseball players celebrating a home run'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_230.jpg', 'text': 'carrie underwood performs onstage during the 2016 cmt music awards at the bridgestone arena on june 8, 2016 in nashville, tenn'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_39.jpg', 'text': 'a man giving a speech in front of a group of people'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_102.jpg', 'text': 'an article in the bengali language'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_198.jpg', 'text': 'there is a text that reads seven days has passed since the jordanian post'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_185.jpg', 'text': 'there is a group of people singing on stage'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_204.jpg', 'text': 'a picture of a tv on a table in a room'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_197.jpg', 'text': 'a collection of magazines with the cover of vladimir putin'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_168.jpg', 'text': 'a painting of flowers in a glass vase'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_1.jpg', 'text': 'severe thunderstorms are expected to move into the area wednesday'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_90.jpg', 'text': 'a painting of a city with smoke coming out of the chimneys'}
+{'img_id': 'twitter_19_31_0_13.jpg', 'text': 'or 200 characters a screenshot of the new ultimate ability in league of legends'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_144.jpg', 'text': 'a cartoon character standing on top of a roof with the words, this ship needs a captain'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_59.jpg', 'text': 'there is a man sitting at a table with a cup of coffee'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_181.jpg', 'text': 'a man getting his makeup done by another man'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_12.jpg', 'text': 'a group of men standing in front of a metal fence'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_127.jpg', 'text': 'a group of young men standing on a red carpet'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_105.jpg', 'text': "a screenshot of assassin's creed origins"}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_128.jpg', 'text': 'an airplane flying in the dark sky'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_177.jpg', 'text': 'a table showing the top 10 language service providers in southern europe'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_54.jpg', 'text': 'a group of men and women sitting at a dining table'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_186.jpg', 'text': 'an ambulance on the road'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_15.jpg', 'text': 'a painting depicting three naked women standing next to each other'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_174.jpg', 'text': 'two young men with orange hair are posing for a picture'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_68.jpg', 'text': 'a man with a beard standing in front of an italian flag'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_229.jpg', 'text': 'two soccer players standing next to each other'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_217.jpg', 'text': 'a cartoon drawing of a girl with blue hair'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_60.jpg', 'text': 'a scene from star wars the rise of skywalker'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_107.jpg', 'text': 'an image of a korean woman with a quote'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_54.jpg', 'text': 'blue water in a cave'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_115.jpg', 'text': 'a soccer player kicks the ball during a game'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_78.jpg', 'text': 'on this date in 1986 ferris and cameron cut gym to see the cubs'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_63.jpg', 'text': "a close up of a woman's face"}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_166.jpg', 'text': 'a man standing in front of an adidas sign'}
+{'img_id': 'twitter_stream_2018_05_07_2_0_2_159.jpg', 'text': 'a young man is dunking a basketball in front of a crowd'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_34.jpg', 'text': 'just in nielsen agrees to pay starbucks $ 7 billion for global marketing data'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_48.jpg', 'text': 'a group of people playing football on a field'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_172.jpg', 'text': 'a black and white drawing of a bear'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_30.jpg', 'text': 'there is a fish that is swimming in the water'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_172.jpg', 'text': "the new york knicks' carmelo anthony, right, shoots over los angeles lakers' person during the first half of an nba basketball game"}
+{'img_id': 'twitter_stream_2018_08_07_2_3_31.jpg', 'text': 'a policeman embraces a mourner at the scene of the terrorist attack in barcelona, spain, july 20, 2017'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_74.jpg', 'text': 'the lakers vs golden state warriors on espn'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_56.jpg', 'text': 'a couple of people dressed up in costumes'}
+{'img_id': 'twitter_stream_2018_09_04_9_0_2_158.jpg', 'text': 'a man standing in front of a group of people'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_193.jpg', 'text': 'a garbage truck with people standing around it'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_175.jpg', 'text': 'a woman posing in front of a purple sign'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_162.jpg', 'text': 'a woman sleeping in a lawn chair'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_219.jpg', 'text': "a man wearing a black jacket with a shirt that says don't time in indonesia"}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_28.jpg', 'text': 'two people sitting in white chairs on the ellen show'}
+{'img_id': 'twitter_stream_2018_07_23_22_0_2_52.jpg', 'text': 'there is a man walking across the street with a cell phone in his hand'}
+{'img_id': 'twitter_stream_2018_09_04_11_0_2_94.jpg', 'text': 'a young man wearing glasses and a sweatshirt with the word guess on it'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_145.jpg', 'text': 'a person standing on a stage with their arms raised'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_191.jpg', 'text': 'two military trucks are driving down a dirt road'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_67.jpg', 'text': 'a cartoon depicting the israeli-palestinian conflict'}
+{'img_id': 'twitter_stream_2018_06_11_17_0_2_118.jpg', 'text': 'the poster for the boxing match between christopher daiz and masayuki ito'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_6.jpg', 'text': 'a black and white photo of people at a concert'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_83.jpg', 'text': 'a letter from the office of the inspector general of police to the commissioner of police in akwa ibom state'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_150.jpg', 'text': 'the cherry trees bend over and weeping'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_27.jpg', 'text': 'or 100 characters a computer screen with a purple circle in the center'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_91.jpg', 'text': 'there is an image of a person playing a video game'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_72.jpg', 'text': 'person is listed or ranked 1 on the list the best video game voice actors of all time'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_95.jpg', 'text': 'a man in a shirt and tie with his mouth open'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_140.jpg', 'text': "a bird's eye view of the resort"}
+{'img_id': 'twitter_19_31_3_11.jpg', 'text': 'a flyer for an event in brighon on january 31, 2015'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_69.jpg', 'text': 'a man in a suit is waving his hand'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_153.jpg', 'text': 'a man is wearing a hoodie and necklace'}
+{'img_id': 'twitter_19_31_9_5.jpg', 'text': 'an anime scene with trees and a pavilion'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_214.jpg', 'text': 'a black and white photo of a man with a bicycle'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_98.jpg', 'text': 'a rocky shoreline under a stormy sky'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_167.jpg', 'text': 'a picture of a tree with white flowers on it'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_12.jpg', 'text': "pakistan is being used as a scapegoat for the failures of pakistan's policy inside afghanistan"}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_20.jpg', 'text': 'there is a gun in front of a map of florida'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_56.jpg', 'text': 'a group of soccer players hugging each other'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_68.jpg', 'text': 'jadakiss kiss tha game goodbye'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_28.jpg', 'text': 'a woman with long white hair in a lab'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_164.jpg', 'text': 'a man is kicking a soccer ball'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_59.jpg', 'text': 'a man is waving his hands in the air'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_27.jpg', 'text': "a post shared by chris williams not all you're right, gonzales would never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never never"}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_118.jpg', 'text': 'a bike lane painted on the floor of a tunnel'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_49.jpg', 'text': 'there is a person standing in a hallway talking on a cell phone'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_129.jpg', 'text': 'the speaker of the house of representatives, rt hon femi gbajabiamila'}
+{'img_id': 'twitter_stream_2018_08_07_25_0_2_207.jpg', 'text': 'a screenshot of the levitate app'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_15.jpg', 'text': 'a line graph showing the number of medicare expenditures for diabetes drugs'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_152.jpg', 'text': 'a satellite image of a mountain range'}
+{'img_id': 'twitter_19_31_13_55.jpg', 'text': 'a man in a black jacket is watching a soccer game'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_36.jpg', 'text': 'a man in a captain america costume'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_126.jpg', 'text': 'a man standing in front of a large screen'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_6.jpg', 'text': 'a black and white image of a spiral in the dark'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_77.jpg', 'text': 'eilean donan castle, scotland'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_11.jpg', 'text': 'a group of people playing a game of baseball'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_10.jpg', 'text': 'a group of women screaming with the words indian women say metoo'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_208.jpg', 'text': 'a group of people posing in front of a sign that says make a wish'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_164.jpg', 'text': 'a woman with white hair holding a knife'}
+{'img_id': 'twitter_stream_2018_07_23_0_0_2_125.jpg', 'text': 'two women wearing yellow bikinis and sunglasses'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_17.jpg', 'text': 'two men sitting in chairs talking to each other'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_89.jpg', 'text': 'afp breaking news'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_147.jpg', 'text': "there is a sign in a mall that says bollocks to brexit it's not done deal"}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_48.jpg', 'text': 'korea was even hotter than malaysia at that time only 22 degrees'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_134.jpg', 'text': 'a group of people playing a game of volleyball'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_169.jpg', 'text': 'a man in a tuxedo holding a glass of champagne'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_186.jpg', 'text': 'a bottle of rogue perfume'}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_43.jpg', 'text': 'a pop vinyl figure of the alien from the movie alien'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_139.jpg', 'text': 'a soccer player celebrates after scoring a goal'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_194.jpg', 'text': 'there are many anime characters in this collage'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_237.jpg', 'text': 'a police officer standing in front of a sign that says bt'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_54.jpg', 'text': 'a painting of a man in a black coat and white collar'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_75.jpg', 'text': 'a man is standing in front of a group of people'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_144.jpg', 'text': 'a woman in a dress sitting on a bench'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_59.jpg', 'text': 'a group of baseball players talking to each other'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_26.jpg', 'text': "prime minister narendra modi's speech in hindi"}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_146.jpg', 'text': 'philadelphia flyers goalie steve mason makes a save during the first period of an nhl hockey game against the pittsburgh penguins, tuesday, march 15, 2016, in philadelphia'}
+{'img_id': 'twitter_stream_2018_10_10_18_0_2_48.jpg', 'text': 'a man and a woman laying on a couch'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_72.jpg', 'text': 'a woman in a black dress posing for the camera'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_216.jpg', 'text': 'a view of the space needle in seattle'}
+{'img_id': 'twitter_stream_2018_08_07_18_0_2_18.jpg', 'text': 'a man wearing glasses and a suit poses for a photo'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_240.jpg', 'text': 'a black and white photo of a naked woman standing in front of a window'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_112.jpg', 'text': 'a bride and groom are posing for a photo'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_109.jpg', 'text': "an advertisement for angelica panganiban's upcoming movie"}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_174.jpg', 'text': "president trump arrives in singapore for summit with north korea's kim jong un"}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_207.jpg', 'text': 'a woman in a striped shirt posing for a picture'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_94.jpg', 'text': 'there is a man standing on a stage in front of a large screen'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_160.jpg', 'text': 'a screenshot of the mac app'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_191.jpg', 'text': 'colorado avalanche general manager person speaks during a press conference at the pepsi center in denver on thursday, june 20, 2019'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_43.jpg', 'text': 'or 100 characters sesame street meme, sesame street memes, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_90.jpg', 'text': 'a group of men in orange shirts standing on a stage'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_148.jpg', 'text': "two screenshots of the same person's twitter account"}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_211.jpg', 'text': 'march for scotland'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_93.jpg', 'text': 'a baseball player sliding into a base'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_137.jpg', 'text': 'a black and white photo of a woman standing next to a shopping cart'}
+{'img_id': 'twitter_19_31_8_70.jpg', 'text': 'a man in a red jacket and white shirt on a metal staircase'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_175.jpg', 'text': 'a picture of a man holding a camera with the words heavy 468'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_95.jpg', 'text': 'a soccer player kisses the trophy after winning the 2018 fifa world cup final between france and croatia at the luzhniki stadium in moscow, russia on july 15, 2018'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_180.jpg', 'text': 'anakin skywalker star wars quotes, star wars movies, star wars funny, star wars humor, star wars memes, star wars jokes, star wars trivia, star wars facts, person'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_175.jpg', 'text': 'two men wearing zebra print clothing are sitting in a wagon'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_126.jpg', 'text': "johnson trump's us against ending deal"}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_231.jpg', 'text': 'obama budget deficit vs trump budget deficit 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048 2049 2050 2051 2052 2053 2054 2055 2056 2057 2058 2059 2060 2061 2062 2063 2064 2'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_161.jpg', 'text': 'there is a little boy sitting at a table'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_164.jpg', 'text': 'a tweet from nicholas j funnels about what happened to alex jones last night'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_102.jpg', 'text': 'two men shaking hands in front of a tv screen'}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_158.jpg', 'text': 'an african man wearing a red hat sits in front of a microphone'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_93.jpg', 'text': 'a black and white photo of a man getting his hair cut'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_221.jpg', 'text': 'an image of obama on a tv screen'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_110.jpg', 'text': 'a group of people posing for a picture'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_119.jpg', 'text': 'a screenshot from the video game dragon ball xenoverse 2'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_177.jpg', 'text': 'two men in suits and ties smiling at each other'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_2111.jpg', 'text': 'a picture of two teams playing lacrosse'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_224.jpg', 'text': "the story continues because there's more money to be made"}
+{'img_id': 'twitter_stream_2018_07_23_0_0_2_183.jpg', 'text': 'an image of a car crashed on the side of the road'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_9.jpg', 'text': 'two young men are taking a picture of each other'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_168.jpg', 'text': 'a man with long hair playing a guitar'}
+{'img_id': 'twitter_19_31_23_46.jpg', 'text': 'several cars are on fire in a parking lot'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_92.jpg', 'text': 'a painting of a young girl in a white dress'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_140.jpg', 'text': 'two soccer players chasing after a soccer ball'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_96.jpg', 'text': 'a sonic the hedgehog video game cover'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_217.jpg', 'text': 'a man wearing a red hat and sunglasses'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_24.jpg', 'text': 'a man wearing a backpack and sunglasses'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_207.jpg', 'text': 'there is a white van parked on the side of the road'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_102.jpg', 'text': 'a man with a beard standing at a podium next to two women'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_58.jpg', 'text': 'a woman holding a bottle of liquor in front of a man'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_152.jpg', 'text': 'there is a list of players on the wall'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_6.jpg', 'text': 'the simpsons character is singing into a microphone'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_225.jpg', 'text': 'a drawing of a man with white hair and black clothes'}
+{'img_id': 'twitter_stream_2018_09_04_10_0_2_65.jpg', 'text': 'a woman with long blonde hair holding her finger to her lips'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_99.jpg', 'text': 'there is a man standing in front of a gas station holding a microphone'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_243.jpg', 'text': "north korea's leader kim jong un attends a meeting of the central committee of the ruling democratic people's republic of korea in pyongyang, north korea, in this photo released by north korea's official korean central news agency kcna via reuters"}
+{'img_id': 'twitter_stream_2018_07_23_2_3_78.jpg', 'text': 'a poster with a quote from donald trump'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_74.jpg', 'text': 'a bald man wearing headphones in front of an american flag'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_17.jpg', 'text': 'a flyer for latino fest 2018'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_37.jpg', 'text': 'a black and white photo of a man holding a saxophone'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_191.jpg', 'text': 'first lady michelle obama and malala yousafzai, the pakistani girl who survived an assassination attempt by the taliban'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_43.jpg', 'text': 'a person with pink hair standing in a room'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_196.jpg', 'text': 'a blue machine with a sign on it'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_111.jpg', 'text': 'jakarta ee hands on lab'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_22.jpg', 'text': 'a man and a woman posing for a picture'}
+{'img_id': 'twitter_stream_2018_06_11_16_0_2_220.jpg', 'text': 'there is a castle in the middle of a body of water'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_65.jpg', 'text': 'a man giving a speech at a podium'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_84.jpg', 'text': 'there is a man standing on top of a box'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_66.jpg', 'text': 'q will bangjin ever date a foreign girl'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_65.jpg', 'text': 'a close up of a woman wearing a pink dress'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_179.jpg', 'text': 'there is a man standing in front of a screen'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_57.jpg', 'text': 'a man in a black shirt is standing on a street corner'}
+{'img_id': 'twitter_19_31_1_95.jpg', 'text': 'person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_58.jpg', 'text': 'a german shepherd standing on a gravel road'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_165.jpg', 'text': 'a helicopter flying in the sky at sunset'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_58.jpg', 'text': 'two soccer players shaking hands with each other'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_210.jpg', 'text': 'a man wearing sunglasses and a leather jacket'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_193.jpg', 'text': 'ninefox gambit trilogy, book 1 by Yoon Ha Lee'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_176.jpg', 'text': 'a poster for the movie dummycats'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_3.jpg', 'text': 'a graph showing the number of hours worked by men and women in denmark and norway from 2000 to 2015'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_142.jpg', 'text': 'an image of a woman holding a microphone and standing in front of a yellow background'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_61.jpg', 'text': 'a split image of two men talking on cell phones'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_107.jpg', 'text': 'two men shaking hands in front of american and north korean flags'}
+{'img_id': 'twitter_19_31_14_34.jpg', 'text': 'a siamese cat laying on its back on a couch'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_16.jpg', 'text': 'a screenshot of a news article about brexit'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_104.jpg', 'text': 'a group of people standing on a red carpet'}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_126.jpg', 'text': 'a black and white image of a man in leather'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_54.jpg', 'text': 'three soccer players are walking down the street'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_159.jpg', 'text': 'a thank you page with three people on it'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_248.jpg', 'text': 'a close up of a woman with long blonde hair'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_60.jpg', 'text': 'an advertisement for the 2018 fifa world cup in russia'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_160.jpg', 'text': 'a white truck parked in a driveway'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_102.jpg', 'text': 'a view of a valley with mountains in the background'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_63.jpg', 'text': 'a black and white photo of a woman standing on stairs'}
+{'img_id': 'twitter_19_31_16_98.jpg', 'text': 'a drawing of a shirtless wolf'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_152.jpg', 'text': 'a man sitting at a table with a plate of food in front of him'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_16.jpg', 'text': 'an elderly man wearing glasses and a suit speaks to reporters'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_149.jpg', 'text': 'a billboard for mr rushmore'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_120.jpg', 'text': 'two men are looking at each other with the words tonight'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_182.jpg', 'text': 'a cow with wings flying in the sky'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_62.jpg', 'text': 'a collage of pictures of people at a flag hosting ceremony'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_115.jpg', 'text': 'a sunset over a field with a dirt road in the foreground'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_155.jpg', 'text': 'a man playing the violin while another man holds a yellow duck'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_43.jpg', 'text': 'two young men standing next to each other holding a microphone'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_190.jpg', 'text': 'a blue and yellow background with the word goal on it'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_91.jpg', 'text': 'a painting of a tree in blue and red'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_17.jpg', 'text': 'a pair of grey air jordan sneakers on top of a table'}
+{'img_id': 'twitter_stream_2018_09_04_2_3_75.jpg', 'text': 'there is an image of a courtroom with people in it'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_50.jpg', 'text': 'or 100 characters a dark screen with the name of the movie on it'}
+{'img_id': 'twitter_stream_2018_06_11_17_0_2_138.jpg', 'text': 'an older man wearing glasses and a colorful shirt smiles for the camera'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_105.jpg', 'text': 'a group of men in green uniforms holding up a trophy'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_142.jpg', 'text': 'a group of police officers talking to each other'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_96.jpg', 'text': 'a large tree in the middle of a lush green forest'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_78.jpg', 'text': 'a black and white picture of vases'}
+{'img_id': 'twitter_19_31_22_85.jpg', 'text': 'a person holding up a yellow postcard with a picture of a cat on it'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_106.jpg', 'text': 'the cover of somervell maude butterworth a shropshire lad elgar songs'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_184.jpg', 'text': 'a painting of an angel in front of a cemetery'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_102.jpg', 'text': 'a tweet from john miller about bernie sanders'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_187.jpg', 'text': 'black smoke is billowing out of a street'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_201.jpg', 'text': 'a black and white photo of a group of people'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_59.jpg', 'text': 'a large crowd of people walking down the street'}
+{'img_id': 'twitter_stream_2018_07_23_24_0_2_182.jpg', 'text': 'a cartoon character is running through a field'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_65.jpg', 'text': 'a forest fire is burning in the mountains'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_159.jpg', 'text': 'two people standing in front of a window'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_170.jpg', 'text': 'a map showing the flight path from london to cambridge'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_131.jpg', 'text': 'an african american woman standing at a podium with candles in front of her'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_206.jpg', 'text': 'a man is giving a presentation on a screen'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_0.jpg', 'text': 'there is a large billboard on the side of a building'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_69.jpg', 'text': 'there is a cake on top of a table'}
+{'img_id': 'twitter_19_31_23_27.jpg', 'text': 'an elderly man is hugged by a police officer'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_99.jpg', 'text': 'a painting depicting a group of people on a beach'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_208.jpg', 'text': 'an oil pump in the middle of a desert'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_174.jpg', 'text': 'there are three men standing next to each other'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_54.jpg', 'text': "google search results for 'donald trump'"}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_146.jpg', 'text': 'a group of young women posing for a photo in front of a red and white balloon'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_46.jpg', 'text': 'a man smiling with his arms around another person'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_13.jpg', 'text': 'president donald trump and first lady melania trump'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_105.jpg', 'text': 'a group of men standing in front of a plaque'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_138.jpg', 'text': 'a yellow sticky note with arabic writing on it'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_142.jpg', 'text': "the cast of marvel studios' the first ten years"}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_41.jpg', 'text': 'a t-shirt with a cartoon character on it'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_215.jpg', 'text': 'naruto shippuden episode 200 the ultimate showdown between naruto and sasuke, naruto shippuden episode 200, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper, naruto shippuden episode 200 wallpaper'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_109.jpg', 'text': 'there is an image of a cartoon character'}
+{'img_id': 'twitter_stream_2018_06_11_18_0_2_180.jpg', 'text': 'rapper drake on the tonight show with jimmy fallon'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_139.jpg', 'text': 'a man standing at a podium with a bust in front of him'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_119.jpg', 'text': 'a map of the united states'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_201.jpg', 'text': 'the tribal festival 2018'}
+{'img_id': 'twitter_19_31_12_20.jpg', 'text': 'a man standing on top of a cliff overlooking the ocean'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_151.jpg', 'text': 'a man standing in front of a building with the words live during question hour'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_48.jpg', 'text': 'a pair of navy and white air jordan sneakers'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_61.jpg', 'text': 'two soccer players sitting next to each other'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_11.jpg', 'text': 'a man is standing in front of a fire truck'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_55.jpg', 'text': 'two men hugging each other on instagram'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_67.jpg', 'text': 'a person taking a picture of another person in front of a city skyline'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_134.jpg', 'text': "virat kohli can't do every time, he's human - gautam gambhir"}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_148.jpg', 'text': 'person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_100.jpg', 'text': "los angeles lakers general manager person speaks during a news conference at the nba basketball team's practice facility in el segundo, calif, wednesday, july 10, 2019 ap photo person"}
+{'img_id': 'twitter_stream_2018_05_07_2_3_82.jpg', 'text': 'kbs awards 2018'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_52.jpg', 'text': 'anushka shetty and person wedding photos'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_256.jpg', 'text': 'a model walks down the runway wearing an elaborate headpiece'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_121.jpg', 'text': "a screenshot of trump's twitter account"}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_14.jpg', 'text': 'a view of the syrian capital damascus from the rooftop of a building'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_42.jpg', 'text': "a person holding a paper cut out of a woman's uterus"}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_158.jpg', 'text': 'a pink brain on a black background'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_18.jpg', 'text': 'two pictures of a leaf with holes in it'}
+{'img_id': 'twitter_stream_2018_10_10_7_0_2_138.jpg', 'text': 'three women on the cover of a magazine'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_126.jpg', 'text': 'there is a large banner with chinese writing on it'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_181.jpg', 'text': 'a magazine cover with a woman in a pink dress sitting on a chair'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_172.jpg', 'text': 'a man in a red shirt holding a cell phone'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_10.jpg', 'text': "a sign with a deer's head on it in front of a starry sky"}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_88.jpg', 'text': 'a comic strip about the earth'}
+{'img_id': 'twitter_stream_2018_07_23_24_0_2_143.jpg', 'text': 'a man in a blue shirt standing in a hallway'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_123.jpg', 'text': 'a young man with dog ears on his head'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_178.jpg', 'text': 'a man wearing a suit and tie is surrounded by reporters'}
+{'img_id': 'twitter_19_31_13_77.jpg', 'text': 'an illustration of a red and black football'}
+{'img_id': 'twitter_stream_2018_05_07_7_0_2_119.jpg', 'text': 'two men in suits talking to each other'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_181.jpg', 'text': 'a group of people posing for a picture'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_88.jpg', 'text': 'two men fighting in china goes viral'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_98.jpg', 'text': 'a man is laying on a bed'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_141.jpg', 'text': 'the american music awards 2018 red carpet'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_75.jpg', 'text': 'two men standing next to each other on a basketball court'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_133.jpg', 'text': 'the logo of the organization'}
+{'img_id': 'twitter_stream_2018_07_23_0_0_2_44.jpg', 'text': 'video not displayed this video has been removed by the copyright holder'}
+{'img_id': 'twitter_stream_2018_08_07_25_0_2_201.jpg', 'text': 'an image of a bulldog laying down next to a broom'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_37.jpg', 'text': 'a man giving a speech in front of an american flag'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_25.jpg', 'text': 'a woman wearing glasses and a red shirt'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_161.jpg', 'text': "iran's supreme leader ayatollah ali khamenei speaks during a meeting in tehran, iran, wednesday, march 8, 2017 photo ap"}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_166.jpg', 'text': 'an advertisement for kris wu'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_13.jpg', 'text': 'a poster for doctor who'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_134.jpg', 'text': 'singer jennifer lopez performs onstage during the 2016 billboard music awards at the t-mobile arena on may 22, 2016 in las vegas, nevada'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_185.jpg', 'text': 'the emblem of the pakistan army'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_150.jpg', 'text': 'a person placing a flower on a casket'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_213.jpg', 'text': 'a man giving a speech in front of a large crowd'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_3.jpg', 'text': 'a purple and blue background with the words thank you on it'}
+{'img_id': 'twitter_stream_2018_05_07_21_0_2_102.jpg', 'text': 'two people are riding down an escalator'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_156.jpg', 'text': 'a couple of people walking down a gravel path'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_115.jpg', 'text': 'a record spinning on a turntable'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_162.jpg', 'text': 'a black and white photo of a man kicking a soccer ball'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_21.jpg', 'text': 'a man standing in front of a wall with asian writing on it'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_90.jpg', 'text': 'a map showing the location of a tornado warning'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_27.jpg', 'text': 'a woman in a pink dress sitting on a couch'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_184.jpg', 'text': 'an image of a tv screen with lights on it'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_67.jpg', 'text': 'two men shaking hands in front of a european flag'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_19.jpg', 'text': 'a miami hurricanes football player on an orange background'}
+{'img_id': 'twitter_stream_2018_07_23_27_0_2_5.jpg', 'text': 'there is a large ship in the water'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_43.jpg', 'text': 'the passion of the christ movie poster'}
+{'img_id': 'twitter_19_31_20_24.jpg', 'text': 'a man holding a rugby ball in front of a group of people'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_126.jpg', 'text': 'there is a man with tattoos on his chest'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_45.jpg', 'text': 'a man is sitting on the edge of a hole'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_207.jpg', 'text': 'an advertisement for a soccer game'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_28.jpg', 'text': 'a black and gold boombox on a black background'}
+{'img_id': 'twitter_19_31_7_90.jpg', 'text': 'a screen shot of the united emirates nepal vs chandigarh rizwan hits karan 4 for 22'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_71.jpg', 'text': 'a close up of a man in a suit and tie'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_74.jpg', 'text': 'an aerial view of a boat in the middle of the ocean'}
+{'img_id': 'twitter_19_31_0_60.jpg', 'text': "bangladesh's rohingya refugee camps are overcrowded and unsanitary"}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_109.jpg', 'text': 'a man is talking to a woman in a yellow tank top'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_197.jpg', 'text': 'the simpsons halloween, halloween costumes, halloween party, halloween decorations, halloween ideas, halloween pumpkin, halloween funny, halloween memes, halloween quotes'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_111.jpg', 'text': "kanye west, left, and jay-z perform on stage during the 'on the run ii' tour at stade de france on july 6, 2018 in paris, france"}
+{'img_id': 'twitter_19_31_22_54.jpg', 'text': 'a man kisses a woman on the cheek at a tennis match'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_248.jpg', 'text': 'a black background with the word dixon in white letters'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_117.jpg', 'text': 'a man sitting next to two children'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_179.jpg', 'text': 'a group of women sitting on a subway'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_200.jpg', 'text': 'a group of people standing in front of a table'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_179.jpg', 'text': 'a black and white photo of a man on a bus'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_161.jpg', 'text': 'a man is covering his face with his hands'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_46.jpg', 'text': 'two men are posing for a picture'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_188.jpg', 'text': 'two young men walking down a sidewalk with shopping bags'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_87.jpg', 'text': 'there is a clock on a brick wall'}
+{'img_id': 'twitter_19_31_0_24.jpg', 'text': 'investment market blog'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_154.jpg', 'text': 'a group of people playing soccer on a field'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_242.jpg', 'text': 'there is a large ship in the water'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_79.jpg', 'text': 'a man laying on the floor in front of a large pizza'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_150.jpg', 'text': 'a screenshot of the stock market'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_47.jpg', 'text': 'a comic strip with three panels'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_239.jpg', 'text': 'a woman in a red dress holding up a magazine with the word thanks on it'}
+{'img_id': 'twitter_stream_2018_07_23_10_0_2_170.jpg', 'text': 'there is a woman standing in a living room'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_198.jpg', 'text': 'an image of a document with yellow highlights'}
+{'img_id': 'twitter_19_31_19_29.jpg', 'text': "the cover of katy perry's album walking up in vegas"}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_159.jpg', 'text': 'there is an image of two police officers and a man'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_95.jpg', 'text': 'a black and white photo of a man and woman sitting in the grass'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_112.jpg', 'text': 'a man in a white jersey with the words real madrid as roma'}
+{'img_id': 'inf.png', 'text': 'a blurry picture of a woman in a hijab'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_139.jpg', 'text': 'two men playing guitars on a television screen'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_209.jpg', 'text': 'a large crowd of people at a rally in pakistan'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_125.jpg', 'text': 'an old black and white photo of a mountain range'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_241.jpg', 'text': 'a basketball player raises his arms in celebration'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_172.jpg', 'text': 'a satellite image of glaciers in alaska'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_184.jpg', 'text': 'there is a bird that is in the air'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_137.jpg', 'text': 'a woman posing for a picture in a field'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_63.jpg', 'text': 'a tv screen showing a court room with people in it'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_30.jpg', 'text': 'an image of a man giving a speech at a graduation ceremony'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_69.jpg', 'text': 'a painting of a boat in the water'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_19.jpg', 'text': 'a great prophet has arisen in our midst and god has visited his people'}
+{'img_id': 'twitter_stream_2018_10_10_24_0_2_21.jpg', 'text': 'a man standing at a podium in front of canadian flags'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_193.jpg', 'text': "a close up of donald trump's face"}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_206.jpg', 'text': 'a drawing of anime characters'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_77.jpg', 'text': 'there is a sign on the sidewalk'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_214.jpg', 'text': 'the bill and melinda gates foundation is now funding groups working with public schools'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_155.jpg', 'text': 'a woman is carrying a suitcase and a purse'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_75.jpg', 'text': 'a man in a green shirt is taking a selfie'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_164.jpg', 'text': 'celtic supporters cheer on their team during the scottish premiership match between celtic and heart of midlothian at celtic park in glasgow, scotland'}
+{'img_id': 'twitter_19_31_22_92.jpg', 'text': 'india takes huge strides towards a gas based economy'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_243.jpg', 'text': 'two men shaking hands in front of american and north korean flags'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_84.jpg', 'text': 'an image of the sun setting over an island'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_42.jpg', 'text': 'person, an adoptable chihuahua in san diego, ca'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_20.jpg', 'text': 'video not displayed this video has been removed by the copyright holder'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_86.jpg', 'text': 'two men sitting in chairs with flags behind them'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_0.jpg', 'text': 'a man in a suit is giving a speech'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_191.jpg', 'text': 'an example of a works cited page in mla format'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_180.jpg', 'text': 'lebron is in their head you might as well let them call the lakers to raptors'}
+{'img_id': 'twitter_stream_2018_10_10_17_0_2_71.jpg', 'text': 'a man is standing in front of a microphone'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_164.jpg', 'text': 'a brick building with a sign that says city archives'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_126.jpg', 'text': 'two men standing in front of american and north korean flags'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_151.jpg', 'text': 'the pulp fiction logo on a black background'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_176.jpg', 'text': 'two young men in white shirts holding microphones'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_172.jpg', 'text': 'two men sitting at a desk in front of a microphone'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_120.jpg', 'text': 'two men shaking hands in front of american and north korean flags'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_242.jpg', 'text': 'a woman in a yellow jacket and a man in a black suit'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_165.jpg', 'text': 'a man in a purple suit singing into a microphone'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_22.jpg', 'text': 'person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_15.jpg', 'text': 'an old trail man stands on stage'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_106.jpg', 'text': 'there is a drawing of a dog on a piece of paper'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_3.jpg', 'text': 'a large crowd of people in an indian city'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_61.jpg', 'text': "a black and white photo of a woman blow drying a man's hair"}
+{'img_id': 'twitter_stream_2018_05_07_2_3_59.jpg', 'text': 'thank you for being a part of our community'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_62.jpg', 'text': 'the voice of the philippines season 2 episode 1'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_3.jpg', 'text': 'a woman in white shirt and tan pants standing in front of a group of children'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_65.jpg', 'text': 'a picture of a man with a beard holding a gold certificate'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_135.jpg', 'text': 'a map showing the location of bulgaria'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_227.jpg', 'text': 'the boring company logo on a brick wall'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_195.jpg', 'text': 'two men and a woman posing for a picture'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_11.jpg', 'text': 'a tweet from person about the 2019 tony awards'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_77.jpg', 'text': 'afp breaking news'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_5.jpg', 'text': 'willy wonka and the chocolate factory 1971'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_10.jpg', 'text': 'a woman giving a speech at a podium'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_12.jpg', 'text': 'a woman wearing thigh high boots at the met gala'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_47.jpg', 'text': 'halo wars 2 is coming to xbox one and pc on february 21, 2017'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_81.jpg', 'text': 'two swans swimming in a body of water'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_138.jpg', 'text': 'a person running on top of a hill with mountains in the background'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_213.jpg', 'text': 'an image of a star shaped object in the sky'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_2165.jpg', 'text': 'two boys and a woman are dancing in a living room'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_106.jpg', 'text': 'there is a football game on the screen'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_20.jpg', 'text': 'a person holding a football with the words blount force trauma'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_125.jpg', 'text': 'two people are standing in front of a car'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_102.jpg', 'text': 'a week in venice guide illustrated'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_62.jpg', 'text': 'denver broncos wide receiver emmanuel sanders runs with the ball during the first half of an nfl football game against the washington redskins, sunday, oct 29, 2017, in landover, md'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_63.jpg', 'text': 'a close up of the face of thanos'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_72.jpg', 'text': 'a screenshot of the grocery shopping app'}
+{'img_id': 'twitter_19_31_0_19.jpg', 'text': 'santorini, greece at sunset'}
+{'img_id': 'twitter_stream_2018_09_04_10_0_2_132.jpg', 'text': 'a close up of a man wearing a suit and tie'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_18.jpg', 'text': 'a painting of a woman with angel wings'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_128.jpg', 'text': 'a close up of a man wearing a suit and tie'}
+{'img_id': 'twitter_19_31_1_27.jpg', 'text': 'a man is riding a scooter on the street'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_40.jpg', 'text': "the cover of elvis costello's my aim is true"}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_185.jpg', 'text': 'an amazon logo is displayed on a building at night'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_167.jpg', 'text': 'a man in a suit walking down a hallway'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_12.jpg', 'text': 'a woman holding a baby in her arms'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_42.jpg', 'text': 'a man holding a coffee mug in front of a microphone'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_181.jpg', 'text': 'a man and woman dressed in wedding attire walking down the street'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_117.jpg', 'text': 'a group of men and women standing in front of a building'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_211.jpg', 'text': 'ducks swimming in a canal'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_29.jpg', 'text': 'two men sitting in red chairs'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_85.jpg', 'text': 'the samsung galaxy note 8 is advertised with a yellow pen'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_176.jpg', 'text': 'an indian man wearing a turban on his head is surrounded by a crowd of people'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_4.jpg', 'text': 'three women wearing colorful hats and sunglasses'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_163.jpg', 'text': 'a dog dressed up in a costume'}
+{'img_id': 'twitter_19_31_5_44.jpg', 'text': 'a close up of a woman wearing gold jewelry'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_206.jpg', 'text': '10 minutes after kavanaugh was confirmed as a supreme court justice democrats'}
+{'img_id': 'twitter_19_31_19_53.jpg', 'text': 'an illustration of a traffic light with the flag of south korea in the background'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_159.jpg', 'text': 'there is a lot of debris on the ground'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_182.jpg', 'text': 'a newspaper article about bob marley'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_221.jpg', 'text': 'a person riding a large wave on a surfboard'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_119.jpg', 'text': 'an example of a persuasive essay'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_3.jpg', 'text': 'two men one with a beard and the other with a mustache'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_227.jpg', 'text': 'a baseball player sticking his tongue out in a purple jersey'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_20.jpg', 'text': 'two pictures of a man in armor and one with a beard'}
+{'img_id': 'twitter_19_31_15_4.jpg', 'text': "a pair of men's brown leather boots"}
+{'img_id': 'twitter_19_31_18_95.jpg', 'text': 'the stars are shining brightly in the night sky'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_137.jpg', 'text': 'there is an old stone building with a wooden door'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_172.jpg', 'text': 'a group of people standing on the beach'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_201.jpg', 'text': 'a bunch of green lettuce in a vase'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_158.jpg', 'text': 'a group of soccer players playing on a field'}
+{'img_id': 'twitter_stream_2018_05_07_7_0_2_136.jpg', 'text': 'a starbucks logo is pictured at a coffee shop in downtown los angeles, california'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_99.jpg', 'text': 'two screenshots of a video game, one before and one after'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_70.jpg', 'text': 'a black rolls royce is driving down the street'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_169.jpg', 'text': 'a letter from the president of the philippines'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_127.jpg', 'text': 'a woman in roller skates posing for a picture'}
+{'img_id': 'twitter_19_31_0_62.jpg', 'text': "pakistan's asad shafiq is bowled out by new zealand's tim southee during the first one day international cricket match in auckland, new zealand, friday, jan 26, 2018"}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_194.jpg', 'text': 'a man is sitting on a couch with his hand to his mouth'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_169.jpg', 'text': 'lady gaga at the 2019 met gala'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_135.jpg', 'text': 'a man in a green robe is standing in front of a red carpet'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_21.jpg', 'text': 'a plot of the length of the accretion node'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_71.jpg', 'text': 'three men sitting in a race car eating food'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_20.jpg', 'text': 'a painting of a person walking down a path in autumn'}
+{'img_id': 'twitter_19_31_8_81.jpg', 'text': 'two asian men hugging each other on stage'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_50.jpg', 'text': 'an older man wearing sunglasses and a suit'}
+{'img_id': 'twitter_stream_2018_09_04_11_0_2_175.jpg', 'text': 'a bowl of green ice cream with a spoon in it'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_122.jpg', 'text': 'the skyline of minneapolis is lit up at night'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_116.jpg', 'text': 'a close up of a man in a suit and tie'}
+{'img_id': 'twitter_stream_2018_08_07_17_0_2_183.jpg', 'text': 'a smiling man sitting at a desk with a pen in his hand'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_41.jpg', 'text': 'pm narendra modi receives international reception at kigali international airport upon arrival in rwanda'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_165.jpg', 'text': 'a woman wearing a tiara with the words happy birthday charlize theron'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_224.jpg', 'text': 'a new york times newspaper sitting in a rack'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_61.jpg', 'text': "a screenshot of david nussbaum's twitter account"}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_88.jpg', 'text': 'a collage of young men in different poses'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_23.jpg', 'text': 'the hulk in the avengers movie'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_205.jpg', 'text': 'a woman standing on a train platform at night'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_0.jpg', 'text': 'a black and white photo of two men in a small car'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_221.jpg', 'text': 'two people are looking at the dome of the rock'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_110.jpg', 'text': 'a poster for the palisades tour'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_79.jpg', 'text': 'a woman is holding a cell phone to her ear'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_168.jpg', 'text': 'there is a man that is holding his finger in front of his face'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_14.jpg', 'text': 'two news anchors are standing in front of a television screen'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_60.jpg', 'text': 'brooklyn nets guard jeremy lin, right, drives to the basket against cleveland cavaliers forward kyle korver during the first half of an nba basketball game in brooklyn, new york, wednesday, jan 16, 2019'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_120.jpg', 'text': "an image of a text that says it's not only obama who wants to keep obama's certification"}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_51.jpg', 'text': 'a female soccer player kicking a soccer ball'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_225.jpg', 'text': 'a woman in a pink shirt is shown on a computer screen'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_94.jpg', 'text': 'there is an image of a man in a fur coat'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_207.jpg', 'text': 'a tweet from president donald trump about christopher columbus'}
+{'img_id': 'twitter_stream_2018_09_04_9_0_2_43.jpg', 'text': 'a man in a suit standing in a museum'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_89.jpg', 'text': 'chicago bears defensive end person celebrates after sacking philadelphia eagles quarterback person during the first half of an nfl football game sunday, oct 12, 2014, in chicago'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_224.jpg', 'text': 'a tweet from times of india'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_240.jpg', 'text': 'a man in a suit and tie gesturing with his hand'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_63.jpg', 'text': 'thanos and hulk in the avengers'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_105.jpg', 'text': 'a newspaper article with the words thank you bc for oil discount'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_104.jpg', 'text': 'there is an image of a man standing on top of a building'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_73.jpg', 'text': 'two pictures of young men with purple hair'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_68.jpg', 'text': 'three pairs of colorful high heeled shoes'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_20.jpg', 'text': 'person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_42.jpg', 'text': 'the met gala 2016 red carpet'}
+{'img_id': 'twitter_stream_2018_06_11_18_0_2_236.jpg', 'text': "the duke and duchess of sussex arrive for their wedding ceremony at st george's chapel in windsor castle"}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_79.jpg', 'text': 'breaking news kerala court frames charges against 7 in isis case'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_102.jpg', 'text': 'an image of a document with the name of the company on it'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_203.jpg', 'text': 'a black and white photo of a horse drawn carriage in front of a church'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_175.jpg', 'text': 'aishwarya rai bachchan in white outfit at airport'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_160.jpg', 'text': "a screenshot of assassin's creed odyssey"}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_118.jpg', 'text': 'the cover of midnight shift'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_105.jpg', 'text': "a man eating a giant hamburger with the words it's the art of the deal"}
+{'img_id': 'twitter_stream_2018_08_07_18_0_2_118.jpg', 'text': 'a drawing of a dog with green eyes'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_58.jpg', 'text': "a screenshot of the person's facebook page"}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_47.jpg', 'text': 'a couple of people with math equations on their faces'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_102.jpg', 'text': 'an oil painting of a bridge over a pond'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_21.jpg', 'text': 'afp breaking news'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_165.jpg', 'text': 'a group of people sitting at a bar'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_11.jpg', 'text': 'a pair of converse shoes next to a bt21 bag'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_147.jpg', 'text': 'there are flowers and candles on the ground'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_189.jpg', 'text': 'a group of people walking down a dirt street'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_148.jpg', 'text': 'a man is sitting on a couch'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_82.jpg', 'text': "a woman is looking at a man's face"}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_182.jpg', 'text': 'a group of people in a dark room'}
+{'img_id': 'twitter_19_31_3_54.jpg', 'text': 'a baby seal playing in the snow'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_140.jpg', 'text': 'a man in a red robe holding a bottle'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_97.jpg', 'text': 'a man with tattoos on his chest is standing in a room'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_223.jpg', 'text': 'a man is hugging a woman with a tattoo on her arm'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_17.jpg', 'text': 'a neon sign on a bridge over a river at night'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_39.jpg', 'text': 'a black box with the word note 8 on it'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_86.jpg', 'text': 'a woman is looking out of a window'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_201.jpg', 'text': 'a bar chart showing the number of people who are in contact with each other'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_162.jpg', 'text': 'a collage of pictures with the same woman in different outfits'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_122.jpg', 'text': 'two young men are posing for a photo'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_24.jpg', 'text': 'a man is laying in bed'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_32.jpg', 'text': 'a close up of a moth on a leaf'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_109.jpg', 'text': 'a shirtless man carrying a blue and yellow surfboard'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_86.jpg', 'text': 'a picture of a man in a star trek shirt'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_162.jpg', 'text': 'a man in a suit standing outside of a store'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_98.jpg', 'text': 'a man with long hair playing drums on stage'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_170.jpg', 'text': 'president donald trump speaks at the us-mexico border in san diego, california, on may 19, 2019'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_209.jpg', 'text': 'who would win a proud prussian army commanded by frederick the great against one british infantry regiment?'}
+{'img_id': 'twitter_stream_2018_06_11_17_0_2_119.jpg', 'text': 'the trevi fountain in rome, italy'}
+{'img_id': 'twitter_19_31_9_43.jpg', 'text': 'a comic strip of mario and luigi'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_167.jpg', 'text': 'a man in a suit and tie giving a speech'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_69.jpg', 'text': 'a woman with long brown hair wearing a black dress'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_103.jpg', 'text': 'or 200 characters a registration desk in a hotel lobby'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_99.jpg', 'text': 'two paper cut outs of naruto standing next to sandwiches'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_149.jpg', 'text': 'the front end of a blue tiger car'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_198.jpg', 'text': 'houston rockets vs memphis grizzlies full game highlights 2019 2020 nba season'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_44.jpg', 'text': 'a blurry image of people walking through an airport'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_226.jpg', 'text': 'a baseball player is about to throw the ball'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_153.jpg', 'text': 'a bald man wearing a jacket and shirt'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_222.jpg', 'text': 'or 200 characters an image of a man in glasses with the words jian yang vs eric bachman'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_96.jpg', 'text': 'a black and white photo of a man sitting at a desk'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_184.jpg', 'text': 'a black and white photo of a woman sitting on a stool'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_10.jpg', 'text': 'prince harry and a young boy pose for a photo'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_210.jpg', 'text': 'a large stone house sitting in the middle of a lush green lawn'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_67.jpg', 'text': 'the jerusalem skyline with the words blessed be adonai elijah, god of israel'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_153.jpg', 'text': 'msnbc panel discusses race in the trump era'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_62.jpg', 'text': 'aishwarya rai bachchan, kareena kapoor khan, deepika padukone, alia bhatt, sonam kapoor, katrina kaif, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_46.jpg', 'text': "the bracket for the 2014 ncaa men's basketball tournament"}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_49.jpg', 'text': 'a group of young men wearing red jackets and hats'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_25.jpg', 'text': 'a painting of two roosters'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_157.jpg', 'text': 'a woman wearing a hijab stands in front of an olympic logo'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_227.jpg', 'text': 'ariana grande and pete davidson break up'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_54.jpg', 'text': 'a man wearing glasses and a hat sits on a couch'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_176.jpg', 'text': 'an aerial view of a beach with a thatched roof'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_47.jpg', 'text': 'an image of a mosaic with birds on it'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_194.jpg', 'text': 'there is a white house on top of a hill'}
+{'img_id': 'twitter_stream_2018_07_23_10_0_2_87.jpg', 'text': 'two men in military uniforms shaking hands'}
+{'img_id': 'twitter_stream_2018_09_04_10_0_2_217.jpg', 'text': 'a group of people in a restaurant'}
+{'img_id': 'twitter_stream_2018_09_04_0_0_2_228.jpg', 'text': 'a group of people playing soccer on a field'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_13.jpg', 'text': 'a poster for the movie glass'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_116.jpg', 'text': 'a plate of fried rice with vegetables and meat'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_236.jpg', 'text': 'this is an image of a street with trees on either side'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_22.jpg', 'text': 'a young boy is dancing in a classroom'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_157.jpg', 'text': 'there is a picture of a building with a rose on it'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_42.jpg', 'text': 'an image of a man in a suit and bow tie'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_181.jpg', 'text': 'a person wearing gloves holds a handgun'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_94.jpg', 'text': 'there is a kitten sitting on a bed'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_253.jpg', 'text': 'what kim wants - screenshot'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_213.jpg', 'text': 'a group of people standing in front of a rocket'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_3.jpg', 'text': 'a group of people gathered in a park'}
+{'img_id': 'twitter_stream_2018_07_23_5_0_2_48.jpg', 'text': "a screenshot of the video game ``let's play battle brexit''"}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_221.jpg', 'text': 'a woman singing into a microphone on stage'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_17.jpg', 'text': 'there is an image of a group of men running in a yard'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_201.jpg', 'text': 'a bookmark with an image of a car on the beach'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_183.jpg', 'text': 'a man with dreadlocks and glasses in front of a field'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_45.jpg', 'text': "the cover of porter magazine featuring lupita nyong'o"}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_46.jpg', 'text': 'a man and woman are singing in front of a microphone'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_185.jpg', 'text': 'a picture of a computer screen with a message on it'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_209.jpg', 'text': 'two men and a woman sitting on chairs'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_184.jpg', 'text': 'a man wearing a suit and tie'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_137.jpg', 'text': "a screenshot of the cnn news report on the philippine president's speech"}
+{'img_id': 'twitter_stream_2018_05_07_21_0_2_56.jpg', 'text': 'a man in a tuxedo and a woman in a gown posing for a picture'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_49.jpg', 'text': 'a bar chart showing the price of a deal'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_184.jpg', 'text': 'a large group of people gathered in a circle'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_51.jpg', 'text': 'a woman in a green graduation gown poses for a photo'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_81.jpg', 'text': 'a man with a beard smiles for the camera'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_201.jpg', 'text': 'a group of children smiling at the camera'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_25.jpg', 'text': 'a close up of a man in a suit and tie'}
+{'img_id': 'twitter_19_31_16_61.jpg', 'text': 'an indian woman speaking into microphones'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_99.jpg', 'text': 'a group of men posing for a picture'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_165.jpg', 'text': 'a map showing the location of the tornado watch'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_41.jpg', 'text': "a man in a colorful shirt with the caption that's just ridiculous"}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_219.jpg', 'text': 'a group of people standing in front of a banner with a picture of kim jong - un'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_147.jpg', 'text': 'a drawing of link from the legend of zelda'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_147.jpg', 'text': 'an old photo of a man and a young boy wearing ties'}
+{'img_id': 'twitter_stream_2018_09_04_11_0_2_233.jpg', 'text': 'a large room with tables and chairs set up for an event'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_122.jpg', 'text': 'two men are posing for a picture on instagram'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_211.jpg', 'text': 'a man is standing in front of a stage'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_21.jpg', 'text': 'flags of the us and north korea are displayed at the white house in washington, dc, on june 12, 2018'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_4.jpg', 'text': 'there is a man and woman dancing in front of a crowd'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_182.jpg', 'text': 'a man holding up a sign for john james for u s senate'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_202.jpg', 'text': 'an aerial view of a farm with a lake in the background'}
+{'img_id': 'twitter_stream_2018_06_11_15_0_2_3.jpg', 'text': 'two people are standing next to each other in front of a black background'}
+{'img_id': 'twitter_stream_2018_06_11_18_0_2_91.jpg', 'text': 'a red racing car on a race track'}
+{'img_id': 'twitter_stream_2018_06_11_15_0_2_70.jpg', 'text': 'a screenshot from the video game devil may cry 5'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_87.jpg', 'text': 'a screen shows russian president person delivering a speech during a meeting in the kremlin in moscow, russia, march 1, 2019 reuters'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_83.jpg', 'text': 'a man is playing golf in his living room'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_181.jpg', 'text': 'some sketches of different types of monsters'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_44.jpg', 'text': 'chelsea manager antonio conte speaks during a press conference'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_6.jpg', 'text': 'a man and woman are walking through an airport'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_149.jpg', 'text': 'two women are standing in front of a staircase'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_242.jpg', 'text': 'avengers age of ultron 2015 dvdrip x264 ac3 5 1 hindi eng subtitles'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_180.jpg', 'text': 'person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_14.jpg', 'text': 'there is a man and a woman in a kitchen'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_36.jpg', 'text': 'two men standing next to each other holding a plaque'}
+{'img_id': 'twitter_stream_2018_07_23_24_0_2_83.jpg', 'text': 'two soccer players with a quote on the side'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_129.jpg', 'text': 'two basketball players sitting on the bench at a game'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_166.jpg', 'text': 'two people standing in front of a large screen with graphs on it'}
+{'img_id': 'twitter_stream_2018_09_04_2_3_18.jpg', 'text': 'two news anchors are shown on the screen'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_95.jpg', 'text': 'a man and woman are holding a rabbit'}
+{'img_id': 'twitter_stream_2018_10_10_7_0_2_203.jpg', 'text': 'a close up of a person in a suit'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_14.jpg', 'text': 'a screenshot of the twitter app on an android phone'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_142.jpg', 'text': 'three people holding a purple, white and green flag'}
+{'img_id': 'twitter_stream_2018_07_23_10_0_2_129.jpg', 'text': 'a woman sitting at a table with a man taking a picture of her'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_195.jpg', 'text': 'a black and white photo of people walking down the street'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_35.jpg', 'text': 'a close up of a moth on a window sill'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_73.jpg', 'text': 'three women are wearing different outfits and one is holding a microphone'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_49.jpg', 'text': 'the empire state building is lit up at night'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_74.jpg', 'text': "an image of a white background with the words 'image not found'"}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_51.jpg', 'text': 'two men and a woman are sitting on a couch'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_193.jpg', 'text': 'new orleans saints running back person rushes for a touchdown against the carolina panthers during the first half of an nfl football game in new orleans, sunday, oct 20, 2019 ap photo person'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_13.jpg', 'text': 'a man wearing a white hat and glasses is raising his fist'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_56.jpg', 'text': 'an illustration of a man in the jungle'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_196.jpg', 'text': 'an aerial view of lava flowing from a volcano'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_105.jpg', 'text': 'a black and white photo of three men talking'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_78.jpg', 'text': 'a sandstorm engulfs the city of kabul, afghanistan, on march 25, 2019'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_24.jpg', 'text': 'a woman wearing a hijab is interviewed on television'}
+{'img_id': 'twitter_stream_2018_06_11_14_0_2_32.jpg', 'text': 'there is a walkway that leads to a building'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_202.jpg', 'text': 'a man with a mustache is taking a selfie'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_12.jpg', 'text': 'a black man wearing a mask on his face'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_10.jpg', 'text': 'a man holding a pair of scissors in his hand'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_108.jpg', 'text': "a screenshot of dan harmon's tweet on indie wired"}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_48.jpg', 'text': 'the adidas ultraboost running shoe in black and white'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_5.jpg', 'text': 'an african american woman wearing a black jacket and purple shirt'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_119.jpg', 'text': 'a man in a graduation gown standing in front of a stadium'}
+{'img_id': 'twitter_19_31_1_30.jpg', 'text': 'an animal that is laying on a table with its mouth open'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_230.jpg', 'text': 'two men sitting next to each other at a basketball game'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_6.jpg', 'text': 'an image of a man with glasses on his face and the date november 17, 1944'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_150.jpg', 'text': 'the jerusalem post breaking news'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_121.jpg', 'text': 'a man in a suit holding a microphone'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_73.jpg', 'text': 'there is a clown standing in a kitchen'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_162.jpg', 'text': 'a man is standing in a parking lot wearing a sweatshirt'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_31.jpg', 'text': 'a man standing in front of a table full of food'}
+{'img_id': 'twitter_19_31_17_93.jpg', 'text': 'a woman with blonde hair and blue polka dots on her shirt'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_218.jpg', 'text': 'an image of a stage at night with people in front of it'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_190.jpg', 'text': 'a group of people sitting next to each other'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_131.jpg', 'text': 'a black and white photo of a woman doing yoga on the beach'}
+{'img_id': 'twitter_19_31_2_29.jpg', 'text': 'an image of a referee giving a thumbs up'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_195.jpg', 'text': 'a fountain in the middle of a city with a bridge in the background'}
+{'img_id': 'twitter_stream_2018_07_23_22_0_2_153.jpg', 'text': 'two comic book characters fighting in front of a city'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_52.jpg', 'text': "a close up view of a woman's pussy"}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_229.jpg', 'text': 'a man in a white shirt holding a scarf'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_34.jpg', 'text': 'a political cartoon depicting two men in suits and ties'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_138.jpg', 'text': 'there is a drawing of a cloudy sky'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_235.jpg', 'text': 'a football player walks off the field'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_74.jpg', 'text': 'a person is holding a dough ball in their hands'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_234.jpg', 'text': 'a group of people protesting in front of a building'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_229.jpg', 'text': 'the vodafone logo on a red background'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_91.jpg', 'text': "a screenshot of steve reed's twitter account"}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_40.jpg', 'text': 'a woman in a bikini holding a green bottle'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_45.jpg', 'text': 'a flyer for the veritas 2018 event'}
+{'img_id': 'twitter_stream_2018_07_23_5_0_2_89.jpg', 'text': 'a man holding a bouquet of flowers next to another man'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_134.jpg', 'text': 'a black and white photo of a woman holding a bow'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_1.jpg', 'text': 'avengers age of ultron robert downey jr'}
+{'img_id': 'twitter_19_31_5_15.jpg', 'text': 'a black and white photo of a man in a vest'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_80.jpg', 'text': 'a man with curly hair and glasses in front of a city skyline'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_202.jpg', 'text': 'a man in a blue outfit holding a purse'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_93.jpg', 'text': 'a group of musicians performing on stage'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_90.jpg', 'text': 'a man is laying on a bed with his dog'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_148.jpg', 'text': 'president donald trump speaks at a rally in phoenix, arizona, on aug 22, 2017'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_40.jpg', 'text': 'a woman is smiling while using a tablet'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_117.jpg', 'text': 'supporters clash with riot police during the match'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_56.jpg', 'text': 'a character from the video game smash bros'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_10.jpg', 'text': 'taylor swift and nicki minaj attend the 2015 billboard music awards at mgm grand garden arena on may 17, 2015 in las vegas, nevada'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_125.jpg', 'text': 'a man giving a speech at a podium'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_31.jpg', 'text': 'a man is posing with two young girls'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_81.jpg', 'text': 'a group of men posing for a photo'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_49.jpg', 'text': 'a soccer player with his hands up in the air'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_31.jpg', 'text': 'a movie poster for the favourite'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_225.jpg', 'text': 'a reflection of a person in a mirror'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_92.jpg', 'text': 'two men are smiling and pointing at the camera'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_154.jpg', 'text': 'a man and woman sitting on a bench smoking cigarettes'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_59.jpg', 'text': 'a man in a suit holding a microphone'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_2156.jpg', 'text': 'a bald man wearing a tuxedo and bow tie'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_72.jpg', 'text': 'an image of a newspaper with the words fonda speaks to vietnam veterans at anti war rally'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_243.jpg', 'text': 'there is a lot of smoke in the air'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_223.jpg', 'text': 'there is a red balloon in the sky over a canal'}
+{'img_id': 'twitter_19_31_17_40.jpg', 'text': 'an emotional night in nantes'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_179.jpg', 'text': "a cartoon with the caption, my nutella chocolate princess you're not ready for this vanilla shake to explore your ethnic walls"}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_10.jpg', 'text': 'a group of football players are practicing on the field'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_6.jpg', 'text': 'two basketball players hugging each other on a tv screen'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_107.jpg', 'text': 'a man with a beard and a birthday greeting'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_104.jpg', 'text': 'a man giving a speech at a podium'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_232.jpg', 'text': 'a black and white photo of people riding in the back of a car'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_184.jpg', 'text': 'a man is feeding a baby with a bottle'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_208.jpg', 'text': 'a man and woman are posing for a picture'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_212.jpg', 'text': 'a man in a suit and tie sits in a chair'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_33.jpg', 'text': 'arizona coach sean miller reacts during the first half of an ncaa college basketball tournament first round game against buffalo, friday, march 17, 2017, in phoenix'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_14.jpg', 'text': 'a thank you page with three people on it'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_77.jpg', 'text': 'an old man playing a banjo on the cover of a video game'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_47.jpg', 'text': 'two people posing for a picture with their hands in the shape of a peace sign'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_2.jpg', 'text': 'there is a man with a beard and mustache'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_117.jpg', 'text': 'kanye west is smiling as he stands on stage'}
+{'img_id': 'twitter_19_31_8_22.jpg', 'text': 'a toddler lifts a dumbbell over her head'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_158.jpg', 'text': 'a collage of korean celebrities with lollipops in their mouths'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_220.jpg', 'text': 'two pictures of football players with the words happy birthday and hakers for the memories'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_74.jpg', 'text': 'a man wearing a motor city shirt and sunglasses'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_55.jpg', 'text': 'a pop vinyl figure of charlie brown in a blue outfit'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_24.jpg', 'text': 'president donald trump waves to supporters as he arrives at a campaign rally in council bluffs, iowa, thursday, oct 10, 2019'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_75.jpg', 'text': 'a large group of people standing in line'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_75.jpg', 'text': 'taylor swift accepts the artist of the year award at the 2019 billboard music awards'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_61.jpg', 'text': 'there is an image of a man with large hands covering his face'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_50.jpg', 'text': 'black and white design on the side of a building'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_175.jpg', 'text': 'tesla co-founder and ceo elon musk is dating grimes'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_22.jpg', 'text': 'a baltimore ravens football player catches the ball'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_5.jpg', 'text': 'a large group of people in a stadium'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_164.jpg', 'text': "us president donald trump speaks at the national rifle association's annual meeting in dallas, texas, on may 4, 2018"}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_247.jpg', 'text': 'my hero academia quotes, anime quotes, anime manga, anime wallpapers, anime art, anime characters, anime images, anime wallpaper, anime wallpapers'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_123.jpg', 'text': 'there are two chocolate ice cream dispensers'}
+{'img_id': 'twitter_stream_2018_10_10_24_0_2_17.jpg', 'text': 'there is an image of a cartoon character holding a sword'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_237.jpg', 'text': 'a man hugging a woman at an outdoor event'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_36.jpg', 'text': 'two photos of a young man with a crown on his head'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_42.jpg', 'text': 'a cartoon depicting the white house on fire'}
+{'img_id': 'twitter_stream_2018_08_07_24_0_2_213.jpg', 'text': 'there is no image'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_44.jpg', 'text': 'a group of people in orange suits on stage'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_177.jpg', 'text': 'labyrinth the war on terror, 2001-2007'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_214.jpg', 'text': 'an amplifier that is black and has a blue light on it'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_21.jpg', 'text': 'the vegan guide to winnipeg'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_111.jpg', 'text': 'there is a large building with a flag on top of it'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_46.jpg', 'text': 'a basketball player in a duke jersey holding a basketball'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_71.jpg', 'text': 'a person wearing white and orange air jordan sneakers'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_226.jpg', 'text': 'a man wearing a black shirt is standing in front of a building'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_13.jpg', 'text': 'a close up of the carvings on the top of the pillar'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_70.jpg', 'text': 'a map of africa with a blue dot in the middle'}
+{'img_id': 'twitter_stream_2018_08_07_17_0_2_125.jpg', 'text': 'there is a pier that goes out into the ocean'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_217.jpg', 'text': 'there are two dogs sitting in front of a door'}
+{'img_id': 'twitter_stream_2019_04_30_2_3_12.jpg', 'text': 'an image of a cartoon cat in a room'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_20.jpg', 'text': 'a man in a vest and tie is on the cover of a magazine'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_37.jpg', 'text': 'the golden state warriors and the los angeles clippers will meet in the 2019 nba finals'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_46.jpg', 'text': 'a group of men in suits and ties walking behind a black car'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_134.jpg', 'text': 'there are two boys standing next to each other'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_36.jpg', 'text': 'congress ends up with an egg on its face again on rafale supreme court of india, supreme court, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of india, supreme court of ind'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_46.jpg', 'text': 'a cartoon character with red hair and white shirt'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_68.jpg', 'text': 'a man and a woman holding hands on a set of stairs'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_122.jpg', 'text': 'a man and a woman eating ice cream'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_191.jpg', 'text': 'or 100 characters a video of the crash at the indy 500 on may 27, 2012'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_108.jpg', 'text': 'a man swinging a tennis racket at a ball'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_32.jpg', 'text': 'a tintin adventure at the mountains of madness'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_107.jpg', 'text': 'a bald man is climbing up a tree'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_18.jpg', 'text': "a screenshot of ben billions' instagram account"}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_221.jpg', 'text': 'nicki minaj at the 2018 met gala'}
+{'img_id': 'twitter_stream_2018_10_10_7_0_2_116.jpg', 'text': 'there is a large airplane sitting on the tarmac'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_173.jpg', 'text': 'eco depot is your one-stop shop for all your plumbing and electrical needs'}
+{'img_id': 'twitter_stream_2018_09_04_14_0_2_168.jpg', 'text': 'a man is sitting on the ground next to another man'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_4.jpg', 'text': 'a man with a beard and sunglasses sitting in the stands at a baseball game'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_50.jpg', 'text': 'a group of men standing on rocks in front of the ocean'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_215.jpg', 'text': "the cover of del amitri's top tracks"}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_177.jpg', 'text': 'an image of a man with blonde hair and a black jacket'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_179.jpg', 'text': 'indian actress deepika padukone poses in a white shirt'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_189.jpg', 'text': 'a young boy in a locker room with his arms outstretched'}
+{'img_id': 'twitter_stream_2018_09_04_14_0_2_208.jpg', 'text': 'a man sitting at a table with his arms crossed in front of him'}
+{'img_id': 'twitter_stream_2018_05_07_21_0_2_64.jpg', 'text': 'there is a basketball game being played in front of a crowd'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_20.jpg', 'text': 'a smiling blonde woman in a black and white striped shirt'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_206.jpg', 'text': 'a man dunking a basketball in front of a crowd'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_79.jpg', 'text': 'there is a large cruise ship in the water'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_230.jpg', 'text': 'a black and white photo of a soccer player'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_81.jpg', 'text': 'a cartoon monkey talking on the phone'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_121.jpg', 'text': 'a tribute to tony sparano'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_28.jpg', 'text': 'two people are standing in front of a tv screen'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_15.jpg', 'text': 'a man in a suit and tie standing in front of american flags'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_39.jpg', 'text': 'a man is taking a selfie with another man'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_94.jpg', 'text': 'a person riding a motorcycle on a road'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_190.jpg', 'text': 'there is a man standing next to a dog'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_118.jpg', 'text': 'the daox logo on a purple background'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_98.jpg', 'text': 'there is a tiger laying down on a bench'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_18.jpg', 'text': 'a person is standing on stage in a purple shirt'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_55.jpg', 'text': 'an advertisement in urdu language'}
+{'img_id': 'twitter_stream_2018_05_07_2_0_2_166.jpg', 'text': 'a black and white photo of a man and woman holding a baby'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_44.jpg', 'text': 'there is a pink light shining in the dark'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_147.jpg', 'text': 'a woman with long black hair is being photographed'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_125.jpg', 'text': 'there is a person wearing a hat'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_12.jpg', 'text': 'an aerial view of the colosseum lit up in rainbow colors'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_17.jpg', 'text': 'a man with a soccer jersey clapping his hands'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_22.jpg', 'text': 'a page with text on it'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_148.jpg', 'text': 'a screenshot of the search results for jacqueline mason'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_42.jpg', 'text': 'us vice president mike pence gestures as he speaks during a news conference at the us embassy in mexico city, mexico, march 13, 2019 reuters'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_219.jpg', 'text': 'an anime character holding a bouquet of flowers'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_204.jpg', 'text': 'hurricane nate makes landfall in biloxi, mississippi on october 7, 2017'}
+{'img_id': 'twitter_stream_2018_06_11_15_0_2_137.jpg', 'text': 'a group of people standing in front of a building with buckets and bags'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_174.jpg', 'text': 'a man is making the peace sign with his hand'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_33.jpg', 'text': 'a satellite image of typhoon haiyan in the philippines on november 8, 2013'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_12.jpg', 'text': 'a man in an orange turban standing at a podium'}
+{'img_id': 'twitter_stream_2018_05_07_7_0_2_86.jpg', 'text': 'a woman is taking a selfie with her phone'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_1.jpg', 'text': 'a video camera is set up in front of a group of people'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_51.jpg', 'text': 'there is a very tall building with a lot of windows'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_130.jpg', 'text': 'a view of the wing of an airplane'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_30.jpg', 'text': 'a group of people in pink shirts posing for a picture'}
+{'img_id': 'twitter_19_31_23_11.jpg', 'text': 'two rugby players are standing on the field'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_203.jpg', 'text': 'two people kissing each other while wearing helmets'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_207.jpg', 'text': 'there is a man standing on top of a hill'}
+{'img_id': 'twitter_stream_2018_09_04_0_0_2_193.jpg', 'text': 'a woman in a bikini standing next to a pool'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_242.jpg', 'text': 'a man with a beard wearing a baseball cap'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_221.jpg', 'text': 'beyonce on the tonight show'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_188.jpg', 'text': 'a group of men wearing yellow suits and ties'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_47.jpg', 'text': 'three soccer players in action on the field'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_14.jpg', 'text': 'a quote from jeff bezos about warren buffet'}
+{'img_id': 'twitter_19_31_17_21.jpg', 'text': 'there is a picture of an anime character'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_173.jpg', 'text': 'there is a big house with trees in front of it'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_92.jpg', 'text': 'there is a large white cloud in the sky'}
+{'img_id': 'twitter_stream_2018_09_04_9_0_2_135.jpg', 'text': 'a group of people in a room'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_123.jpg', 'text': "a view of saturn's moon dione taken by the cameras on nasa's voyager 1 spacecraft in 1980"}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_105.jpg', 'text': 'the boondocks, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_85.jpg', 'text': 'an image of a man and woman sitting at a dinner table'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_136.jpg', 'text': 'kim jong un in singapore for summit with donald trump'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_52.jpg', 'text': 'a man in a wheelchair is being kissed by another man'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_108.jpg', 'text': 'a group of people standing around a cake'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_29.jpg', 'text': 'a cartoon of two people sitting on a couch'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_92.jpg', 'text': 'there is a bus driving down the street'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_179.jpg', 'text': 'a man in a suit is taking a selfie'}
+{'img_id': 'twitter_19_31_14_97.jpg', 'text': 'a close up of a bunch of wires'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_32.jpg', 'text': 'a man giving a speech at an outdoor event'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_153.jpg', 'text': 'bruce springsteen wins 2018 special tony award'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_118.jpg', 'text': 'a newspaper article with the words when the rss took the battle to secular forces'}
+{'img_id': 'twitter_stream_2018_07_23_22_0_2_198.jpg', 'text': 'a man in a suit standing in a living room'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_73.jpg', 'text': 'the logo for the 2013 edition of the electronic entertainment expo, or e3, is displayed on a screen at the los angeles convention center in los angeles, tuesday, june 5, 2012'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_170.jpg', 'text': "nigeria's vice president yemi osinbajo speaks during a news conference in abuja, nigeria, wednesday, feb 12, 2020 photo ap"}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_30.jpg', 'text': 'a man and woman shaking hands in front of flags'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_63.jpg', 'text': 'a man with a mustache is looking off into the distance'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_242.jpg', 'text': 'a man in a green jersey with an arrow pointing to his head'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_147.jpg', 'text': 'a letter from the president of kawarry hospital'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_209.jpg', 'text': 'four pictures of a man with his hands on his face'}
+{'img_id': 'twitter_stream_2018_06_11_27_0_2_5.jpg', 'text': 'four women are posing for a photo together'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_195.jpg', 'text': 'lebron wants to groom luz'}
+{'img_id': 'twitter_stream_2018_08_07_18_0_2_78.jpg', 'text': 'a man and a woman sitting in the back seat of a car'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_104.jpg', 'text': 'a man wearing a white jacket and blue pants standing on rocks'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_43.jpg', 'text': 'there is a large billboard on the side of the road'}
+{'img_id': 'twitter_stream_2018_09_04_0_0_2_62.jpg', 'text': 'a group of people on stage in front of a yellow sign'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_234.jpg', 'text': 'a blurry image of a woman with her hand up in the air'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_59.jpg', 'text': 'an image of a car with people in it'}
+{'img_id': 'twitter_stream_2018_06_11_16_0_2_130.jpg', 'text': 'an image of a basketball player holding a ball'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_45.jpg', 'text': 'a woman wearing glasses and a purple turban'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_43.jpg', 'text': 'a group of young people posing for a photo'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_206.jpg', 'text': 'a group of people in blue shirts dancing in a gym'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_65.jpg', 'text': 'wikileaks founder julian assange speaks from the balcony of the ecuadorean embassy in london'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_136.jpg', 'text': 'there is a game board with cards on it'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_93.jpg', 'text': 'there is a man and a woman standing next to each other'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_151.jpg', 'text': 'an image of michael jackson posing with an alien'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_186.jpg', 'text': 'a political cartoon depicting an elephant with a sign that says i know the gop has a leg up on the moderates'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_207.jpg', 'text': 'star wars the clone wars'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_130.jpg', 'text': 'an image of a man standing at a podium with microphones in front of him'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_182.jpg', 'text': 'two young children are standing in front of a tent'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_111.jpg', 'text': 'a model wearing an african costume walks down the runway'}
+{'img_id': 'twitter_stream_2018_05_07_2_0_2_91.jpg', 'text': 'a man wearing a blue jacket and black pants'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_8.jpg', 'text': 'a close up of donald trump speaking at a podium'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_122.jpg', 'text': 'a woman wearing sunglasses and a bow'}
+{'img_id': 'twitter_19_31_9_30.jpg', 'text': 'an image of jensen season 9'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_164.jpg', 'text': 'a man is taking a selfie in the bathroom'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_34.jpg', 'text': 'two men fighting in a video game'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_26.jpg', 'text': 'there is a lighthouse with a cloudy sky in the background'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_22.jpg', 'text': 'two men are sitting at a table'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_55.jpg', 'text': 'three men wearing sunglasses sit on a couch'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_145.jpg', 'text': 'a sign on the window of a waffle house'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_0.jpg', 'text': 'there is a yellow caution tape on the street'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_38.jpg', 'text': 'an image of a cartoon character with goggles on'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_72.jpg', 'text': 'a skeleton laying in a hammock on a black background'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_95.jpg', 'text': 'a close up of a carving on a wall'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_163.jpg', 'text': 'there is a man wearing sunglasses and a hat'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_142.jpg', 'text': 'there is a dog laying in the water'}
+{'img_id': 'twitter_stream_2018_09_04_14_0_2_184.jpg', 'text': 'a sexy blonde woman in white stockings and high heels posing on a desk'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_17.jpg', 'text': 'there is an empty room with paintings on the wall'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_189.jpg', 'text': 'thanos in avengers infinity war'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_181.jpg', 'text': 'a toy robot standing next to an apple'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_31.jpg', 'text': 'a spongebob squarepants cartoon character peeking through a door'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_58.jpg', 'text': "a close up of a person's face with jewelry on it"}
+{'img_id': 'twitter_stream_2018_10_10_2_3_43.jpg', 'text': 'a man in a brown jacket and black pants posing for a picture'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_93.jpg', 'text': 'an illustration of a skeleton in a boat'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_202.jpg', 'text': 'cities with highest level of ev charging points'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_148.jpg', 'text': 'taylor swift performs during the 2015 iheartradio music festival at mgm grand garden arena in las vegas on sunday, sept 20, 2015'}
+{'img_id': 'twitter_stream_2018_08_07_17_0_2_181.jpg', 'text': 'a painting of people walking with umbrellas'}
+{'img_id': 'twitter_19_31_0_8.jpg', 'text': 'a black and white photo of a man and woman riding bicycles'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_40.jpg', 'text': 'a woman with long black hair and red lipstick posing in front of a red background'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_74.jpg', 'text': 'a group of people posing in front of a sign that says treat people with one'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_182.jpg', 'text': 'a black and white photo of a man on stage'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_39.jpg', 'text': 'miami heat vs boston celtics 2019 nba playoffs game 4 highlights'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_92.jpg', 'text': 'a man in a suit pointing at something'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_74.jpg', 'text': 'a young man singing into a microphone'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_67.jpg', 'text': 'a row of tables and umbrellas in front of a building'}
