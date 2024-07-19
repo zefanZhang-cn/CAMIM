@@ -19,7 +19,7 @@ To run the codes, you need to install the requirements for [RE](requirements.txt
   
   You need to download three kinds of data to run the code.  
   > 1.The raw images of [MNRE](https://github.com/thecharm/MNRE), many thanks.  
-  > 2.The visual objects from the raw images from [HVPNeT](), many thanks.  
-  > 3.The generated images of [MNRE]() from TMR, many thanks.
+  > 2.The visual objects from the raw images from [HVPNeT](https://github.com/zjunlp/HVPNeT), many thanks.  
+  > 3.The generated images from [TMR](https://github.com/thecharm/TMR), many thanks.
   > 4.Our  generated [Captions]().
   Then you should put folders ``img_org``,  ``img_vg``,  ``diffusion_pic``,  ``caption``  under the "./data" path.
