@@ -11,3 +11,10 @@ The framework of the proposed Caption-Aware MultiModal Relation Extraction Netwo
 
 ## Required Environment
 To run the codes, you need to install the requirements for [RE](requirements.txt).
+
+    pip install -r requirements.txt
+
+## Data Preparation
+* MNRE
+  
+  You need to download three kinds of data to run the code.
