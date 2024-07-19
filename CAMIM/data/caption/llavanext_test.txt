@@ -1,0 +1,915 @@
+{'img_id': 'twitter_stream_2019_03_10_3_0_2109.jpg', 'text': '\nA group of people in a stadium, some are cheering and one is holding up a finger.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_208.jpg', 'text': '\nThe image features a graphic with the text "WORLD NEWS" in bold letters, set against a background that includes a stylized map of the world and a digital pattern.'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_63.jpg', 'text': '\nA man with a surprised expression on his face.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_203.jpg', 'text': '\nA person standing on stage with their arms outstretched, wearing a dark outfit.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_156.jpg', 'text': '\nA woman with short hair smiling at her reflection in a mirror.'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_188.jpg', 'text': '\nA young raccoon standing in shallow water, drinking.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_29.jpg', 'text': '\nA graphic design with text "The Prime Event Orlando" and a stylized depiction of a city skyline and palm trees.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_233.jpg', 'text': '\nThe image features a quote in white text on a black background, set against a vibrant, abstract background with swirling patterns in shades of green and purple.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_158.jpg', 'text': '\nA stylized portrait of a person with a contemplative expression, set against a dark background.'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_27.jpg', 'text': '\nA baseball player celebrating a win with his teammates.'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_230.jpg', 'text': '\nA woman with blonde hair and a sequined dress smiling on stage.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_39.jpg', 'text': '\nA soldier in uniform standing at a podium, speaking to an audience of fellow soldiers.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_102.jpg', 'text': '\nThe image is a screenshot of a newspaper article in Bengali. It features a photo of a man on the left side, and the text is divided into sections with headings. The content appears to be related to a political or social issue, as indicated by the bold text at the top.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_198.jpg', 'text': "\nThe image contains a block of text, which is a quote from Fred Ryan, CEO and Publisher of the Washington Post. The text discusses the passing of Jamal Khashoggi, a Saudi journalist, and the Saudi Consulate's involvement in his death. It mentions that the Saudi and Turkish governments have not provided satisfactory answers regarding Jamal's fate and that the Saudi Consulate has been asked to show evidence of his death. The quote also mentions that Jamal's family has been called for answers and that silence, denials, and delays are not acceptable. The quote ends with a call to know the truth."}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_185.jpg', 'text': '\nThree young adults standing on stage, smiling, with one holding a microphone. They are dressed in formal attire.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_204.jpg', 'text': '\nA room with a desk, chair, and a window. The desk has a computer on it.'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_197.jpg', 'text': '\nThe image shows six magazine covers featuring the face of Vladimir Putin in various contexts and styles. The covers are from Time, The Economist, News, and others, each with a different headline and design.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_168.jpg', 'text': '\nA painting of a vase with flowers on a table.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_1.jpg', 'text': '\nA satellite image showing a weather system over the Great Plains of the United States.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_90.jpg', 'text': '\nA cityscape with industrial buildings, smokestacks, and a river with boats.'}
+{'img_id': 'twitter_19_31_0_13.jpg', 'text': '\nA series of images showing a character in a video game using a blue magical ability.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_144.jpg', 'text': '\nAn animated character, a young boy with spiky hair, wearing a white apron and blue shoes, sitting on a red roof.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_59.jpg', 'text': '\nA man in a black jacket and beanie sitting in a room with a patterned wall.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_181.jpg', 'text': '\nA man is smiling while another applies makeup to his face. A third person, wearing glasses, is also present.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_12.jpg', 'text': '\nFour men standing in front of a metal fence, posing for a photo.'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_127.jpg', 'text': '\nA group of seven men in black suits and ties standing on a red carpet.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_105.jpg', 'text': '\nA person in ancient armor stands on a rock, holding a bird of prey.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_128.jpg', 'text': '\nThe image is a solid black color with no visible content.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_177.jpg', 'text': '\nThe image is a table with the heading "Southern European LSps" and "HQ Country" columns. It lists five companies with their respective acronyms and the country they are headquartered in.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_54.jpg', 'text': '\nA group of people sitting around a table with drinks and food.'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_186.jpg', 'text': '\nA police van is driving down a street with other cars.'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_15.jpg', 'text': '\nA painting of three nude women standing in a landscape, with one holding a cloth.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_174.jpg', 'text': '\nA person with a hat and a peace sign, standing next to another person with orange hair.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_68.jpg', 'text': '\nA man with a beard and mustache, wearing a suit and white shirt, standing in front of a green and red striped background.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_229.jpg', 'text': '\nTwo soccer players on a field, one in a blue jersey and the other in a white jersey, looking at each other.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_217.jpg', 'text': '\nA stylized, animated character with large goggles, blue hair, and a white and blue outfit.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_60.jpg', 'text': '\nA person in a blue robe stands in front of a large fire on a rocky cliff.'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_107.jpg', 'text': '\nA woman smiling with a quote about her career as a Korean-American living between Korea and the US.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_54.jpg', 'text': '\nA bright light shines through a cave entrance, illuminating a deep blue river.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_115.jpg', 'text': '\nA soccer player in yellow shorts and black jersey is kicking a ball on a field.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_78.jpg', 'text': '\nA blue banner with white text on it. The text reads "On this date in 1986, Ferris and Cameron cut gym to see the Cubs."'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_63.jpg', 'text': '\nA woman with brown hair and a black top with white embroidery. She is looking directly at the camera with a slight smile.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_166.jpg', 'text': '\nA man in a white shirt standing in front of an Adidas logo.'}
+{'img_id': 'twitter_stream_2018_05_07_2_0_2_159.jpg', 'text': '\nA man in a black and red outfit is dunking a basketball through a hoop.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_34.jpg', 'text': '\nThe image contains a quote from Bloomberg stating that Nestle agrees to pay Starbucks $7.15 billion as part of a global marketing pact.'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_48.jpg', 'text': '\nA group of football players on a field, some with helmets and pads, others with equipment bags.'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_172.jpg', 'text': "\nA black and white sketch of a muscular man with a bear's head, smiling and looking up."}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_30.jpg', 'text': '\nA large fish swimming in a body of water with a yellow object in its mouth.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_172.jpg', 'text': '\nA basketball player in a blue jersey with an orange headband, holding a basketball, and another player in a white jersey with a tattooed arm reaching for the ball.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_31.jpg', 'text': '\nA group of people, including a police officer, hugging and comforting each other in a crowd.'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_74.jpg', 'text': "\nA graphic with a man's face and logos for two basketball teams, the Lakers and the Warriors, with a date and time for a game."}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_56.jpg', 'text': '\nTwo anthropomorphic animal characters, one red and white, the other red and black, with horns and sharp teeth, appear to be in a friendly interaction.'}
+{'img_id': 'twitter_stream_2018_09_04_9_0_2_158.jpg', 'text': '\nA man in a suit and glasses standing in front of a panel with a red and gold design, smiling. Behind him, two people are seated, one of whom is smiling.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_193.jpg', 'text': '\nAn illustration with a quote from 1 John 4:1 ESV, depicting a scene with a man in a garbage truck and three men on podiums.'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_175.jpg', 'text': '\nA woman in a black jacket and shorts standing in front of a purple sign with the word "Lollapalooza" on it.'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_162.jpg', 'text': '\nA woman is sleeping in a chair with a sandwich and a cup of ice cream on a tray in front of her.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_219.jpg', 'text': '\nA man with curly hair and a black jacket, smiling, with a text overlay that reads "Don\'t live in Indonesia."'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_28.jpg', 'text': '\nTwo women sitting on a couch, smiling, with a large screen behind them showing a group of people.'}
+{'img_id': 'twitter_stream_2018_07_23_22_0_2_52.jpg', 'text': '\nA person standing in the middle of a crosswalk, talking on a phone.'}
+{'img_id': 'twitter_stream_2018_09_04_11_0_2_94.jpg', 'text': '\nA young man wearing glasses, a baseball cap, and a sweatshirt with the word "guess" on it. He is smiling and has his hand out.'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_145.jpg', 'text': '\nA person standing on stage with their arms raised, illuminated by stage lights.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_191.jpg', 'text': '\nA military vehicle on a dirt road with a soldier standing nearby.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_67.jpg', 'text': '\nA cartoon depicting a man pulling a rope with a shield labeled "FSP" and another labeled "SPA" on it, while soldiers with guns fire at him.'}
+{'img_id': 'twitter_stream_2018_06_11_17_0_2_118.jpg', 'text': '\nA promotional poster for a boxing match between Christopher Diaz and Masayuki Ito.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_6.jpg', 'text': '\nA man and woman in a crowd, smiling and taking a selfie. The man is wearing a patterned shirt.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_83.jpg', 'text': '\nA letter of resignation from a Senate Minority Leader.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_150.jpg', 'text': '\nThe image contains a poem with a melancholic tone, describing the passing of time and the end of a relationship.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_27.jpg', 'text': '\nA digital interface with a purple and yellow glowing circle and a figure inside, surrounded by blue lines and graphs.'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_91.jpg', 'text': '\nA blurry image of a person with a red tint, holding a remote control.'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_72.jpg', 'text': '\nA side-by-side comparison of a real person and an animated character, both with similar facial features.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_95.jpg', 'text': '\nA man in a white shirt and tie with his mouth open, possibly shouting or laughing.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_140.jpg', 'text': '\nAerial view of a large, circular, multi-story building with a red roof, surrounded by greenery and a pool.'}
+{'img_id': 'twitter_19_31_3_11.jpg', 'text': '\nThe image contains text that appears to be an event invitation. It reads: "6pm, 31 January Grand Central 29-30 Surrey Street Brighton BN1 3PA Your host: Joe Jeffries @joefeffries".'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_69.jpg', 'text': '\nA man in a suit standing on a street corner, holding a blue folder, with a text overlay that reads "TAXI Dublin Please!"'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_153.jpg', 'text': '\nA person wearing a gray hoodie with a necklace. The person is indoors with a blurred background.'}
+{'img_id': 'twitter_19_31_9_5.jpg', 'text': '\nA serene scene of a traditional Japanese garden with a pagoda, stone lanterns, and a stone path leading to a temple.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_214.jpg', 'text': '\nA man stands with a bicycle in a train station, waiting for a train.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_98.jpg', 'text': '\nA rocky beach with a body of water and a dramatic sky.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_167.jpg', 'text': '\nThe image contains a text overlay on a background of cherry blossoms. The text is in Indonesian and appears to be a quote or a passage from a book or article. The cherry blossoms are in focus, with their white petals and green leaves creating a soft, natural backdrop for the text.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_12.jpg', 'text': "\nThe image features a map of Pakistan with a star on the country's flag, accompanied by a statement about Pakistan's involvement in the failures of Western policy in Afghanistan."}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_20.jpg', 'text': '\nA handgun with a map of Florida in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_56.jpg', 'text': '\nA group of men in blue sports uniforms celebrating, with one man in a striped shirt in the center.'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_68.jpg', 'text': '\nThe image is an album cover with a close-up of a person\'s face, predominantly in shadow, with a white bandana and a serious expression. The text "JADAKISS" is prominently displayed at the top in large white letters. Below the face, the text "KISS THA GAME GOODBYE" is written in smaller white letters, and at the bottom, there is a parental advisory label indicating explicit content. The background is dark with a textured appearance, giving it a gritty look.'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_28.jpg', 'text': '\nA man with white hair and a beard, wearing a beige suit, standing in a dimly lit room with windows.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_164.jpg', 'text': '\nA blurry image of a soccer player in a blue and white uniform running on a field.'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_59.jpg', 'text': '\nA blurry image of a man in a white jersey with his hand raised, surrounded by other people, with a caption that reads "MODRIC NOT GOING ANYWHERE."'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_27.jpg', 'text': '\nA screenshot of a social media post with a quote about gender roles.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_118.jpg', 'text': '\nA tunnel with a brick wall and a sign indicating a bike lane.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_49.jpg', 'text': '\nA person in a white suit with flared pants, standing in a room with a brick wall and a black curtain.'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_129.jpg', 'text': '\nA man in a white robe and hat speaking into a microphone at a podium.'}
+{'img_id': 'twitter_stream_2018_08_07_25_0_2_207.jpg', 'text': '\nThe image shows a music streaming interface with the album "Twenty One Pilots" and the song "Levitate" highlighted. The release date and length of the song are also displayed.'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_15.jpg', 'text': '\nA chart showing the expansion of Medicaid eligibility for diabetes drugs, with a focus on states that did not expand eligibility.'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_152.jpg', 'text': '\nA satellite image of a glacier with a color-coded map overlay showing temperature changes over time.'}
+{'img_id': 'twitter_19_31_13_55.jpg', 'text': '\nA man in a black jacket standing in a crowd of people at a sporting event.'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_36.jpg', 'text': '\nA man in a blue and red superhero suit with a star on the chest.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_126.jpg', 'text': '\nA man standing in front of a large image of a planet.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_6.jpg', 'text': '\nThe image is a black and white abstract representation of a spiral or a series of connected dots.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_77.jpg', 'text': '\nA castle reflected in a lake, surrounded by mountains and fog.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_11.jpg', 'text': '\nA cricket match in progress on a grass field. Players in red and blue uniforms. One player is batting, another is bowling, and a wicketkeeper is behind the stumps.'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_10.jpg', 'text': '\nThe image shows a group of women with expressive faces, one of whom is shouting. The text "INDIAN WOMEN SAY #METOO" is overlaid on the image, indicating a social media campaign related to the #MeToo movement.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_208.jpg', 'text': "\nA collage of photos featuring a family and a Make-A-Wish Arizona event, with a focus on the Macy's Thanksgiving Day Parade."}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_164.jpg', 'text': '\nA female character with white hair and a sword on her head, wearing a torn shirt, standing in a forest.'}
+{'img_id': 'twitter_stream_2018_07_23_0_0_2_125.jpg', 'text': '\nTwo women in bikinis sitting on a blanket, smiling and posing for a photo.'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_17.jpg', 'text': '\nThree men in traditional Middle Eastern attire, one seated and two standing, engaged in a meeting in a room with ornate furnishings.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_89.jpg', 'text': '\nThe image features the logo of the Associated Press (AP) with the words "BREAKING NEWS" below it, set against a dark background with a globe graphic.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_147.jpg', 'text': '\nA sign in a mall with the text "BOLLOCKS TO BREXIT IT\'S NOT A DONE DEAL."'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_48.jpg', 'text': '\nA group of people walking down a street, with a caption in Korean text overlay.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_134.jpg', 'text': '\nA group of people playing volleyball on a sandy court.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_169.jpg', 'text': '\nA man in a tuxedo holding a glass of champagne, smiling, and surrounded by a crowd.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_186.jpg', 'text': '\nA perfume bottle and its box, both with a pink and black color scheme, featuring the name "ROGUE by Rihanna" on the packaging.'}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_43.jpg', 'text': '\nA 3D model of a character from a video game, displayed in a box and as a standalone figure.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_139.jpg', 'text': '\nA soccer player in yellow uniform celebrating a goal with arms raised.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_194.jpg', 'text': '\nThe image is a collage of various anime-style characters, each with unique hair colors, expressions, and outfits, showcasing a diverse range of character designs.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_237.jpg', 'text': '\nA man in a black uniform stands in front of a sign with the letters "BTG" on it.'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_54.jpg', 'text': '\nA portrait of a man in a black coat and white cravat, painted in a realistic style.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_75.jpg', 'text': '\nA man in a black vest with his arms outstretched, surrounded by a crowd of people.'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_144.jpg', 'text': '\nA woman in a colorful dress sitting on a wooden bench.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_59.jpg', 'text': '\nA group of baseball players in blue and gray uniforms. One player is holding a glove.'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_26.jpg', 'text': '\nThe image shows a man speaking at a podium with a flag in the background. There is text overlay in Hindi, which appears to be a quote or a statement. The text is too small to read clearly, but it seems to be related to Rwanda and a special gesture. The date "23 August 2018" is visible at the bottom, indicating the image was likely taken on that date.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_146.jpg', 'text': '\nA hockey goalie in orange and white, crouched in front of a net, with his arms raised.'}
+{'img_id': 'twitter_stream_2018_10_10_18_0_2_48.jpg', 'text': '\nA man and woman in floral patterned clothing pose on a vintage couch.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_72.jpg', 'text': '\nA woman with long hair and a necklace, smiling and looking to the side.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_216.jpg', 'text': '\nA cityscape with a large building, a glass structure, and the Space Needle in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_18_0_2_18.jpg', 'text': '\nA man in a suit and tie with a red pocket square, wearing glasses, and holding his chin.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_240.jpg', 'text': '\nA person stands in a dimly lit room, their silhouette illuminated by a window.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_112.jpg', 'text': '\nA bride and groom in formal attire, embracing and smiling, with a backdrop of greenery and a hillside.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_109.jpg', 'text': '\nA woman smiling at the camera, with text overlaying the image.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_174.jpg', 'text': '\nA group of people standing on a tarmac with a man waving from a staircase. The text "TRUMP ARRIVES IN SINGAPORE FOR NOKO SUMMIT" is displayed.'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_207.jpg', 'text': '\nA woman with blonde hair and blue eyes smiling at the camera. She is wearing a black jacket over a striped top.'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_94.jpg', 'text': '\nA man standing on stage in front of a large screen with the word "AIDS" in large red letters.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_160.jpg', 'text': '\nA screenshot of a YouTube video interface with multiple thumbnails of videos featuring young men.'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_191.jpg', 'text': '\nA man in a suit and tie sitting at a microphone, likely at a press conference.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_43.jpg', 'text': '\nA red Elmo plush toy with white eyes and orange nose, standing against a wooden wall.'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_90.jpg', 'text': '\nA group of five men in orange sports attire standing together, smiling, and posing for a photo.'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_148.jpg', 'text': '\nTwo social media posts with heart emojis, one with a photo and the other with text.'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_211.jpg', 'text': '\nA group of people marching down a street holding flags and signs, with the text "MARCH FOR SCOTLAND" overlaid on the image.'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_93.jpg', 'text': '\nA baseball player sliding into a base while another player attempts to catch the ball.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_137.jpg', 'text': '\nA woman in boots and a jacket stands next to a luggage cart with the word "Heathrow" on it.'}
+{'img_id': 'twitter_19_31_8_70.jpg', 'text': '\nA person in a red jacket and white shirt is hanging from a metal structure.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_175.jpg', 'text': '\nA 3D rendering of a person wearing a vest with a large gun. The person is holding a black handle.'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_95.jpg', 'text': '\nA man holding a golden trophy, smiling, and looking up.'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_180.jpg', 'text': '\nA meme with two images from the Star Wars franchise. The top image shows a character saying, "It\'s over, Anakin. I have the high ground." The bottom image shows another character with a caption, "You underestimate my power."'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_175.jpg', 'text': '\nTwo men in a zebra print vehicle, one wearing a headdress and the other with a surprised expression.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_126.jpg', 'text': '\nA man in a suit on a news show discussing a political topic.'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_231.jpg', 'text': '\nThe image shows a chart comparing the deficit under two presidents, Obama and Trump, with corresponding budget deficit figures in trillions of dollars.'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_161.jpg', 'text': '\nA young child in a red shirt holding a yellow cup.'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_164.jpg', 'text': "\nA tweet by Nicholas J. Fuentes commenting on Alex Jones' last night's appearance on Kristallnacht. He mentions the New York Times' last week's hatred towards him."}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_102.jpg', 'text': '\nTwo men in suits standing on a red carpet, one with a microphone, the other with a plant.'}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_158.jpg', 'text': '\nA man in a red hat and suit sitting at a desk with a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_93.jpg', 'text': '\nA person is getting their hair done by a stylist while another person takes a photo. They are in a salon with mirrors and lights.'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_221.jpg', 'text': '\nThe image is a political graphic featuring a quote from President Obama.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_110.jpg', 'text': '\nThree people posing for a photo with smiles, one wearing a black shirt with a white spider design.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_119.jpg', 'text': '\nAn animated character with white hair and a blue outfit holding a sword.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_177.jpg', 'text': '\nTwo men in suits smiling and talking. One has a mustache.'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_2111.jpg', 'text': '\nA graphic design with a photo of a lacrosse player in motion, overlaid with a halftime score of 2-11.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_224.jpg', 'text': '\nA cartoon image of a city street with a large billboard advertising a musical show.'}
+{'img_id': 'twitter_stream_2018_07_23_0_0_2_183.jpg', 'text': '\nTwo vehicles involved in a collision, one with significant damage to its hood and the other with a dented door.'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_9.jpg', 'text': '\nTwo individuals in a dimly lit room, one holding a camera, possibly taking a photo or recording a video.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_168.jpg', 'text': '\nA man in a black sleeveless shirt and hat playing an electric guitar.'}
+{'img_id': 'twitter_19_31_23_46.jpg', 'text': '\nA large fire engulfing a car in a parking lot with emergency personnel and vehicles around.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_92.jpg', 'text': '\nA young woman in a white dress with a flower in her hair, standing in a field with a mountain in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_140.jpg', 'text': '\nTwo soccer players in action on a field, one in blue and white and the other in white and red, with a soccer ball in play.'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_96.jpg', 'text': '\nThe image is a colorful cover art for a video game titled "Sonic R." It features three animated characters from the Sonic the Hedgehog series, Sonic, Miles "Tails" Prower, and Miles "Tails" Prower\'s robotic arm, set against a dynamic background with a checkered pattern.'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_217.jpg', 'text': '\nA man wearing a red cap with the text "Make America Great Again" and sunglasses.'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_24.jpg', 'text': '\nA person wearing a white shirt, black hat, and sunglasses, with a backpack, smiling.'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_207.jpg', 'text': '\nA white van with a "Openreach" logo parked on the street with a yellow clamp on the front wheel.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_102.jpg', 'text': '\nA man in a suit and tie standing at a podium with a microphone, speaking to another man with a beard and a blue tie.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_58.jpg', 'text': '\nA man and a woman in a room with liquor bottles and a laptop. The man is holding a bottle of whiskey.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_152.jpg', 'text': '\nA whiteboard with two teams listed, their players, positions, and abbreviations for their respective teams.'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_6.jpg', 'text': '\nCartoon character singing into a microphone with a shocked expression.'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_225.jpg', 'text': '\nAn animated character with a serious expression, wearing a black and gray suit with white hair.'}
+{'img_id': 'twitter_stream_2018_09_04_10_0_2_65.jpg', 'text': '\nA woman with long blonde hair and blue eyes, wearing a sequined top, with her finger to her lips.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_99.jpg', 'text': '\nA man in a suit and tie standing in a grassy area with a microphone, speaking into it.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_243.jpg', 'text': '\nA man in a suit and glasses sitting at a desk.'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_78.jpg', 'text': '\nThe image contains a text excerpt discussing political views and affiliations. It mentions learning from a bearded speaker, not being a conservative, and identifying as an American citizen who is sick of being pillaged and endangered by government for every faction, race, religion, and cause other than their own. The text concludes with a statement of support for a Trump supporter.'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_74.jpg', 'text': '\nA man wearing headphones is speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_17.jpg', 'text': '\nA poster for a Latin Fest in Boise, Idaho, featuring live Latin music, with logos for sponsors and a call to action for free entrance.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_37.jpg', 'text': '\nA person holding a saxophone, playing it.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_191.jpg', 'text': '\nThree women standing together, smiling, with one holding an award.'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_43.jpg', 'text': '\nA person with pink hair wearing a light blue shirt. The background is white and there are lights above. The text "CANVAS L E" is superimposed on the image.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_196.jpg', 'text': '\nA blue electronic device with a computer monitor and a cartoon sticker on it. A sign above it says "This machine has no brain use your own."'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_111.jpg', 'text': '\nThe image is a graphic with a red background and text. It reads "JAKARTA EE SESSIONS AT ORACLE CODE ONE JAKARTA EE HANDS-ON LAB." There are logos for Oracle Code and Jakarta EE at the bottom.'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_22.jpg', 'text': '\nA man and a woman posing for a selfie. The man has short blonde hair and the woman has long brown hair.'}
+{'img_id': 'twitter_stream_2018_06_11_16_0_2_220.jpg', 'text': '\nA large stone castle sits on an island in a blue body of water, with mountains in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_65.jpg', 'text': '\nA man in a suit standing at a podium with two American flags behind him, speaking to an audience.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_84.jpg', 'text': '\nA man in a suit is standing on a wooden structure, holding a basketball. Another man is standing on a higher structure, watching.'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_66.jpg', 'text': '\nA tweet asking if a foreign girl will date a Korean boy, with responses from various characters.'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_65.jpg', 'text': '\nA woman with blonde hair and pink lipstick smiling at the camera. She is wearing a pink scarf and large hoop earrings.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_179.jpg', 'text': '\nA person stands in front of a large screen displaying a historical building, with a chandelier-like structure of plates and lights above them.'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_57.jpg', 'text': '\nA man in a black shirt standing on a street corner, looking to his left.'}
+{'img_id': 'twitter_19_31_1_95.jpg', 'text': '\nA series of images showing a man and two women in a panel discussion, with captions suggesting a humorous exchange about the nature of reality.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_58.jpg', 'text': '\nA German Shepherd dog standing on a gravel road.'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_165.jpg', 'text': '\nA military helicopter flying through a cloudy sky during sunset.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_58.jpg', 'text': '\nTwo soccer players in blue and red uniforms exchanging a green and red striped flag.'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_210.jpg', 'text': '\nA bald man wearing sunglasses and a black leather jacket with a chain necklace.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_193.jpg', 'text': '\nThe image is a cover of a science fiction novel titled "Nine Fox Gambit" by Yoon Ha Lee. It features a close-up of a fantastical creature with spiky protrusions and glowing eyes, set against a starry background.'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_176.jpg', 'text': '\nThe image is a movie poster for "Dummycrats," featuring a person with dreadlocks and glasses, wearing a crown. The background is a red, white, and blue American flag. The text on the poster reads "The American Mirror presents Dummycrats" and "Nasty case of Trump Derangement Syndrome." The website "DummycratsTheMovie.com" is also displayed.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_3.jpg', 'text': '\nThe image is a graph showing the mean real hourly earnings by birth cohort for Norway and Denmark from 2006 to 2014.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_142.jpg', 'text': '\nA poster for a live presentation by Makoti Khawula on Power Talk, with a woman in a red headscarf and glasses singing into a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_61.jpg', 'text': '\nTwo men in suits talking on phones, one in a suit and tie, the other in a suit and red tie.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_107.jpg', 'text': '\nTwo men in suits shaking hands in front of a row of flags.'}
+{'img_id': 'twitter_19_31_14_34.jpg', 'text': '\nA Siamese cat lying on its back on a couch, with its paws in the air and a relaxed expression.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_16.jpg', 'text': '\nThe image is a screenshot of a news article from a website. The headline reads "After Brexit, we can give Isis terrorists the justice they deserve - and that means the death penalty." Below the headline, there is a photo of a man, identified as Colonel Richard Kemp, and a red button labeled "Follow" next to his name. The website\'s navigation bar is visible at the top with links to different sections such as "News," "Politics," "Opinion," and others. The date and time stamp at the bottom indicate the screenshot was taken on July 23, 2018, at 7:45 PM.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_104.jpg', 'text': '\nA group of people standing on a red carpet, posing for a photo. They are dressed in formal attire, suggesting an event like a film festival or awards ceremony.'}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_126.jpg', 'text': '\nA man in a black leather outfit with a sword in his hand.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_54.jpg', 'text': '\nThree soccer players in blue and gray uniforms walking on a crosswalk.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_159.jpg', 'text': '\nA digital graphic with a blue background and a floral design. It features a "Thank You" message with three social media icons and the number of likes each has received.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_248.jpg', 'text': '\nA woman with blonde hair and blue eyes smiling at the camera.'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_60.jpg', 'text': '\nThe image is a promotional graphic featuring a male soccer player in a blue jersey with the word "MARK" in large white letters. The background is a gradient of blue and white with a blurred effect. There is Cyrillic text above and below the player\'s image.'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_160.jpg', 'text': '\nA white truck parked next to a white canopy in a grassy area.'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_102.jpg', 'text': '\nA mountainous landscape with a body of water in the distance, under a cloudy sky.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_63.jpg', 'text': '\nA woman in a dress stands on a staircase, with a statue and a clock in the background.'}
+{'img_id': 'twitter_19_31_16_98.jpg', 'text': '\nAn anthropomorphic wolf character with a muscular build, blue eyes, and a blue collar.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_152.jpg', 'text': '\nA man sitting at a table with a plate of food, a cup, and a cell phone. He is looking at the food with a surprised expression.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_16.jpg', 'text': '\nA man in glasses and suit speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_149.jpg', 'text': '\nA billboard advertising Mt. Rushmore, stating "Only 20 miles until" and featuring a man in a suit.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_120.jpg', 'text': '\nTwo men in a close conversation, one with a beard and the other with a patterned shirt. The word "TONIGHT" in bold letters.'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_182.jpg', 'text': "\nA cow with a bird's wing on its back, flying through a blue sky."}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_62.jpg', 'text': '\nA collage of photos showing a flag hoisting ceremony with religious figures and dignitaries.'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_115.jpg', 'text': '\nThe image shows a sunset with a vibrant sky filled with pink and purple hues, and the sun is visible on the horizon.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_155.jpg', 'text': '\nTwo men playing stringed instruments with toy chickens attached to the strings.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_43.jpg', 'text': '\nTwo men on stage, one speaking into a microphone, the other with a hand on his chest.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_190.jpg', 'text': '\nThe image features a graphic with the word "GOAL" in large white letters on a blue background with wavy lines. There are also two social media handles and a hashtag.'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_91.jpg', 'text': '\nThe image is a painting of a tree with a blue background, featuring red and black brushstrokes.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_17.jpg', 'text': '\nA pair of grey sneakers with a white logo on the side.'}
+{'img_id': 'twitter_stream_2018_09_04_2_3_75.jpg', 'text': '\nA courtroom scene with a judge, lawyers, and a defendant. The judge is speaking, and there is a request to approve an execution.'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_50.jpg', 'text': '\nA darkened movie theater screen displaying the title "KALANTHIN MARAN" in white text.'}
+{'img_id': 'twitter_stream_2018_06_11_17_0_2_138.jpg', 'text': '\nA man wearing glasses and a colorful shirt with a tie and a suit.'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_105.jpg', 'text': '\nA group of men in green sports uniforms celebrating with raised arms and smiles.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_142.jpg', 'text': '\nA group of police officers in uniform, with one pointing at another officer.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_96.jpg', 'text': '\nA large tree with a twisted trunk and branches in a forest.'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_78.jpg', 'text': '\nThe image is a black and white photograph of various metal objects, including a bowl, a statue, and a vase, each with intricate designs.'}
+{'img_id': 'twitter_19_31_22_85.jpg', 'text': '\nA person holding a yellow card with a photo of a dog and a cat, and handwritten Korean text.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_106.jpg', 'text': '\nA black and white image of a man with a serious expression, overlaid with text about a music album.'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_184.jpg', 'text': '\nA painting of a woman sitting in a church, with a statue and a fountain in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_102.jpg', 'text': '\nA screenshot of a Twitter post with a tweet link to a Sanders campaign video. The tweet is unavailable.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_187.jpg', 'text': '\nA street with a fire burning in the background, smoke rising from the flames.'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_201.jpg', 'text': '\nA group of people, including elderly women, are gathered. One woman is reading a document. The image has a quote from Christine Lagarde, Managing Director of the IMF, about the tragic loss of life and natural disasters.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_59.jpg', 'text': '\nA large crowd of people gathered on a street, with cars and buildings in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_24_0_2_182.jpg', 'text': '\nA colorful cartoon image of a character running on a grassy hill with other characters in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_65.jpg', 'text': '\nAerial view of a forest with smoke rising from a fire, indicating a wildfire.'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_159.jpg', 'text': '\nA man and a woman in a futuristic setting, possibly a spaceship, with the man wearing headphones and the woman looking off to the side.'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_170.jpg', 'text': '\nAn image showing two airplanes on a map, one red and one purple, with flight paths and coordinates.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_131.jpg', 'text': '\nA woman in a black and white floral jacket standing at a podium with a microphone.'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_206.jpg', 'text': '\nA presentation slide with a diagram illustrating the continuum of modalities in drug discovery.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_0.jpg', 'text': '\nA large billboard in a city with the question "What defines a family?" displayed on it.'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_69.jpg', 'text': '\nA large, multi-layered cake with pink and white frosting and chocolate drizzle, sitting on a table with a text overlay.'}
+{'img_id': 'twitter_19_31_23_27.jpg', 'text': '\nA man in military uniform holding flowers, surrounded by people taking photos.'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_99.jpg', 'text': '\nA group of people walking on a beach with a boat in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_208.jpg', 'text': '\nA red oil derrick with a yellow pipe and a black base, emitting a flame.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_174.jpg', 'text': '\nThree men in suits standing in front of a table with a display.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_54.jpg', 'text': '\nThe image is a collage of various photos featuring the President of the United States, Donald Trump, in different contexts and expressions.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_146.jpg', 'text': '\nA group of women posing for a photo with a sign celebrating an anniversary.'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_46.jpg', 'text': '\nA person smiling with a necklace, laughing emojis, and a blurred background.'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_13.jpg', 'text': '\nA man and a woman in a meeting, the man is wearing a red tie.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_105.jpg', 'text': '\nA group of men standing in front of a monument with inscriptions.'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_138.jpg', 'text': '\nA yellow sticky note with Arabic text and a date, accompanied by a black pen.'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_142.jpg', 'text': '\nA group of people standing on a stage with a banner that reads "Marvel Studios The First Ten Years."'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_41.jpg', 'text': '\nA black t-shirt with a graphic of a face and the text "MAMA send us a signal."'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_215.jpg', 'text': '\nThe image is a still from an animated show featuring a character with a determined expression, possibly in the midst of action or a dramatic moment.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_109.jpg', 'text': '\nA clown doll with a red nose, white gloves, and a blue bow tie.'}
+{'img_id': 'twitter_stream_2018_06_11_18_0_2_180.jpg', 'text': '\nA man sitting on a couch with a microphone in front of him, smiling.'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_139.jpg', 'text': '\nA man in a yellow suit and hat speaking into a microphone, with a statue of a man in a yellow suit behind him.'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_119.jpg', 'text': '\nA colorful map of the United States with various regions highlighted in different colors.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_201.jpg', 'text': '\nThe image is a graphic with a light blue background and decorative swirls in red and white. It features text in Spanish and English, indicating a festival date and location.'}
+{'img_id': 'twitter_19_31_12_20.jpg', 'text': '\nA man in swimwear stands on a rocky outcrop overlooking a clear blue sea filled with boats.'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_151.jpg', 'text': '\nThe image is a promotional graphic for a live event featuring a man who appears to be a minister. He is standing with his arms crossed, smiling, and wearing a dark blue blazer over a white shirt. The background is a soft gradient of blue and white, and there is text overlaying the image. The text reads "WATCH MINISTER PIYUSH GOYAL LIVE DURING QUESTION HOUR" and "RAJYA SABHA." The logo of the Rajya Sabha, which is the upper house of the Indian Parliament, is also visible.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_48.jpg', 'text': '\nA pair of black and white sneakers with a white sole.'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_61.jpg', 'text': '\nTwo men in blue sports jerseys sitting side by side, one with arms crossed, the other holding a green object.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_11.jpg', 'text': '\nA person walking down a street with a large, red, blurry object in the background.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_55.jpg', 'text': '\nA black and white photo of three men hugging on stage.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_67.jpg', 'text': '\nA person standing in front of a cityscape at night, with a camera capturing the moment.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_134.jpg', 'text': '\nThe image is a meme featuring a photo of a cricketer, Virat Kohli, with a quote attributed to Sunil Gavaskar. The quote reads, "Virat Kohli can\'t do it every time, he\'s human."'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_148.jpg', 'text': '\nA collage of three images showing a group of young women wearing headphones, sitting in front of microphones, likely recording or broadcasting a podcast or radio show.'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_100.jpg', 'text': '\nA man in a suit and tie sitting at a table with microphones in front of him.'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_82.jpg', 'text': '\nA collage of photos featuring a group of people on stage, some holding awards, others posing for photos. They appear to be at a formal event.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_52.jpg', 'text': '\nA man and woman in traditional Indian attire, adorned with jewelry and garlands, posing for a portrait.'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_256.jpg', 'text': '\nA model wearing a large, ornate headdress and a colorful, patterned outfit walks down a runway.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_121.jpg', 'text': '\nThe image shows a screenshot of a Twitter feed with multiple tweets from a user named Donald J. Trump. The tweets are political in nature, discussing topics such as the IRS, the Tea Party, and the New York Governor Cuomo. The tweets are critical of the mentioned individuals and entities.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_14.jpg', 'text': '\nAerial view of a city with a flagpole, cars, and a large building.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_42.jpg', 'text': '\nTwo hands holding a white cutout of a female reproductive system.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_158.jpg', 'text': '\nA pink brain floating in a black background.'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_18.jpg', 'text': '\nTwo images of a leaf with a circular pattern on it, one with a white pattern and the other with a brown pattern.'}
+{'img_id': 'twitter_stream_2018_10_10_7_0_2_138.jpg', 'text': '\nThree women smiling and posing for a magazine cover.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_126.jpg', 'text': '\nA banner with Chinese characters and a logo for CCTV+ on it, displayed in front of a building.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_181.jpg', 'text': '\nA woman in a pink dress with a fluffy pink garment, sitting on a chair.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_172.jpg', 'text': '\nA person with a distorted face, likely due to digital alteration, wearing a red shirt.'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_10.jpg', 'text': '\nA sign for National Exmoor Park at night with a starry sky in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_88.jpg', 'text': "\nA comic strip featuring a stick figure with a surprised expression, a hand pointing at the figure, and a depiction of Earth with a line extending from the figure's head to the Earth."}
+{'img_id': 'twitter_stream_2018_07_23_24_0_2_143.jpg', 'text': '\nA man in a blue shirt standing in a hallway with a smile.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_123.jpg', 'text': '\nA person with a dog face filter on their face.'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_178.jpg', 'text': '\nA man in a suit and tie surrounded by microphones and people taking photos.'}
+{'img_id': 'twitter_19_31_13_77.jpg', 'text': '\nThe image is a simple, stylized graphic of a red football with black stitching and a black outline.'}
+{'img_id': 'twitter_stream_2018_05_07_7_0_2_119.jpg', 'text': '\nTwo men in suits and ties, one with glasses, looking at each other.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_181.jpg', 'text': '\nA group of people in a room, some holding drinks, smiling and posing for a photo.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_88.jpg', 'text': '\nA group of people in a parking lot, one person is lying on the ground, another is standing over them, and there is a car in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_98.jpg', 'text': '\nA man in a black shirt and jeans is sitting on a bed with white pillows.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_141.jpg', 'text': '\nA person standing on a red carpet, wearing a patterned shirt and black pants, with a necklace and sneakers.'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_75.jpg', 'text': '\nTwo men in basketball uniforms standing next to each other.'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_133.jpg', 'text': '\nThe image is a logo with a stylized representation of a profile of a person\'s head, with the word "LITTLE ROCK" written below it. The colors are maroon and white.'}
+{'img_id': 'twitter_stream_2018_07_23_0_0_2_44.jpg', 'text': "\nThe image displays a notification that a video has been removed from a copyright holder's report."}
+{'img_id': 'twitter_stream_2018_08_07_25_0_2_201.jpg', 'text': '\nA small brown and white dog laying next to a blue and white broom.'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_37.jpg', 'text': '\nA man in a suit and tie standing in front of an American flag, gesturing with his hand.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_25.jpg', 'text': '\nA woman with blonde hair and glasses looking off to the side.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_161.jpg', 'text': '\nA man with a white turban and beard, wearing glasses, standing in front of two flags with red and green designs.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_166.jpg', 'text': '\nA man with spiky hair wearing a coat and a necklace, with a black background.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_13.jpg', 'text': '\nThe image is a colorful graphic with a person\'s face in the center, looking surprised or shocked. The person has dark skin and is wearing a blue top. The background features vibrant colors and a cosmic theme with stars and a galaxy. There is text that reads "Ryan" at the top and "BBC Doctor Who" at the bottom, suggesting a connection to the television show.'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_134.jpg', 'text': '\nA woman in a white dress with long blonde hair singing into a microphone on stage.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_185.jpg', 'text': '\nThe image features a green and white emblem with a crescent and star, accompanied by Arabic text. The emblem is set against a dark background with a map-like pattern.'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_150.jpg', 'text': '\nA person holding a rose over a grave, with blurred figures in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_213.jpg', 'text': '\nA man in orange robes speaking into a microphone at an outdoor event.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_3.jpg', 'text': '\nA digital graphic with a blue background, featuring a floral design and three circular portraits with names and reach counts.'}
+{'img_id': 'twitter_stream_2018_05_07_21_0_2_102.jpg', 'text': '\nA blurry image of people on an escalator.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_156.jpg', 'text': '\nTwo workers in safety gear walking on a gravel path near a factory with a conveyor belt.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_115.jpg', 'text': '\nA close-up of a record player tonearm on a vinyl record.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_162.jpg', 'text': '\nA black and white photo of a soccer player in action, wearing a white jersey and shorts, kicking a soccer ball on a field.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_21.jpg', 'text': '\nA man in a suit standing in front of a pink and white background with Korean text.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_90.jpg', 'text': '\nA map showing a red area labeled "Tornado Warning" with a list of affected locations and information about the warning.'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_27.jpg', 'text': '\nA woman in a pink dress and heels poses on a couch.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_184.jpg', 'text': '\nA futuristic traffic light with a glowing red light and a sleek design.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_67.jpg', 'text': '\nTwo men in suits shaking hands in front of a blue background with yellow stars.'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_19.jpg', 'text': '\nThe image features a football player in a green uniform with the number 97, running on a field with an orange background. The player is in motion, and the image has a dynamic feel. There is text overlaying the image, which includes the name "Jonathan Gavin" and the word "DE," suggesting the player\'s position as a defensive end. The text is in white and orange, matching the color scheme of the image.'}
+{'img_id': 'twitter_stream_2018_07_23_27_0_2_5.jpg', 'text': '\nA large grey naval ship sailing on a body of water.'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_43.jpg', 'text': "\nA movie poster with a close-up of a man's face with a crown of thorns on his head, set against a dark background."}
+{'img_id': 'twitter_19_31_20_24.jpg', 'text': '\nA man in a blue shirt holding a rugby ball, surrounded by children in sports uniforms.'}
+{'img_id': 'twitter_stream_2018_09_04_13_0_2_126.jpg', 'text': '\nA male figure with dreadlocks, tattoos, and a necklace with a no smoking sign.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_45.jpg', 'text': '\nA person sitting on the ground next to a large hole.'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_207.jpg', 'text': '\nA promotional graphic for a soccer match between two teams, with logos, team names, and a date and time for the event.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_28.jpg', 'text': '\nThe image features a sleek, black and gold speaker with a geometric design, set against a dark background. The word "BOOMBOT" is prominently displayed in large, bold letters.'}
+{'img_id': 'twitter_19_31_7_90.jpg', 'text': '\nThe image is a graphic with text and an illustration, likely related to a sports event. It reads "UNITED ARAB EMIRATES vs NEPAL" and "Chundangapoyil Rizwan hits Karan KC for a 4 29/2 (5.2 Ov)." Below this, there is a cartoon character with a surprised expression, holding a sports ball. The logo "NDTV Sports" is in the bottom right corner.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_71.jpg', 'text': '\nA man in a suit and tie smiling at the camera.'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_74.jpg', 'text': '\nAerial view of a boat on blue water with a greenish area on the left side.'}
+{'img_id': 'twitter_19_31_0_60.jpg', 'text': '\nA group of people walking through a muddy area, carrying items on their heads.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_109.jpg', 'text': '\nA man and a woman standing close to each other, possibly in a conversation. The woman is wearing a patterned top and the man is in a sleeveless shirt.'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_197.jpg', 'text': '\nTwo animated characters sitting on a pentagram, surrounded by lit candles, with a third character in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_111.jpg', 'text': '\nTwo images of a man, one with a cap and the other with a necklace, both in a stage setting with lights.'}
+{'img_id': 'twitter_19_31_22_54.jpg', 'text': '\nA man and a woman are kissing, and a woman is smiling. They are in a crowd.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_248.jpg', 'text': '\nThe image displays a simple, black background with the word "DIXON" in large, white, capitalized letters.'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_117.jpg', 'text': '\nA man and two children sitting under a tent-like structure, with a bucket visible in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_179.jpg', 'text': '\nA group of women sitting on a subway train, some with luggage, others with handbags.'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_200.jpg', 'text': '\nA group of men and a boy standing around a table with papers and water bottles.'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_179.jpg', 'text': '\nA man with a beard and mustache, wearing a white shirt, leaning against a pole with his head tilted down.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_161.jpg', 'text': '\nA man with a bald head and a hand over his mouth, standing next to another man who is holding a glass.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_46.jpg', 'text': '\nTwo men in black shirts and black hair, one giving a thumbs up.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_188.jpg', 'text': '\nTwo young men walking side by side on a sidewalk, each carrying a white plastic bag.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_87.jpg', 'text': '\nA digital clock with a blue face and black numbers and hands, set to 12:12, mounted on a brick wall.'}
+{'img_id': 'twitter_19_31_0_24.jpg', 'text': '\nThe image is a digital graphic with a dark blue background featuring abstract light effects and numerical data points. There is a logo in the upper left corner with the text "INVESTMENT MARKETS BLOG."'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_154.jpg', 'text': '\nA group of young men in soccer uniforms walking across a field.'}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_242.jpg', 'text': '\nA large cargo ship sailing in the ocean near a rocky shore.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_79.jpg', 'text': '\nA man lying on the ground next to a large pizza with the text "Holy what?" above him.'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_150.jpg', 'text': '\nA stock market chart with annotations indicating a prediction that Trump will say something that will cause a market correction.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_47.jpg', 'text': "\nA comic strip with three panels showing a character's reactions to a friend's suggestion to go to a bar."}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_239.jpg', 'text': '\nA woman in a red dress holding a magazine with a man on the cover, smiling and waving.'}
+{'img_id': 'twitter_stream_2018_07_23_10_0_2_170.jpg', 'text': '\nA person standing in a room with a couch, table, and various items scattered around.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_198.jpg', 'text': "\nThe image contains text from a document discussing the circumstances of Roberto Calvi's death in an article for The Sunday Telegraph Magazine. It mentions interviews with Xavier Houzel and Jeff Katz, and the FBI's involvement."}
+{'img_id': 'twitter_19_31_19_29.jpg', 'text': '\nA woman in a pink dress with fringe, standing between two red dice with white dots.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_159.jpg', 'text': '\nThe image is a screenshot of a social media post. It contains text and a photo. The text is a statement about a police officer and a Nike product. The photo shows a police officer and two other individuals, one of whom is wearing a red tie. The text is too long to describe in full, but it appears to be a commentary on a public figure and a brand.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_95.jpg', 'text': '\nA man and a woman sitting on grass, both looking at the camera with serious expressions.'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_112.jpg', 'text': '\nA promotional image for a soccer match between Real Madrid and Roma, featuring a player in a white jersey with the Real Madrid logo.'}
+{'img_id': 'inf.png', 'text': '\nThe image is blurry and features a person with a red and white striped pattern on their face, possibly a filter or effect applied to the photo.'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_139.jpg', 'text': '\nA television screen displaying two people playing guitars on stage.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_209.jpg', 'text': '\nA large crowd of people gathered in a city street, with a police vehicle and a bus in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_125.jpg', 'text': '\nA black and white photograph of a mountainous landscape with a valley and a road.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_241.jpg', 'text': '\nA basketball player celebrating a win on a court with teammates and fans in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_172.jpg', 'text': '\nA satellite image of a mountainous landscape with a river flowing through it, showing a mix of blue, green, and brown colors.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_184.jpg', 'text': '\nA bird is upside down in a pet store.'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_137.jpg', 'text': '\nA young woman with long hair and a white shirt stands in a grassy field at sunset.'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_63.jpg', 'text': '\nA televised meeting of a city council in session, with a speaker at the podium and attendees seated.'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_30.jpg', 'text': '\nA man in a graduation gown and cap speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_69.jpg', 'text': '\nA painting of a boat docked at a pier with a building in the background.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_19.jpg', 'text': '\nThe image contains a text quote that reads: "A great prophet has arisen in our midst and God has visited his people."'}
+{'img_id': 'twitter_stream_2018_10_10_24_0_2_21.jpg', 'text': '\nA man standing at a podium with a microphone, wearing a suit and tie, with a flag in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_193.jpg', 'text': '\nThe image shows a close-up of a man with blonde hair, appearing to be middle-aged, with a serious expression.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_206.jpg', 'text': '\nA comic strip with exaggerated expressions and speech bubbles, featuring characters with shocked or angry faces.'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_77.jpg', 'text': '\nA sign with a list of ice cream flavors and their corresponding prices.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_214.jpg', 'text': '\nA woman in a black jacket standing in front of children, holding a can of vegetables.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_155.jpg', 'text': '\nA person standing next to a red suitcase with a white bag on top of it.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_75.jpg', 'text': '\nA man in a green polo shirt smiling at the camera.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_164.jpg', 'text': '\nA group of people in green and white striped shirts cheering and holding up a flag.'}
+{'img_id': 'twitter_19_31_22_92.jpg', 'text': '\nThe image is an infographic related to India\'s economic growth, specifically highlighting the strides towards a Gas-Based Economy. It features a man, presumably a politician, with a speech bubble containing the text "India takes huge strides towards a Gas Based Economy." The infographic includes statistics such as the number of LPG connections to households and the household gas coverage percentage, with corresponding visual representations like a cylinder and a bar graph.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_243.jpg', 'text': '\nTwo men shaking hands in front of multiple national flags.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_84.jpg', 'text': '\nA temple on a rock formation with a reflection in the water and a sunset in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_42.jpg', 'text': '\nA small dog with a tongue out, wearing a blue bandana, being held by a person.'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_20.jpg', 'text': "\nThe image displays a notification that a video has been removed from a copyright holder's report."}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_86.jpg', 'text': '\nTwo men in suits sitting on chairs, one wearing a red tie, the other a blue tie, with a Canadian flag in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_0.jpg', 'text': '\nA man in a suit and tie speaking at a podium with a question about gun ownership.'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_191.jpg', 'text': '\nThe image shows a text document with a question and answer format. The question is about the nature of the income and the answer is provided by a person named Heather Washkuhn.'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_180.jpg', 'text': '\nA basketball player in a Cleveland jersey, pointing, with a quote about LeBron James.'}
+{'img_id': 'twitter_stream_2018_10_10_17_0_2_71.jpg', 'text': '\nA man in a gray jacket with a star on the left chest, standing in front of a blue-lit background.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_164.jpg', 'text': '\nA red brick building with a sign that reads "City Archives" and a crest above it.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_126.jpg', 'text': '\nA man walking on a red carpet in front of a row of American and North Korean flags.'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_151.jpg', 'text': '\nThe image features the text "Pulp Fiction" in a stylized font with a yellow and red gradient, set against a black background.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_176.jpg', 'text': '\nA person singing into a microphone on stage with another person standing beside them.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_172.jpg', 'text': '\nTwo men sitting at a desk, one speaking into a microphone. The man on the left is wearing a light-colored shirt and the man on the right is wearing a patterned shirt.'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_120.jpg', 'text': '\nTwo men shaking hands in front of flags.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_242.jpg', 'text': '\nA woman in a yellow jacket waving at someone out of frame, with a man in a black suit standing next to her.'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_165.jpg', 'text': '\nA man in a purple suit and tie singing into a microphone on stage.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_22.jpg', 'text': '\nThree men standing on a sidewalk, one waving, with cars and a building in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_15.jpg', 'text': "\nThe image contains a text excerpt discussing the actions of an AN OLD, a term that stands for an old man, on stage. The text refers to the old man's behavior during a business convention, where he repeatedly tries to silence the speaker. The old man is described as being from North Korea or Iran, and the text suggests that the location of the conference is the SNP conference in 2018. The text is attributed to Neil Graham and Lanark."}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_106.jpg', 'text': '\nA sketch of an elephant with handwritten text in French.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_3.jpg', 'text': '\nA large crowd of people gathered in a street, waving flags and participating in a public event.'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_61.jpg', 'text': '\nA person is getting their hair styled by a professional. The image is in black and white.'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_59.jpg', 'text': '\nA digital graphic with a blue background, featuring a "Thank You" message and three circular images with names and reach numbers.'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_62.jpg', 'text': '\nA group of people sitting in red chairs with microphones, likely on a game show set.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_3.jpg', 'text': '\nA woman in a white shirt and beige pants walking in front of a group of children wearing yellow shirts.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_65.jpg', 'text': '\nA stylized image of a man with a beard and a group of cartoon characters, with text announcing "OFFICIALLY CERTIFIED GOLD" and a "RIAA GOLD" seal.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_135.jpg', 'text': '\nA map showing the Mediterranean Sea, Greece, Bulgaria, Italy, and Istanbul.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_227.jpg', 'text': '\nThe image features the logo of The Boring Company, which is a black and white design with the words "The Boring Company" written in a sans-serif font. The logo is set against a backdrop of a brick wall.'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_195.jpg', 'text': '\nThree people posing for a photo, a woman in a colorful outfit with sunglasses and a cross necklace, flanked by two men.'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_11.jpg', 'text': '\nA screenshot of a Twitter conversation between two users. One user is complimenting the other on their fanbase and mentions a character from a TV show. The other user responds with a heartfelt message about their husband and the character.'}
+{'img_id': 'twitter_stream_2018_10_10_22_0_2_77.jpg', 'text': '\nThe image features the logo of the Associated Press (AP) with the words "BREAKING NEWS" below it, set against a dark background with a globe graphic.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_5.jpg', 'text': '\nA group of people walking up a staircase, with one person wearing a top hat and a purple coat.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_10.jpg', 'text': '\nA woman in a pink dress standing at a podium, speaking to an audience.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_12.jpg', 'text': '\nA woman in a black dress with embellishments stands on a staircase.'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_47.jpg', 'text': '\nA close-up of a person wearing a green armored suit with a helmet and visor, standing in a natural landscape.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_81.jpg', 'text': '\nA flock of swans swimming in a body of water with a bridge in the foreground.'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_138.jpg', 'text': '\nA person running on a hill with a mountain and clouds in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_213.jpg', 'text': '\nA spacecraft with a large, ornate structure on top, floating in space.'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_2165.jpg', 'text': '\nA blurry image of three people dancing in a living room.'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_106.jpg', 'text': '\nA football game in progress with players on the field. The scoreboard indicates the game is in the first quarter.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_20.jpg', 'text': '\nThe image features a football player in motion, wearing a uniform with the number 21, holding a football. The player is in the foreground with a blurred background suggesting a stadium. The text "BLOUNT FORCE TRAUMA" is overlaid on the image.'}
+{'img_id': 'twitter_stream_2018_08_07_12_0_2_125.jpg', 'text': '\nA man with tattoos and a bandana on his head, standing next to a car.'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_102.jpg', 'text': '\nA black and white illustration of a gondola in Venice, with text above and below the image.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_62.jpg', 'text': '\nA football player in a white uniform with the number 71, holding a football, on a field with a crowd in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_63.jpg', 'text': '\nA close-up of a 3D model of a character with a fierce expression, showing wrinkles and teeth.'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_72.jpg', 'text': '\nThe image shows a product listing for a tea bag on a mobile device. The tea bag is labeled "Grofers Happy Day Kadak Tea (Pouch)" and is priced at ₹38. The price is marked as a "Club Price" and there is a "Non-Club Price" of ₹39. The quantity is 250 grams. There is a "ADD" button and a "MRP: ₹58" label.'}
+{'img_id': 'twitter_19_31_0_19.jpg', 'text': '\nA city with white buildings at night, illuminated by lights, with a colorful sky above.'}
+{'img_id': 'twitter_stream_2018_09_04_10_0_2_132.jpg', 'text': '\nA man with a smile, wearing a suit and tie, looking directly at the camera.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_18.jpg', 'text': '\nA stylized image of a woman with wings, wearing a pink dress with polka dots, standing against a green background.'}
+{'img_id': 'twitter_stream_2018_06_11_11_0_2_128.jpg', 'text': "\nA man with a serious expression, wearing a suit and tie, with a background that includes another person's head."}
+{'img_id': 'twitter_19_31_1_27.jpg', 'text': '\nA person riding a white scooter on a street.'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_40.jpg', 'text': '\nThe image is a vintage album cover featuring a man playing an electric guitar. The text "ELVIS COSTELLO" is at the top, and "MY AIM IS TRUE" is at the bottom. The man is wearing a suit and glasses.'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_185.jpg', 'text': '\nA building with the Amazon logo at night.'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_167.jpg', 'text': '\nA man in a suit walking past a round wall with a coat of arms.'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_12.jpg', 'text': '\nA woman holding a baby, both are wrapped in blankets, in a room with a television in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_42.jpg', 'text': '\nA man holding a mug, looking surprised or concerned, with a microphone and bookshelf in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_181.jpg', 'text': '\nA woman in a sparkling dress and a man in a matching outfit walk down a street, surrounded by a crowd.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_117.jpg', 'text': '\nA group of men and women in formal attire standing in front of a building.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_211.jpg', 'text': '\nA view from above of two ducks in a canal with a fence and a wall.'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_29.jpg', 'text': '\nTwo men sitting in red chairs, smiling and laughing, one holding a water bottle.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_85.jpg', 'text': '\nThe image features a Samsung Galaxy Note9 smartphone with a yellow stylus on its screen, set against a blue background with the text "Say hello to super power."'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_176.jpg', 'text': '\nA man in traditional attire is being carried on the shoulders of a crowd of people.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_4.jpg', 'text': '\nThree women wearing colorful hats and glasses, smiling and waving.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_163.jpg', 'text': '\nA dog dressed in a costume, sitting on a street.'}
+{'img_id': 'twitter_19_31_5_44.jpg', 'text': '\nA woman with short hair and a tattoo on her neck, wearing large hoop earrings and a bracelet.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_206.jpg', 'text': '\nA meme showing a woman falling out of a car trunk with the text "10 minutes after Kavanaugh is confirmed as a Supreme Court Justice."'}
+{'img_id': 'twitter_19_31_19_53.jpg', 'text': '\nA traffic light with three colored lights, set against a backdrop of the South Korean flag.'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_159.jpg', 'text': '\nA dilapidated village with rubble and debris, some buildings still standing, others destroyed, with a mountain in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_182.jpg', 'text': '\nA black and white photo of a man with dreadlocks singing into a microphone.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_221.jpg', 'text': '\nA surfer riding a large wave in the ocean.'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_119.jpg', 'text': "\nThe image contains a text excerpt discussing a person's experience at an event, specifically at the end of the day. The text mentions a microphone, a plane with D-Hall, and a visit to Mama's. It also includes a statement about looking up to D-Hall and a comment about the experience being quite shocking."}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_3.jpg', 'text': '\nTwo men side by side, one with a beard and the other with gray hair, both looking contemplative.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_227.jpg', 'text': '\nA baseball player in a purple uniform with the word "Rockies" on it, wearing a helmet and making a face.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_20.jpg', 'text': '\nA meme with two images of men, one labeled "Atheist" and the other "Christian," with text discussing their views on social issues.'}
+{'img_id': 'twitter_19_31_15_4.jpg', 'text': '\nA pair of brown suede shoes with laces and a white sole.'}
+{'img_id': 'twitter_19_31_18_95.jpg', 'text': '\nA night sky filled with stars and a bright Milky Way galaxy, with a desert landscape below.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_137.jpg', 'text': '\nA stone archway with a wooden door leading to a coastal view.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_172.jpg', 'text': '\nA group of five individuals, three men and two women, walking in a line on a beach at sunset.'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_201.jpg', 'text': '\nA close-up of green leafy vegetables, possibly spinach or kale, against a white background.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_158.jpg', 'text': '\nA soccer match in progress with players on the field and a crowd in the stands.'}
+{'img_id': 'twitter_stream_2018_05_07_7_0_2_136.jpg', 'text': '\nA green and white Starbucks logo on a black and white sign.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_99.jpg', 'text': '\nTwo images of a video game interface, one labeled "Before" and the other "After," showing a change in graphics quality.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_70.jpg', 'text': '\nA black car is driving on a road. The car has a flag on the side and a license plate.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_169.jpg', 'text': '\nThe image shows a formal letter from the Philippine Senate addressed to the President of the Philippines. It discusses the Universal Health Care Act and the need for affordable, comprehensive, and quality health care.'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_127.jpg', 'text': '\nA woman in a white and red outfit with roller skates on her feet.'}
+{'img_id': 'twitter_19_31_0_62.jpg', 'text': '\nA male cricketer in green and black attire is diving on the ground, possibly to catch a ball.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_194.jpg', 'text': '\nA man with a shaved head and a blue shirt with a floral pattern, covering his mouth with his hand.'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_169.jpg', 'text': '\nA woman in a large, teal, flowing dress with a floral headpiece, standing on a carpeted floor.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_135.jpg', 'text': '\nA religious figure in a robe and hat standing in a room with stained glass windows.'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_21.jpg', 'text': '\nA graph showing the longitude of the ascending node of a satellite over time, with a sharp decline in the data.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_71.jpg', 'text': '\nThree men in a racing car, one shirtless, one in a white shirt, and one in a blue shirt. They are eating and drinking.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_20.jpg', 'text': '\nA woman walking a dog on a path through a forest with autumnal trees.'}
+{'img_id': 'twitter_19_31_8_81.jpg', 'text': '\nTwo men in shiny jackets, one holding the other, smiling and laughing.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_50.jpg', 'text': '\nA man in a suit and sunglasses with his hand to his mouth.'}
+{'img_id': 'twitter_stream_2018_09_04_11_0_2_175.jpg', 'text': '\nA scoop of ice cream in a cup with a spoon, set against a backdrop of a pool and buildings.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_122.jpg', 'text': '\nA city skyline at night with illuminated buildings and a bridge with lights.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_116.jpg', 'text': '\nA man in a suit and tie speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_08_07_17_0_2_183.jpg', 'text': '\nA man in a white shirt with a logo on it, smiling and signing a piece of paper.'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_41.jpg', 'text': '\nThe image is a screenshot of a tweet from the ANI (Agence France-Presse) account. The tweet is about Narendra Modi, the Prime Minister of India, receiving a ceremonial reception at Kigali International Airport upon his arrival in Rwanda.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_165.jpg', 'text': '\nA woman with blonde hair wearing a crown and a necklace. She has a serious expression on her face.'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_224.jpg', 'text': '\nA newspaper with a man on the cover, holding a cell phone.'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_61.jpg', 'text': "\nThe image shows a series of three tweets from a user named David Nuzzo Nussbaum. The tweets are humorous and satirical, discussing the concept of pedophilia and the age of consent. The first tweet mentions a hypothetical scenario where a 4-year-old nephew pulls down his pants and the speaker is unsure if they should look away. The second tweet references a scale of one to ten, with the speaker's neighbor's girlfriend being a seven-year-old. The third tweet is a joke about a TV show idea for pedophiles."}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_88.jpg', 'text': '\nA collage of nine photos featuring a young man in various outfits and poses, showcasing different styles and expressions.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_23.jpg', 'text': '\nA muscular man with green skin, flexing his muscles, with a fiery background and other figures in the distance.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_205.jpg', 'text': '\nA person standing in the dark with lights in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_0.jpg', 'text': '\nA black and white photo of two men in a vintage car.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_221.jpg', 'text': '\nTwo people standing in front of a cityscape with a golden dome building in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_110.jpg', 'text': '\nA poster for a concert tour featuring the band Palisades. It lists dates and locations for the "War 2018" tour.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_79.jpg', 'text': '\nA person with dark hair and a white shirt with a graphic on it. They are making a gesture with their hand.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_168.jpg', 'text': "\nA person's hand holding a smartphone, showing a close-up of a person's face with a white background."}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_14.jpg', 'text': "\nA news reporter standing in front of a screen displaying two men's faces."}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_60.jpg', 'text': '\nTwo basketball players on a court, one dribbling the ball, the other reaching out to defend.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_120.jpg', 'text': '\nThe image contains a text excerpt discussing the 2012 US presidential election, specifically the voting for Barack Obama. The text is in a simple, sans-serif font.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_51.jpg', 'text': '\nA young woman in a white soccer uniform is running towards a soccer ball on a field.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_225.jpg', 'text': '\nA person in a red shirt with a blurred background, possibly a video call interface with heart and speech bubble icons.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_94.jpg', 'text': '\nA person with dark skin and a fur-lined coat, looking to the side, with another person in a suit partially visible in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_207.jpg', 'text': '\nThe image is a screenshot of a tweet with text that has been altered to include red lines and text, presumably to indicate corrections or changes. The original text is about Christopher Columbus\'s spirit of exploration and adventure, but the altered text includes words like "rape," "mass murder," and "honor his remarkable accomplishments as a navigator, and indigenous lands because my administration hates non-white people." The tweet is attributed to a user named Donald J. Trump.'}
+{'img_id': 'twitter_stream_2018_09_04_9_0_2_43.jpg', 'text': '\nA man in a suit standing in a museum with classical sculptures.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_89.jpg', 'text': '\nA football player in a dark uniform with the number 94, standing on a field at night.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_224.jpg', 'text': "\nThe image is a screenshot of a tweet from the Times of India. The tweet discusses a news article about Maharashtra's 'godman' forces men into unnatural sex, held toi.in/w1pQqGY/a24gk via @TOICitiesNews. The tweet includes a cartoon of a man with long hair and a beard, waving, with a black cat and a pair of handcuffs in the background."}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_240.jpg', 'text': '\nA man in a suit with a tie, making a gesture with his hand.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_63.jpg', 'text': '\nTwo characters from the Marvel Cinematic Universe, one with green skin and the other with purple skin, facing each other.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_105.jpg', 'text': '\nA newspaper article expressing gratitude to B.C. citizens for supporting an oil pipeline. It mentions a $100 million per day Canadian gift and a $100 million per day Canadian, is greatly appreciated.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_104.jpg', 'text': '\nA screenshot of a social media post with a photo of a man standing on a rooftop. The post is in Spanish and includes a caption about a person named Francisco.'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_73.jpg', 'text': '\nTwo photos of a person with different hairstyles and expressions, one with a casual pose and the other with a more formal pose.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_68.jpg', 'text': '\nFour high-heeled shoes with cartoon characters on them, each in a different color and style.'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_20.jpg', 'text': '\nThe image is a page from an anime character design book, featuring sketches of characters from the series "Naruto." It includes character profiles, costume designs, and character poses.'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_42.jpg', 'text': '\nA woman in a long, sparkling dress with a large train, walking on a carpeted floor.'}
+{'img_id': 'twitter_stream_2018_06_11_18_0_2_236.jpg', 'text': '\nA man and a woman in formal attire walking together, with the woman wearing a white hat.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_79.jpg', 'text': '\nA news headline about a court case in Kerala, India, against 7 individuals in an ISIS case.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_102.jpg', 'text': '\nThe image is a document from Companies House, specifically a statement of satisfaction in full or in part of charge. It is addressed to Recon Football Limited and includes details of the mortgage, the instrument, and the solicitor for a charge.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_203.jpg', 'text': '\nA black and white photograph of a church with a large dome and two smaller domes, surrounded by people and horse-drawn carriages.'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_175.jpg', 'text': '\nTwo photos of a woman in white attire, smiling, with a black handbag.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_160.jpg', 'text': '\nA man in a golden helmet and red cape, holding a bow and arrow, with a logo and title in the background.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_118.jpg', 'text': '\nA black and white image of a group of mannequin heads with the text "MIDNIGHT SHIFT" in large white letters.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_105.jpg', 'text': '\nA man with a large burger in his mouth, text overlay suggesting a political commentary.'}
+{'img_id': 'twitter_stream_2018_08_07_18_0_2_118.jpg', 'text': '\nAn anthropomorphic dog character with a purple hood and a star-shaped badge, wearing a hat and a necklace.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_58.jpg', 'text': '\nA group of people posing for a photo in front of a building.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_47.jpg', 'text': '\nA person with a mathematical equation on their face, looking at another person.'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_102.jpg', 'text': '\nA colorful painting of a bridge over a river with trees and flowers in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_21.jpg', 'text': '\nThe image features the logo of the Associated Press (AP) with the words "BREAKING NEWS" below it, set against a dark background with a globe graphic.'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_165.jpg', 'text': '\nA group of people in a bar, with one bartender serving drinks and another customer placing an order.'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_11.jpg', 'text': '\nA pair of black and white sneakers with patches, a black bag with patches, and a box with stickers.'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_147.jpg', 'text': '\nA memorial with candles, flowers, and a photo on a stone structure.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_189.jpg', 'text': '\nA group of people in traditional Middle Eastern attire, some with headscarves, standing in a narrow street.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_148.jpg', 'text': '\nA man in a striped sweater sitting on a couch.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_82.jpg', 'text': "\nA close-up of a woman with a surprised expression, and a man's hand touching her face."}
+{'img_id': 'twitter_stream_2018_05_07_1_0_2_182.jpg', 'text': '\nA group of people standing in front of a large screen displaying a man in a suit.'}
+{'img_id': 'twitter_19_31_3_54.jpg', 'text': '\nA polar bear is partially buried in snow, with only its head and eyes visible.'}
+{'img_id': 'twitter_stream_2018_08_07_4_0_2_140.jpg', 'text': '\nA man with a mustache and a purple robe holding a bottle.'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_97.jpg', 'text': '\nA man with dreadlocks stands in a dimly lit room with stone columns and a statue.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_223.jpg', 'text': '\nA man and a woman are kissing. The woman has long blonde hair and is wearing a white top. The man is wearing a black cap.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_17.jpg', 'text': '\nA bridge with lights and a moonlit sky, reflecting on a body of water.'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_39.jpg', 'text': '\nA black Samsung Galaxy Note 8 box on a red surface.'}
+{'img_id': 'twitter_stream_2018_10_10_25_0_2_86.jpg', 'text': '\nA woman with a bouquet of flowers is seen through a window, looking out at the greenery.'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_201.jpg', 'text': '\nA bar chart showing the comfort levels of various European countries regarding social interactions with immigrants.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_162.jpg', 'text': '\nA collage of images featuring a woman in various settings, including a birthday celebration, a talk show, and a fashion event.'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_122.jpg', 'text': '\nTwo men standing side by side, one in an orange sweatshirt and the other in a blue blazer.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_24.jpg', 'text': '\nA man lying in bed with a serious expression.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_32.jpg', 'text': '\nA brown moth with red spots on a green leaf.'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_109.jpg', 'text': '\nA man in a blue and yellow surfboard.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_86.jpg', 'text': '\nA man with a blue shirt and a pointed haircut, looking serious.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_162.jpg', 'text': '\nTwo men in suits standing on a sidewalk outside a building.'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_98.jpg', 'text': '\nA drummer in a white shirt with the word "PEACELESS" on the back, holding a drumstick in the air, surrounded by drums and a crowd.'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_170.jpg', 'text': '\nA man in a suit holding a large map, pointing at something, with a man in uniform standing beside him.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_209.jpg', 'text': '\nA meme comparing Frederick the Great\'s victory over a Prussian army to a "strict boy" meme.'}
+{'img_id': 'twitter_stream_2018_06_11_17_0_2_119.jpg', 'text': '\nThe image shows the Trevi Fountain in Rome, Italy, with its famous Baroque architecture and sculptures of mythological figures.'}
+{'img_id': 'twitter_19_31_9_43.jpg', 'text': '\nA comic strip featuring characters from the Mario franchise and The Legend of Zelda, with a princess and a Link character.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_167.jpg', 'text': '\nA man in a suit and tie standing at a podium, gesturing with his hands.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_69.jpg', 'text': '\nA woman with long hair and a black top.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_103.jpg', 'text': '\nA booth with a registration desk and a person sitting behind it. The desk has a sign that says "Registration" and "Registration sponsored by SiteTracker."'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_99.jpg', 'text': '\nTwo anime characters, one holding a sandwich, standing in front of a pile of sandwiches.'}
+{'img_id': 'twitter_stream_2018_10_10_2_0_2_149.jpg', 'text': '\nA blue car on display with a "TIGOR" license plate, surrounded by people.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_198.jpg', 'text': '\nA basketball game in progress on a hardwood court with players in motion and spectators in the stands.'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_44.jpg', 'text': '\nA blurry image of people walking through a glass door, possibly in a public building or transportation hub.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_226.jpg', 'text': '\nA baseball player in a grey uniform with a red logo on the front, wearing a glove, standing on a field.'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_153.jpg', 'text': '\nA man with a bald head and a blue jacket.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_222.jpg', 'text': '\nA person sitting in a room with a serious expression. The image is a thumbnail for a video, likely from a streaming platform.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_96.jpg', 'text': '\nA man in a suit and tie smiling at the camera.'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_184.jpg', 'text': '\nA woman with long hair sitting on a stool, wearing a white shirt.'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_10.jpg', 'text': '\nA man and a boy standing together, smiling, with lanyards around their necks.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_210.jpg', 'text': '\nA large, two-story house with a stone facade and multiple windows, set in a manicured lawn.'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_67.jpg', 'text': '\nThe image features a view of the Western Wall in Jerusalem with a quote overlay. The quote reads, "Blessed be Adonai Elohim, God of Israel, who alone does wonders. Psalm 72:18 (TLV)."'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_153.jpg', 'text': '\nA news segment featuring three individuals discussing a political event.'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_62.jpg', 'text': '\nA woman in a blue dress reclines on a red couch with a gold pillow.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_46.jpg', 'text': '\nA blue background with a white bracket showing four teams in a tournament, with two games played and two to come.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_49.jpg', 'text': '\nA group of young men in red jackets and hoods, smiling and posing for a photo.'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_25.jpg', 'text': '\nA traditional Asian painting of a rooster and a hen on a straw ground with leaves in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_157.jpg', 'text': '\nA woman wearing a hijab and a white jacket, smiling, with the Olympic rings in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_227.jpg', 'text': '\nTwo side-by-side photos of a man and a woman, both smiling, with the woman wearing a bow in her hair.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_54.jpg', 'text': '\nA man wearing glasses and a cap, sitting in a room with a computer and a chair.'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_176.jpg', 'text': '\nA beach with a hut and people, with the ocean in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_47.jpg', 'text': '\nThe image shows a mosaic with various patterns and figures, including birds, animals, and geometric shapes, set in a stone or tile-like material.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_194.jpg', 'text': '\nA large white house with a pointed roof on a hill.'}
+{'img_id': 'twitter_stream_2018_07_23_10_0_2_87.jpg', 'text': '\nTwo men shaking hands in a formal setting, one in military uniform and the other in a suit.'}
+{'img_id': 'twitter_stream_2018_09_04_10_0_2_217.jpg', 'text': '\nA group of people sitting at a table in a restaurant. A woman in a black dress is leaning on the table.'}
+{'img_id': 'twitter_stream_2018_09_04_0_0_2_228.jpg', 'text': '\nA soccer match in progress with players on the field and a crowd in the stands.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_13.jpg', 'text': '\nA movie poster with a dark background and a shattered glass effect, featuring the name Samuel L. Jackson and the title "Glass."'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_116.jpg', 'text': '\nA plate of rice with vegetables, including peas, carrots, and broccoli, with a spoon resting on the side.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_236.jpg', 'text': '\nA residential street with trees and a house in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_22.jpg', 'text': '\nA young boy standing on a chair in a classroom, laughing and waving his arms.'}
+{'img_id': 'twitter_stream_2018_06_11_20_0_2_157.jpg', 'text': '\nA building with a sign that says "Tyler, Texas Area Chamber of Commerce" and a red rose graphic.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_42.jpg', 'text': '\nA man in a black suit and bow tie looking to the side.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_181.jpg', 'text': '\nA person wearing black gloves holds a handgun.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_94.jpg', 'text': '\nA close-up of a small kitten with a mix of black and brown fur, sitting on a bed.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_253.jpg', 'text': '\nThe image is a thumbnail for a news video featuring a man with a serious expression. The text "What Kim wants" is overlaid on the image, suggesting the content of the video is related to Kim Jong-un\'s desires or intentions.'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_213.jpg', 'text': '\nThree individuals in dark attire standing in front of a large rocket booster on a launchpad at night.'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_3.jpg', 'text': '\nA group of people standing and sitting in a grassy area, with some individuals looking at a performer.'}
+{'img_id': 'twitter_stream_2018_07_23_5_0_2_48.jpg', 'text': '\nA digital graphic with a group of animated characters in suits, some holding weapons, with a timer indicating "Time until Brexit."'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_221.jpg', 'text': '\nA woman with red hair singing into a microphone on stage.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_17.jpg', 'text': '\nA digitally altered image showing a man with an exaggeratedly large belly jumping over a car, with other men in the background also appearing to jump.'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_201.jpg', 'text': '\nThe image is a book cover with a beach scene featuring a turquoise car on a sandy beach with a clear blue sky and ocean in the background. The title "Paisley Memories" is prominently displayed in a cursive font.'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_183.jpg', 'text': '\nA person with glasses looking down, possibly in a contemplative or sad state. The background is blurred, but it appears to be an outdoor setting with a cloudy sky.'}
+{'img_id': 'twitter_stream_2018_08_07_23_0_2_45.jpg', 'text': '\nA woman in a red dress on a green field, with text overlaying the image.'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_46.jpg', 'text': '\nA man and a woman singing into microphones in a room.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_185.jpg', 'text': '\nA digital image of a letter addressed to Dr. Blasey-Ford, thanking her for her courage and for speaking out against abuse.'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_209.jpg', 'text': '\nA black and white photo of three people sitting on chairs, two men and a woman, dressed in formal attire, with one man holding a cigarette.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_184.jpg', 'text': '\nA man in a suit and tie is sitting in a room with a painting on the wall.'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_137.jpg', 'text': '\nA man speaking at a podium with a microphone, addressing a topic related to tax reforms.'}
+{'img_id': 'twitter_stream_2018_05_07_21_0_2_56.jpg', 'text': '\nA man and a woman in formal attire, likely at a formal event, posing for a photo.'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_49.jpg', 'text': '\nA bar chart showing the price to funds from operations for various trusts, including Duke Realty, First Industrial, and Grampcy Property Trust.'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_184.jpg', 'text': '\nA large crowd of people gathered around a dirt area where a group of individuals are performing a stunt.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_51.jpg', 'text': '\nA woman in a green graduation gown and boots poses triumphantly on a lawn.'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_81.jpg', 'text': '\nA man with a beard and mustache, smiling, wearing a gray blazer over a black shirt.'}
+{'img_id': 'twitter_stream_2018_05_07_0_0_2_201.jpg', 'text': '\nA group of young children smiling and posing for a photo.'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_25.jpg', 'text': '\nA man in a suit and tie standing in front of a microphone.'}
+{'img_id': 'twitter_19_31_16_61.jpg', 'text': '\nA woman with a serious expression, surrounded by microphones, suggesting she is being interviewed.'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_99.jpg', 'text': '\nTwo young men in a nightclub, one holding a smartphone, both smiling and looking at the camera.'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_165.jpg', 'text': '\nA map showing a yellow area indicating a potential tornado watch, with a list of affected counties and a forecast of isolated hail and wind.'}
+{'img_id': 'twitter_stream_2018_07_23_1_0_2_41.jpg', 'text': '\nA man with long hair and a colorful shirt, looking serious, with the text "That\'s just ridiculous."'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_219.jpg', 'text': '\nA group of people standing in front of a large banner featuring a caricature of a man with a nuclear explosion.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_147.jpg', 'text': '\nA stylized, colorful portrait of a character with pointed ears, resembling an elf, wearing a blue garment with a pattern.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_147.jpg', 'text': '\nA man and a boy in suits and ties, smiling and posing for a photo.'}
+{'img_id': 'twitter_stream_2018_09_04_11_0_2_233.jpg', 'text': '\nA large room with a stage featuring a blue screen displaying a golf player. The room is set up with tables and chairs, and there are water bottles on the tables.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_122.jpg', 'text': '\nTwo men in sports attire smiling and posing for a photo. They are wearing Adidas and Mercedes-Benz branded clothing.'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_211.jpg', 'text': '\nA man standing on a stage with a microphone, wearing a blue jacket, looking to the side.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_21.jpg', 'text': '\nA row of American and North Korean flags on display.'}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_4.jpg', 'text': '\nA man and a woman posing together in a dance setting, with the man gesturing and the woman smiling.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_182.jpg', 'text': '\nA man holding a political campaign sign for John James for U.S. Senate.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_202.jpg', 'text': '\nAerial view of a rural landscape with fields, barns, and a body of water.'}
+{'img_id': 'twitter_stream_2018_06_11_15_0_2_3.jpg', 'text': '\nA man and a woman posing together with a stylized background, likely for a music release or promotional material.'}
+{'img_id': 'twitter_stream_2018_06_11_18_0_2_91.jpg', 'text': '\nA red Formula 1 car with the word "Netherlands" on the side, racing on a track.'}
+{'img_id': 'twitter_stream_2018_06_11_15_0_2_70.jpg', 'text': '\nA man with blue hair and a beard, wearing a dark jacket, with a serious expression.'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_87.jpg', 'text': '\nA group of people watching a television screen displaying a man in a suit and tie.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_83.jpg', 'text': '\nA person playing a video game on a green mat with a golf club, while two others watch.'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_181.jpg', 'text': '\nA collection of four sketches of a creature with exaggerated features, such as large teeth and fur, in various poses.'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_44.jpg', 'text': '\nA man with a serious expression holding a microphone.'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_6.jpg', 'text': '\nA man wearing a white shirt and headphones walks with a suitcase.'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_149.jpg', 'text': '\nA woman with long brown hair and a brown top. She is looking to the side with a slight smile.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_242.jpg', 'text': '\nA movie poster for "Captain America: Civil War" featuring characters from the Marvel Cinematic Universe.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_180.jpg', 'text': '\nA group of four people, two men and two women, standing together on a stage, smiling and posing for a photo.'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_14.jpg', 'text': '\nA man and a woman in a kitchen, the man leaning against a counter, the woman standing at a counter.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_36.jpg', 'text': '\nA man in a suit holding a plaque with an eye on it, smiling.'}
+{'img_id': 'twitter_stream_2018_07_23_24_0_2_83.jpg', 'text': '\nA meme featuring two soccer players with a quote about a player named Karis.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_129.jpg', 'text': '\nTwo men in red sports uniforms sitting on basketball court.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_166.jpg', 'text': '\nTwo people standing in front of a large screen displaying multiple graphs and charts.'}
+{'img_id': 'twitter_stream_2018_09_04_2_3_18.jpg', 'text': '\nA news broadcast with a woman on screen discussing a plea seeking sit probe dismissed by SC.'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_95.jpg', 'text': '\nA man and a woman holding a rabbit. The woman is smiling and the man is looking at the rabbit.'}
+{'img_id': 'twitter_stream_2018_10_10_7_0_2_203.jpg', 'text': "\nA blurry image of a person's arm and a partial view of another person in the background."}
+{'img_id': 'twitter_stream_2018_10_10_12_0_2_14.jpg', 'text': '\nA screenshot of a social media app showing a list of worldwide trends with various cities and topics.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_142.jpg', 'text': '\nThree people posing with a flag on a rocky surface.'}
+{'img_id': 'twitter_stream_2018_07_23_10_0_2_129.jpg', 'text': '\nA person taking a selfie with a woman in a dress in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_195.jpg', 'text': '\nA black and white photo of a street scene with people, buildings, and a cow.'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_35.jpg', 'text': '\nA close-up of a moth with glowing eyes on a dark surface.'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_73.jpg', 'text': '\nThree women in different outfits, one with a microphone, standing on stage.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_49.jpg', 'text': '\nThe image shows a cityscape at dusk with the Empire State Building lit up in pink. The surrounding buildings are illuminated with warm lights, and the sky is a gradient of blue to orange.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_74.jpg', 'text': '\nThe image is a simple, plain white background with a black border and a black text that reads "Image not found."'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_51.jpg', 'text': '\nA group of people sitting on a couch, laughing and smiling.'}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_193.jpg', 'text': '\nA football player in a white uniform with the number 82, holding a football, running on a field.'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_13.jpg', 'text': '\nA man in a white robe and hat with glasses, raising his fist.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_56.jpg', 'text': '\nA man with a beard and a rope around his waist, standing in a jungle with a portrait of another man in a circle.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_196.jpg', 'text': '\nA large wildfire with bright orange and red flames burning in the night sky.'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_105.jpg', 'text': '\nThree men in a room, one adjusting tie, another looking down, and the third looking at the first.'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_78.jpg', 'text': '\nA large cloud of dust or sand in the distance, with a structure and a fence in the foreground.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_24.jpg', 'text': '\nA woman in a hijab is being interviewed on television. She is surrounded by other people, some of whom are also wearing hijabs. The woman is speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_06_11_14_0_2_32.jpg', 'text': '\nA modern building with a curved glass roof and brick walls. A walkway leads to the entrance.'}
+{'img_id': 'twitter_stream_2018_05_07_4_0_2_202.jpg', 'text': "\nA close-up of a man's face with a blurred background, possibly in a social setting."}
+{'img_id': 'twitter_stream_2018_05_07_18_0_2_12.jpg', 'text': '\nA man in a suit holding a black cloth to his face.'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_10.jpg', 'text': '\nA person holding a pair of scissors in their shorts pocket.'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_108.jpg', 'text': '\nThe image is a screenshot of an article from IndieWire. The headline reads "Dan Harmon Deletes Twitter Account After His 2009 Video Featuring Baby Doll Rape Resurfaces." The article discusses a video made in 2009 that has resurfaced, featuring Dan Harmon, a co-creator of the TV show "Rick and Morty." The video is a five-minute comedy sketch titled "Daryl," which was posted on Channel 101.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_48.jpg', 'text': '\nA single sneaker with a black and white striped pattern, a black sole, and a black lace-up closure.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_5.jpg', 'text': '\nA woman with short hair and purple lipstick, wearing a dark coat and earrings.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_119.jpg', 'text': '\nA young man in a graduation gown and cap standing on a concrete surface.'}
+{'img_id': 'twitter_19_31_1_30.jpg', 'text': '\nA dead animal with its mouth open on a table, surrounded by newspapers.'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_230.jpg', 'text': '\nA man in a blue and red jacket with a white stripe, sitting next to another man in a grey hoodie, both smiling.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_6.jpg', 'text': '\nThe image shows a man\'s face with a red background. There is text above and below the image. The text above the image reads "Danny DeVito / Date of birth" and below the image reads "November 17, 1944 age 73 years." The man appears to be wearing glasses and has a bald head.'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_150.jpg', 'text': '\nThe image is a graphic with a red background and a blurred effect, featuring the text "THE JERUSALEM POST" at the top and "BREAKING | NEWS" at the bottom. The style suggests it is a digital banner or header for a news website or section.'}
+{'img_id': 'twitter_stream_2018_08_07_16_0_2_121.jpg', 'text': '\nA man with a beard and glasses holding a microphone. He is wearing a suit and tie.'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_73.jpg', 'text': '\nA clown in a kitchen, wearing a red wig and a pink dress.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_162.jpg', 'text': '\nA man in a colorful hoodie and white sneakers standing in a parking lot with a crowd in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_2_0_2_31.jpg', 'text': '\nA person standing in front of a table with a pot of food, serving food into bowls.'}
+{'img_id': 'twitter_19_31_17_93.jpg', 'text': '\nA woman with blonde hair and a blue shirt, standing in front of a sign.'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_218.jpg', 'text': '\nA concert stage with a large screen displaying a band performing. The audience is visible in the foreground.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_190.jpg', 'text': '\nA group of women in traditional attire sitting in an audience, with men in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_131.jpg', 'text': '\nA woman in a swimsuit stands on a beach, smiling, with her hands on her knees.'}
+{'img_id': 'twitter_19_31_2_29.jpg', 'text': '\nA referee in a black uniform with a microphone, gesturing with one hand, standing on a soccer field.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_195.jpg', 'text': '\nA group of people standing near a water fountain with a bridge in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_22_0_2_153.jpg', 'text': '\nTwo female characters in a dynamic pose, one with a costume resembling Wonder Woman and the other with a leopard-like appearance.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_52.jpg', 'text': "\nThe image shows a close-up of a person's perianal area, with visible hair and skin texture."}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_229.jpg', 'text': '\nA man holding a red and yellow scarf with the text "10 ci sono."'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_34.jpg', 'text': "\nA cartoon depicting a political figure signing a document, with another figure asking if it's the final version."}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_138.jpg', 'text': '\nA watercolor painting of a landscape with a cloudy sky, trees, and a body of water.'}
+{'img_id': 'twitter_stream_2018_05_07_17_0_2_235.jpg', 'text': '\nA football player in uniform holding a helmet, walking on a field with other players in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_20_0_2_74.jpg', 'text': "\nA person's hands holding a large, uncooked dough figure."}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_234.jpg', 'text': '\nA group of people standing on a sidewalk holding signs, with a building and a street in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_229.jpg', 'text': '\nThe image features the logo of Vodafone, a telecommunications company, with a red and silver design on a red background.'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_91.jpg', 'text': "\nThe image shows a series of tweets from various individuals commenting on the news of Dwight Howard's retirement from the NBA."}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_40.jpg', 'text': '\nA woman in a bikini holding a green bottle.'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_45.jpg', 'text': "\nThe image is a poster for the Central Student Council's Executive Team Auditor Projects. It outlines project titles, descriptions, target dates, project heads, and status. The poster also features photos of the team members."}
+{'img_id': 'twitter_stream_2018_07_23_5_0_2_89.jpg', 'text': '\nTwo men standing together, one holding a bouquet of yellow flowers with red accents. They are smiling and appear to be posing for a photo.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_134.jpg', 'text': '\nA woman in a floral shirt holding a bow and arrow, looking to her left with a focused expression.'}
+{'img_id': 'twitter_stream_2018_08_07_20_0_2_1.jpg', 'text': '\nA man with a goatee and mustache, wearing a suit and tie, with his arms crossed.'}
+{'img_id': 'twitter_19_31_5_15.jpg', 'text': '\nA person in a suit and tie standing in a dark room with a light source behind them.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_80.jpg', 'text': '\nA man wearing glasses and a suit, standing in front of a cityscape.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_202.jpg', 'text': '\nA man in a blue Adidas tracksuit holding a black handbag.'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_93.jpg', 'text': '\nA band performing on stage with a spotlight on them.'}
+{'img_id': 'twitter_stream_2018_05_07_10_0_2_90.jpg', 'text': '\nA man laying on a bed with a white dog, both are smiling.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_148.jpg', 'text': '\nA man in a suit and tie standing behind a podium with a microphone, giving a speech.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_40.jpg', 'text': '\nA woman with long hair is smiling and looking at a tablet. She is holding a pen and appears to be in a room with a vase of flowers.'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_117.jpg', 'text': '\nA soccer player in white uniform is walking away from a field with a ball, surrounded by police officers and fans.'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_56.jpg', 'text': '\nAn animated female character with blonde hair and a green suit, standing against a red background with a Nintendo logo.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_10.jpg', 'text': '\nTwo women posing together on stage, one in a shiny blue dress and the other in a colorful floral dress with a large hat.'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_125.jpg', 'text': '\nA man in an orange outfit standing at a podium with a microphone, speaking to an audience.'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_31.jpg', 'text': '\nA man and two girls pose for a photo, with the man standing between them and the girls on either side. The man is smiling and the girls are wearing sunglasses.'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_81.jpg', 'text': '\nA group of men standing together, smiling, holding flowers and garlands.'}
+{'img_id': 'twitter_stream_2018_09_04_4_0_2_49.jpg', 'text': '\nA man in a white and black soccer jersey with a medal around his neck, waving to the crowd.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_31.jpg', 'text': '\nA movie poster with a vintage design featuring two women in period costumes, one sitting and the other standing, with a mirror reflecting the standing woman.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_225.jpg', 'text': '\nA person in a blue hat and coat is reflected in a mirror, working on a large machine.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_92.jpg', 'text': '\nTwo men, one in a suit pointing, the other in a black shirt smiling.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_154.jpg', 'text': '\nA man and woman sitting next to each other, both smoking cigarettes. The woman is wearing a fur coat and the man is in a suit.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_59.jpg', 'text': '\nA man in a suit holding a microphone, standing in front of a basketball jersey.'}
+{'img_id': 'twitter_stream_2019_03_10_3_0_2156.jpg', 'text': '\nA man in a suit and bow tie is speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_13_0_2_72.jpg', 'text': '\nA black and white photo of a man and woman speaking at an anti-war rally.'}
+{'img_id': 'twitter_stream_2018_08_07_13_0_2_243.jpg', 'text': '\nAerial view of a hill with a radio tower, a dirt road, and a wildfire in the background.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_223.jpg', 'text': '\nA canal with a red balloon floating above it, lined with houses and benches.'}
+{'img_id': 'twitter_19_31_17_40.jpg', 'text': '\nThe image is a collage of two photos related to a football match. The top photo shows a stadium with a large crowd and a team\'s crest on the pitch. The bottom photo shows a large banner with a player\'s face and the word "LOUIS" on it, with fans holding it up.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_179.jpg', 'text': '\nCartoon characters from the show "Alvin and the Chipmunks" are depicted in a humorous situation where one character is pretending to be a princess and the other is a chocolate chip cookie.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_10.jpg', 'text': '\nA group of football players on a field, some wearing orange helmets, others in white, with one player on the ground.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_6.jpg', 'text': '\nA blurry image of two men in sports jerseys, one with a yellow stripe, engaged in conversation.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_107.jpg', 'text': '\nA man with a beard and mustache, wearing a suit and jacket, with his hand extended as if reaching out. Behind him is a dark background with a golden glow and the text "Happy Birthday!" in a stylized font.'}
+{'img_id': 'twitter_stream_2018_07_23_17_0_2_104.jpg', 'text': '\nA man speaking into a microphone at a podium. The text on the image is in Spanish and reads "Continuemos rumbo al exito" which translates to "Let\'s continue on the path to success."'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_232.jpg', 'text': '\nA vintage photo of a man and woman waving from a car, with the woman wearing a tiara.'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_184.jpg', 'text': '\nA man holding a baby with a bottle, both appearing to be asleep.'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_208.jpg', 'text': '\nA man and a woman posing for a photo. The man is wearing a baseball cap and a t-shirt with the word "Red Sox" on it.'}
+{'img_id': 'twitter_stream_2018_09_04_6_0_2_212.jpg', 'text': '\nA man in a suit and tie sitting in a chair with a smile on his face.'}
+{'img_id': 'twitter_stream_2018_06_11_13_0_2_33.jpg', 'text': '\nA man in a suit and tie standing on a basketball court, gesturing with his hand.'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_14.jpg', 'text': '\nA digital graphic with a blue background and a floral design. It features a "Thank You" message with three avatars and their respective reach numbers.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_77.jpg', 'text': '\nA vintage advertisement for the Nintendo Entertainment System featuring a man playing a banjo.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_47.jpg', 'text': '\nTwo people making a peace sign with their hands.'}
+{'img_id': 'twitter_stream_2018_05_07_9_0_2_2.jpg', 'text': '\nA man with a shaved head and goatee, wearing a white shirt.'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_117.jpg', 'text': '\nA smiling man in a beige t-shirt standing on a stage with a blue background.'}
+{'img_id': 'twitter_19_31_8_22.jpg', 'text': '\nA blurry image of a child swinging a toy in a room.'}
+{'img_id': 'twitter_stream_2018_09_04_1_0_2_158.jpg', 'text': '\nA collage of six portraits of young people, three men and three women, with different expressions and poses.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_220.jpg', 'text': '\nA split image of a football player celebrating a touchdown with a crowd in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_74.jpg', 'text': '\nA man wearing sunglasses, a hat, and a black shirt with the words "Motor City" on it, holding a microphone.'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_55.jpg', 'text': '\nA blue toy figure in a box and a separate blue toy figure.'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_24.jpg', 'text': '\nThe image shows a man in a suit and red tie waving to the camera. He is standing in front of a black car and construction vehicles.'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_75.jpg', 'text': '\nA large crowd of people standing outside a building, many wearing red hats, suggesting a patriotic event.'}
+{'img_id': 'twitter_stream_2018_10_10_23_0_2_75.jpg', 'text': '\nA woman in a shiny dress holding a microphone, standing on a stage with a crowd in the background.'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_61.jpg', 'text': '\nA creature with large, pointed fingers and a pale face with a surprised expression.'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_50.jpg', 'text': '\nA sidewalk with a mural of food items on the wall of a building.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_175.jpg', 'text': '\nTwo images side by side of a woman with dark hair and a tattoo and a man with short hair smiling.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_22.jpg', 'text': '\nA football player in a purple uniform holding a football.'}
+{'img_id': 'twitter_stream_2018_07_23_25_0_2_5.jpg', 'text': '\nA large crowd of people at a soccer match, with smoke and flares, and a yellow banner with a green emblem.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_164.jpg', 'text': '\nA man in a suit standing in front of a blue screen with the NRA logo and a Texas flag.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_247.jpg', 'text': "\nThe image is a close-up of an animated character with large, expressive eyes and a surprised or curious expression. The character has spiky black hair with green tips. There is text overlaying the image, providing information about the character's name, age, and student status, as well as a humorous statement about the character's internet habits."}
+{'img_id': 'twitter_stream_2018_10_10_2_3_123.jpg', 'text': "\nTwo Hershey's ice cream machines with two different flavors."}
+{'img_id': 'twitter_stream_2018_10_10_24_0_2_17.jpg', 'text': '\nA stylized graphic of a fantasy character, likely a knight, holding a sword, with a logo and text indicating a game or event related to Dungeons & Dragons.'}
+{'img_id': 'twitter_stream_2018_07_23_3_0_2_237.jpg', 'text': '\nA man and woman embracing in front of a crowd, smiling and looking at each other.'}
+{'img_id': 'twitter_stream_2018_05_07_3_0_2_36.jpg', 'text': '\nTwo identical images of a smiling young man with a name and date, set against a colorful background with a crown and a heart.'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_42.jpg', 'text': '\nCartoon depicting a fire engulfing a row of pants outside a building, with a caption about White House experiences.'}
+{'img_id': 'twitter_stream_2018_08_07_24_0_2_213.jpg', 'text': '\nThe image is a screenshot of a news article from a website. It features two men sitting on a couch. The man on the left is wearing a patterned shirt and a black hat, while the man on the right is wearing a traditional outfit with a white turban. The text on the image is in Indonesian and appears to be discussing a political or social issue. The date and time of the screenshot are also visible, indicating it was taken on July 21, 2018, at 9:30 PM.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_44.jpg', 'text': '\nA woman in a white dress and blue boots performs in front of a group of men in yellow suits.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_177.jpg', 'text': '\nThe image is a cover for a video game titled "Labyrinth: The War on Terror, 2001 -?". It features a silhouette of a soldier in military gear holding a weapon, set against a digital, grid-like background. The game is designed by Volko Ruhnke and is printed by GMT Games LLC.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_214.jpg', 'text': '\nThe image shows a black computer tower with the brand "EMOTIVA" on the front. It has a blue LED light and a label that reads "XPA."'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_21.jpg', 'text': '\nThe image shows a meal with a burger and fries, overlaid with text that reads "WINNIPEG VEGAN GUIDE."'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_111.jpg', 'text': '\nA large, ornate stone building with a grand entrance featuring a statue and intricate carvings.'}
+{'img_id': 'twitter_stream_2018_10_10_20_0_2_46.jpg', 'text': '\nA basketball player in a Duke jersey holding a basketball.'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_71.jpg', 'text': "\nA person's feet wearing white and black sneakers with a checkered pattern on the side."}
+{'img_id': 'twitter_stream_2018_10_10_16_0_2_226.jpg', 'text': '\nA man with a shaved head and beard, wearing a black t-shirt, standing in a courtyard with chairs and a structure in the background.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_13.jpg', 'text': '\nA close-up of a stone structure with intricate carvings, including a central figure and possibly a lion.'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_70.jpg', 'text': '\nA map showing the African continent with a blue shaded area indicating a specific region, possibly a country or territory.'}
+{'img_id': 'twitter_stream_2018_08_07_17_0_2_125.jpg', 'text': '\nA wooden pier extending into the ocean with waves crashing against it.'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_217.jpg', 'text': '\nTwo dogs sitting in front of a brick building with a blue door.'}
+{'img_id': 'twitter_stream_2019_04_30_2_3_12.jpg', 'text': '\nAn animated scene with a dog peeking through a doorway, a small bear sitting on a chair, and a room with a blue door.'}
+{'img_id': 'twitter_stream_2018_08_07_21_0_2_20.jpg', 'text': '\nA man in a suit and tie with a serious expression, adjusting his cuff. The word "GALINDO" in large white letters behind him.'}
+{'img_id': 'twitter_stream_2019_04_10_2_3_37.jpg', 'text': '\nA graphic with the logos of two basketball teams, the Golden State Warriors and the Los Angeles Clippers, set against a black background with a gold border.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_46.jpg', 'text': '\nA group of men in suits running alongside a black car.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_134.jpg', 'text': '\nTwo young boys standing side by side, smiling, wearing school shirts.'}
+{'img_id': 'twitter_stream_2018_10_10_15_0_2_36.jpg', 'text': '\nThe image is a political cartoon with text and graphics. It appears to be a satirical take on a political situation, possibly related to India, as indicated by the text in Hindi. The text mentions Congress ending up with egg on its face, a Supreme Court decision, and a reference to a political leader. The cartoon includes a fighter jet and a man with a speech bubble containing a quote. The style is typical of editorial cartoons used to comment on current events.'}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_46.jpg', 'text': '\nAn animated character with red hair and a red shirt, looking angry.'}
+{'img_id': 'twitter_stream_2018_10_10_5_0_2_68.jpg', 'text': '\nA man and woman walking hand in hand down a staircase. The man is wearing a yellow shirt and the woman is wearing a patterned sweater.'}
+{'img_id': 'twitter_stream_2018_09_04_3_0_2_122.jpg', 'text': '\nA man and a woman holding popsicles with chocolate and nuts.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_191.jpg', 'text': '\nA blurry image of a race track with a red car in the lead, followed by other cars, and a scoreboard showing the current standings.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_108.jpg', 'text': '\nA tennis player in an orange shirt and black shorts is swinging a racket at a ball on a green court.'}
+{'img_id': 'twitter_stream_2018_07_23_15_0_2_32.jpg', 'text': '\nA cartoon illustration of a person trekking through a snowy mountain landscape with a large, intricate structure in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_107.jpg', 'text': '\nA man with a shaved head is leaning against a tree, smiling.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_18.jpg', 'text': '\nA screenshot of a social media profile with a logo, text, and images of people.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_221.jpg', 'text': '\nA woman in a pink, fluffy dress poses on a carpeted step, surrounded by photographers.'}
+{'img_id': 'twitter_stream_2018_10_10_7_0_2_116.jpg', 'text': '\nA large white airplane with the word "Emirates" on it, parked next to a building with the word "AIRBUS" on it. A yellow truck is in front of the plane.'}
+{'img_id': 'twitter_stream_2018_07_23_7_0_2_173.jpg', 'text': '\nThree images of solar panels and related equipment, with a logo for "EcoDepot" in the center.'}
+{'img_id': 'twitter_stream_2018_09_04_14_0_2_168.jpg', 'text': '\nA man sitting on the ground with a strap around his neck, another man kneeling beside him with a hand on his shoulder.'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_4.jpg', 'text': '\nA group of people sitting in the stands watching a baseball game.'}
+{'img_id': 'twitter_stream_2018_09_04_2_0_2_50.jpg', 'text': '\nA group of men in white tank tops and black pants standing on rocks.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_215.jpg', 'text': '\nA black and white image of two men on stage, one singing into a microphone, the other playing guitar.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_177.jpg', 'text': '\nA young man with short blonde hair and a black coat looking off to the side.'}
+{'img_id': 'twitter_stream_2018_10_10_1_0_2_179.jpg', 'text': '\nA woman in a white coat and skirt poses with her hand on her chin.'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_189.jpg', 'text': '\nA man in a basketball jersey stands with arms raised, looking up, in a dimly lit room with red and black chairs.'}
+{'img_id': 'twitter_stream_2018_09_04_14_0_2_208.jpg', 'text': '\nA man in a black shirt standing in front of a poster with the title "Doctor Sleep" in stylized letters.'}
+{'img_id': 'twitter_stream_2018_05_07_21_0_2_64.jpg', 'text': '\nA basketball game in progress with players on the court and spectators in the stands.'}
+{'img_id': 'twitter_stream_2018_06_11_19_0_2_20.jpg', 'text': '\nA woman with blonde hair smiling at the camera. She is wearing a striped shirt.'}
+{'img_id': 'twitter_stream_2018_05_07_15_0_2_206.jpg', 'text': '\nA basketball player in mid-air, dunking a ball through a hoop.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_79.jpg', 'text': '\nA large cruise ship docked at a port with a city skyline in the background.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_230.jpg', 'text': '\nThe image is a black and white photograph of a soccer player, Mesut Ozil, in action on the field. He is wearing a soccer uniform with the number 10.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_81.jpg', 'text': '\nA cartoon monkey with a surprised expression, wearing a blue shirt and overalls.'}
+{'img_id': 'twitter_stream_2018_07_23_18_0_2_121.jpg', 'text': '\nA black and white image of a man wearing headphones and sunglasses, with a microphone, and the text "IN MEMORY OF TONY SPARANO 1961 - 2018" above him.'}
+{'img_id': 'twitter_stream_2018_07_23_14_0_2_28.jpg', 'text': '\nA split-screen image of two men in a room with a yellow door, one smiling and the other serious.'}
+{'img_id': 'twitter_stream_2018_07_23_2_3_15.jpg', 'text': '\nA man in a suit and tie standing in front of two American flags.'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_39.jpg', 'text': '\nTwo men smiling at the camera, one wearing a cap, the other with a bald head. They are standing close together.'}
+{'img_id': 'twitter_stream_2018_05_07_16_0_2_94.jpg', 'text': '\nA person riding a motorcycle on a road.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_190.jpg', 'text': '\nA man and his dog standing in front of a sign with a polar bear, indicating a polar bear habitat.'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_118.jpg', 'text': '\nThe image features a logo with the text "DAOx" and "ICO Rating" with a rating of 4.8. The background is dark with blue and purple hues and abstract shapes.'}
+{'img_id': 'twitter_stream_2018_05_07_12_0_2_98.jpg', 'text': '\nA large tiger with stripes is sitting on a wooden platform.'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_18.jpg', 'text': '\nA group of people standing on a stage, one person is singing into a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_55.jpg', 'text': '\nThe image is a political advertisement featuring a man\'s face on the left side, with text in Urdu on the right side. The text appears to be discussing political matters, possibly related to Pakistan, and mentions "PTI" which stands for Pakistan Tehreek-e-Insaf, a political party in Pakistan. The text is too small to read in detail, but it seems to be a campaign message or a statement from the party.'}
+{'img_id': 'twitter_stream_2018_05_07_2_0_2_166.jpg', 'text': '\nA black and white photo of a man and woman holding a baby. The man is looking at the camera with a surprised expression.'}
+{'img_id': 'twitter_stream_2018_06_11_23_0_2_44.jpg', 'text': '\nThe image is a close-up of a bright, pinkish light with streaks of white, giving the impression of a burst or explosion.'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_147.jpg', 'text': '\nA blurry image of a woman with long hair and a black coat, standing next to another person.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_125.jpg', 'text': '\nA person wearing a black shirt and a white hat with a pattern.'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_12.jpg', 'text': '\nA panoramic view of the Colosseum at night with a split image showing the interior and exterior.'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_17.jpg', 'text': '\nThe image is a motivational quote featuring a man in a red sports jersey, likely a soccer player, with a crowd in the background. The text is in Portuguese and reads, "Se forte, Karisu, ja aconteceu aos melhores jogadores. Ignora os que odeiam."'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_22.jpg', 'text': '\nThe image contains a text excerpt discussing political views and the desire for a new century. It mentions a desire for a new world order, a need for a new century, and a call for a new world order. The text also references a desire for a new world order and a call for a new world order.'}
+{'img_id': 'twitter_stream_2018_07_23_16_0_2_148.jpg', 'text': '\nThe image displays a list of articles from a website, each with a title and a brief summary. The titles and summaries are related to a celebrity named Jackie Mason.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_42.jpg', 'text': '\nA man in a suit waving at the camera.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_219.jpg', 'text': '\nAn animated character, a young man with a hat, holding a bouquet of flowers, smiling, with a speech bubble saying "welcome back, Shiro."'}
+{'img_id': 'twitter_stream_2018_10_10_11_0_2_204.jpg', 'text': '\nA beachfront building with a wooden deck and stairs leading to the ocean. The ocean is rough with waves crashing onto the shore.'}
+{'img_id': 'twitter_stream_2018_06_11_15_0_2_137.jpg', 'text': '\nA group of people handing out supplies to others in a line.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_174.jpg', 'text': '\nA person making a peace sign with one hand while the other hand is puckered out. The background is a red and blue striped pattern.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_33.jpg', 'text': '\nA satellite image of a hurricane with a large eye and a storm surge warning area marked.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_12.jpg', 'text': '\nA man in traditional Indian attire, including a turban, speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_7_0_2_86.jpg', 'text': '\nA person holding a smartphone, taking a selfie.'}
+{'img_id': 'twitter_stream_2018_10_10_8_0_2_1.jpg', 'text': '\nA video camera with a monitor displaying a man wearing headphones, recording a scene with two people sitting at a table.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_51.jpg', 'text': '\nA modern, multi-level building with a unique, angular design, featuring terraces and greenery.'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_130.jpg', 'text': '\nA view from an airplane window showing the wing and a landscape below.'}
+{'img_id': 'twitter_stream_2018_05_07_5_0_2_30.jpg', 'text': '\nA group of people, both boys and girls, wearing pink shirts and standing in front of a yellow school bus.'}
+{'img_id': 'twitter_19_31_23_11.jpg', 'text': '\nTwo rugby players in white jerseys with red and green accents, standing on a field.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_203.jpg', 'text': '\nA man and woman are kissing. The man is wearing a helmet and the woman has long hair. They are in front of a crowd.'}
+{'img_id': 'twitter_stream_2018_05_07_20_0_2_207.jpg', 'text': '\nA man walking in a field with another man standing on a bench taking a photo.'}
+{'img_id': 'twitter_stream_2018_09_04_0_0_2_193.jpg', 'text': '\nA woman in a bikini standing by a pool, with a group of people lounging on chairs in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_25_0_2_242.jpg', 'text': '\nA man with a beard and a cap, wearing a gray jacket, sitting in a chair.'}
+{'img_id': 'twitter_stream_2018_10_10_3_0_2_221.jpg', 'text': '\nA woman in a blue dress sitting on a couch with a smile on her face.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_188.jpg', 'text': '\nA group of men in yellow jackets sitting together, smiling and looking at a cell phone.'}
+{'img_id': 'twitter_stream_2018_08_07_14_0_2_47.jpg', 'text': '\nA soccer player in a blue uniform is kicking a ball, while a player in a white uniform is sliding on the ground to intercept.'}
+{'img_id': 'twitter_stream_2018_05_07_22_0_2_14.jpg', 'text': "\nThe image contains a text conversation between two individuals, Cheskys and Bezos, discussing Warren Buffett's investment philosophy."}
+{'img_id': 'twitter_19_31_17_21.jpg', 'text': '\nAn animated character with dark hair and a black outfit, wielding a glowing, mechanical-looking weapon.'}
+{'img_id': 'twitter_stream_2018_05_07_11_0_2_173.jpg', 'text': '\nA large, ornate brick building with a white porch and columns, surrounded by trees and a black wrought iron fence.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_92.jpg', 'text': '\nA large cloud of fog or mist rising from a valley, obscuring the landscape.'}
+{'img_id': 'twitter_stream_2018_09_04_9_0_2_135.jpg', 'text': '\nA group of people in a room, some taking photos with their phones, others standing and talking.'}
+{'img_id': 'twitter_stream_2018_08_07_22_0_2_123.jpg', 'text': '\nThe image shows a celestial body with rings, likely a planet, set against a dark background. The rings are visible and appear to be made of ice or rock.'}
+{'img_id': 'twitter_stream_2018_08_07_6_0_2_105.jpg', 'text': '\nTwo images side by side. Top: two animated characters with angry expressions. Bottom: two real people with similar hairstyles and expressions.'}
+{'img_id': 'twitter_stream_2018_08_07_11_0_2_85.jpg', 'text': '\nA man and woman sitting at a table with drinks, smiling at the camera.'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_136.jpg', 'text': '\nA group of people, including Kim Jong Un, walking together.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_52.jpg', 'text': '\nA man in a wheelchair is being kissed on the forehead by another man. They are surrounded by other men in traditional attire.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_108.jpg', 'text': '\nA group of people gathered around a large cake, with one person taking a selfie in front of it.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_29.jpg', 'text': '\nTwo animated characters sitting on a couch, one reading a newspaper and the other holding a red dragon.'}
+{'img_id': 'twitter_stream_2018_09_04_5_0_2_92.jpg', 'text': '\nA white bus with a driver and a passenger, parked in a garage with other vehicles.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_179.jpg', 'text': '\nA bald man in a suit and tie standing in a room with a ladder and a ceiling fan.'}
+{'img_id': 'twitter_19_31_14_97.jpg', 'text': '\nA close-up of a collection of audio cables and plugs.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_32.jpg', 'text': '\nA man in orange robes standing at a podium, speaking to an audience under a tent.'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_153.jpg', 'text': '\nThe image is a graphic with text and a circular portrait of a man. The text reads "2018 Special Tony Award" and below it, "Bruce Springsteen." To the right of the portrait is a trophy with a circular emblem on top.'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_118.jpg', 'text': "\nThe image is a screenshot of a news article discussing the RSS's stance on secular forces. It includes two photographs of individuals, presumably leaders, and text that is too small to read in detail."}
+{'img_id': 'twitter_stream_2018_07_23_22_0_2_198.jpg', 'text': '\nA man in a suit holding a jacket, standing in a room with a film projector and film reels.'}
+{'img_id': 'twitter_stream_2018_09_04_7_0_2_73.jpg', 'text': '\nThe image contains text that reads "ESV 2020" with a blurred background. The text is in a bold, sans-serif font with the "ESV" in black and the "2020" in red. The background has a gradient of red and black colors.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_170.jpg', 'text': '\nA man in a black hat and suit speaking into a microphone.'}
+{'img_id': 'twitter_stream_2018_09_04_12_0_2_30.jpg', 'text': '\nA man in traditional Arab attire shaking hands with a woman in a suit. They are standing in front of a wall with Arabic script.'}
+{'img_id': 'twitter_stream_2018_08_07_10_0_2_63.jpg', 'text': '\nA close-up of a man with a serious expression, looking to the side.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_242.jpg', 'text': '\nA man in a green jersey with a yellow arrow pointing to it, sitting next to a woman in a blue shirt.'}
+{'img_id': 'twitter_stream_2018_08_07_5_0_2_147.jpg', 'text': "\nA letter from a hospital, signed by a doctor, discussing a patient's condition and treatment."}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_209.jpg', 'text': '\nA collage of four images showing a man making a peace sign, another man with his hand on his face, a man with his finger to his lips, and a man with his hand on his face.'}
+{'img_id': 'twitter_stream_2018_06_11_27_0_2_5.jpg', 'text': '\nA group of women, including a celebrity, are seen in a close-up, making duck lips and kissing each other.'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_195.jpg', 'text': '\nA man in a suit and tie is on a television show, discussing LeBron James wanting to groom Lonzo Ball.'}
+{'img_id': 'twitter_stream_2018_08_07_18_0_2_78.jpg', 'text': '\nA person wearing a black hat and sunglasses is sitting in a car with another person wearing a Pikachu hat.'}
+{'img_id': 'twitter_stream_2018_07_23_9_0_2_104.jpg', 'text': '\nA person standing on a rocky surface wearing a white shirt with red text and blue pants.'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_43.jpg', 'text': '\nA billboard with two men\'s faces, one labeled "FELIPE" and the other "CAMBIO," with the word "INTELIGENTE" below. The billboard is on a busy street with cars and trucks.'}
+{'img_id': 'twitter_stream_2018_09_04_0_0_2_62.jpg', 'text': '\nA group of people standing on a stage with a yellow sign that says "IKON" behind them.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_234.jpg', 'text': '\nA woman with dark hair and a black top with a floral pattern, sitting with her arm on her head.'}
+{'img_id': 'twitter_stream_2018_05_07_23_0_2_59.jpg', 'text': "\nA blurry photo of a car interior with a focus on the dashboard, showing a person's hand and a smartphone."}
+{'img_id': 'twitter_stream_2018_06_11_16_0_2_130.jpg', 'text': '\nA basketball player in a red jersey with the number 2, dribbling a basketball on a court.'}
+{'img_id': 'twitter_stream_2018_07_23_4_0_2_45.jpg', 'text': '\nA woman with glasses and a purple headscarf.'}
+{'img_id': 'twitter_stream_2018_05_07_14_0_2_43.jpg', 'text': '\nFour people posing for a photo with playful expressions.'}
+{'img_id': 'twitter_stream_2018_05_07_8_0_2_206.jpg', 'text': '\nA collage of photos showing a group of people, likely school children, in a gymnasium. They are wearing blue shirts and white bows, and appear to be participating in a group activity or event.'}
+{'img_id': 'twitter_stream_2018_07_23_23_0_2_65.jpg', 'text': '\nA man in a blue shirt and tie standing at a podium with a microphone.'}
+{'img_id': 'twitter_stream_2018_05_07_19_0_2_136.jpg', 'text': '\nA tabletop game with cards and pieces on a hexagonal map, depicting a strategic battle scenario.'}
+{'img_id': 'twitter_stream_2018_08_07_19_0_2_93.jpg', 'text': "\nA man and a woman standing next to each other, smiling, with the man's hand in his pocket."}
+{'img_id': 'twitter_stream_2018_06_11_26_0_2_151.jpg', 'text': '\nA man in an orange shirt and a large alien with a big head and eyes.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_186.jpg', 'text': '\nCartoon of an elephant stepping on a donkey with a "Dems" sign, saying "Yes, I know the GOP has a leg up on the midterms..."'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_207.jpg', 'text': '\nA digital artwork featuring two characters with lightsabers, one with a beard, standing in front of a red planet with stars in the background.'}
+{'img_id': 'twitter_stream_2018_09_04_8_0_2_130.jpg', 'text': '\nA man in a suit and tie standing behind a podium with microphones.'}
+{'img_id': 'twitter_stream_2018_10_10_9_0_2_182.jpg', 'text': '\nA young boy holding a baby in his arms.'}
+{'img_id': 'twitter_stream_2018_10_10_6_0_2_111.jpg', 'text': '\nA woman in a long black dress with a beaded necklace and a headdress, standing on a runway.'}
+{'img_id': 'twitter_stream_2018_05_07_2_0_2_91.jpg', 'text': '\nA person wearing a white t-shirt with the word "private" on it and a blue jacket.'}
+{'img_id': 'twitter_stream_2018_08_07_8_0_2_8.jpg', 'text': '\nA man in a suit and red tie with a flag in the background.'}
+{'img_id': 'twitter_stream_2018_06_11_22_0_2_122.jpg', 'text': '\nA woman wearing oversized, sparkly sunglasses with a large "D" on them, and a red bow in her hair.'}
+{'img_id': 'twitter_19_31_9_30.jpg', 'text': '\nThe image is a graphic with a fantasy theme, featuring characters that appear to be warriors or fighters. There is text overlaying the image that reads "12/4/17 JENSEN Season9." The style of the image suggests it may be related to a video game or a gaming event.'}
+{'img_id': 'twitter_stream_2018_07_23_8_0_2_164.jpg', 'text': '\nA man taking a selfie in a bathroom, shirtless, with tattoos and jewelry.'}
+{'img_id': 'twitter_stream_2019_03_10_2_3_34.jpg', 'text': '\nA video game screen showing two characters in a chaotic battle scene with a foggy background.'}
+{'img_id': 'twitter_stream_2018_07_23_21_0_2_26.jpg', 'text': '\nA lighthouse stands tall against a dramatic sky, with a building and a pier in the foreground.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_22.jpg', 'text': '\nTwo men sitting at a table, one wearing a suit and the other a colorful shirt, engaged in a conversation.'}
+{'img_id': 'twitter_stream_2018_05_07_2_3_55.jpg', 'text': '\nThree men sitting on a couch, wearing colorful clothing and sunglasses, with one wearing dreadlocks.'}
+{'img_id': 'twitter_stream_2018_10_10_4_0_2_145.jpg', 'text': '\nA sign in a window stating "We plan to open as soon as the storm passes. In case of emergency call 1-800-432-4365. Waffle House."'}
+{'img_id': 'twitter_stream_2018_07_23_19_0_2_0.jpg', 'text': '\nA city street with a yellow police tape blocking off an area, two police officers standing behind it, and a few pedestrians observing.'}
+{'img_id': 'twitter_stream_2018_08_07_7_0_2_38.jpg', 'text': '\nA cartoon robot with green and purple colors, wearing a helmet, with its arms raised.'}
+{'img_id': 'twitter_stream_2018_07_23_13_0_2_72.jpg', 'text': '\nA 3D rendering of a skeleton lying on its back with its arms and legs stretched out.'}
+{'img_id': 'twitter_stream_2018_07_23_11_0_2_95.jpg', 'text': '\nThe image shows a carved stone relief with figures and patterns, possibly depicting scenes from mythology or folklore.'}
+{'img_id': 'twitter_stream_2018_10_10_14_0_2_163.jpg', 'text': '\nA man wearing sunglasses and a hat, with a name tag, walking in a park.'}
+{'img_id': 'twitter_stream_2018_10_10_13_0_2_142.jpg', 'text': '\nA dog swimming in a body of water with trees in the background.'}
+{'img_id': 'twitter_stream_2018_09_04_14_0_2_184.jpg', 'text': '\nA woman in lingerie is kneeling on a desk.'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_17.jpg', 'text': '\nA large room with a high ceiling, filled with paintings on the walls and a few people standing in the center.'}
+{'img_id': 'twitter_stream_2018_05_07_6_0_2_189.jpg', 'text': '\nA muscular man with a bald head, wearing a costume with gold accents, holding a glowing object in his hand.'}
+{'img_id': 'twitter_stream_2018_06_11_1_0_2_181.jpg', 'text': '\nA green robot figurine standing next to a red apple.'}
+{'img_id': 'twitter_stream_2018_06_11_24_0_2_31.jpg', 'text': '\nAn animated scene with a character peeking through a bamboo door, another character in the background, and a potted plant.'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_58.jpg', 'text': '\nThe image is a black screen with text overlay. The text reads "DIRECTED BY DREW HLMEDIT."'}
+{'img_id': 'twitter_stream_2018_10_10_2_3_43.jpg', 'text': '\nA young man with glasses and a brown suit leaning against a wall.'}
+{'img_id': 'twitter_stream_2018_08_07_2_3_93.jpg', 'text': '\nA gothic figure in a hooded cloak stands on a boat, holding a lantern and a pole, with a skull crew.'}
+{'img_id': 'twitter_stream_2018_08_07_9_0_2_202.jpg', 'text': '\nA table comparing cities with high EV charging points, ranked by score. Cities include London, Amsterdam, Berlin, Oslo, New York, Lisbon, Munich, and Barcelona.'}
+{'img_id': 'twitter_stream_2018_08_07_15_0_2_148.jpg', 'text': '\nA woman in a black outfit singing into a microphone on stage.'}
+{'img_id': 'twitter_stream_2018_08_07_17_0_2_181.jpg', 'text': '\nA painting of a rainy day scene with people walking on a path, one sitting on a bench, and a couple sharing an umbrella.'}
+{'img_id': 'twitter_19_31_0_8.jpg', 'text': '\nA man and a woman riding bicycles side by side on a street.'}
+{'img_id': 'twitter_stream_2019_03_31_2_3_40.jpg', 'text': '\nA woman with dark hair and red lipstick posing against a red background. She is wearing a black top and has a necklace.'}
+{'img_id': 'twitter_stream_2018_06_11_2_3_74.jpg', 'text': '\nA group of five people posing for a photo, standing and sitting against a wall with a sign that reads "TREAT PEOPLE WITH DNE."'}
+{'img_id': 'twitter_stream_2018_06_11_21_0_2_182.jpg', 'text': '\nA man on stage holding a microphone, wearing a white shirt with black lettering and a black jacket. He is pointing upwards.'}
+{'img_id': 'twitter_stream_2019_01_10_2_3_39.jpg', 'text': '\nA basketball player in a black and pink jersey running on a court.'}
+{'img_id': 'twitter_stream_2018_10_10_21_0_2_92.jpg', 'text': '\nA man in a suit and tie standing on a soccer field, gesturing with his hand.'}
+{'img_id': 'twitter_stream_2018_07_23_12_0_2_74.jpg', 'text': '\nA person with dark hair and a black shirt, holding a microphone. Another person with light hair and a blue shirt is partially visible behind them.'}
+{'img_id': 'twitter_stream_2018_07_23_6_0_2_67.jpg', 'text': '\nA city street lined with tall buildings, outdoor seating areas, and palm trees.'}
