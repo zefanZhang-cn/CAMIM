@@ -74,8 +74,20 @@ CAMIM
  |    |-- pretrain.py # basic file
  |    |-- utils.py # basic file
  |-- opennre.egg-info
- |-- results # saving the results
- |    |-- test # results for test set
- |    |-- val # results for validation set
  |-- run.py   # main 
+```
+`bert_model.py` is the file for our CAMIM model.
+
+`data_loader.py` is the file for processing raw data.
+
+`sentence_re.py` is the file that sets up training, testing, and other processes.
+
+`run.py` is used for running the whole program.
+
+## Citation
+
+If you find this repo helpful, please cite the following:
+
+``` latex
+
 ```
