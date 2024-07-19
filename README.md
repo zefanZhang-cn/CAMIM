@@ -27,4 +27,48 @@ To run the codes, you need to install the requirements for [RE](requirements.txt
 
 ## Path Structure
 The expected structures of Paths are:  
-Multimodal Relation Extraction
+### Multimodal Relation Extraction
+```
+CAMIM
+ |-- ckpt # save the checkpoint
+ |-- data
+ |    |-- txt  # text data
+ |    |    |-- ours_train.txt # input data
+ |    |    |-- ours_val.txt
+ |    |    |-- ours_test.txt
+ |    |    |-- mre_train_dict.pth  # {imgname: [object-image]}
+ |    |    |-- ...
+ |    |    |-- dif_train_weight_strong.txt  # strong correlation score for generated image
+ |    |    |-- train_weight_strong.txt  # strong correlation score for original image
+ |    |    |-- dif_train_weight_weak.txt  # weak correlation score for generated image
+ |    |    |-- train_weight_weak.txt  # weak correlation score for original image
+ |    |    |-- ...
+ |    |    |-- phrase_text_train.json # {imgname: phrase for object detection}
+ |    |    |-- ...
+ |    |    |-- mre_dif_train_dif.pth # {imgname: [coordinates]}
+ |    |    |-- ...
+ |    |-- img_org       # original image data
+ |    |-- img_vg   # visual object image data for original image
+ |    |-- diffusion_pic   # generated image data
+ |    |-- ours_rel2id.json # target relations
+ |-- opennre	# main framework 
+ |    |-- encoder # main model
+ |    |    |-- bert_encoder.py # TMR-RE
+ |    |    |-- modeling_bert.py
+ |    |-- framework # processing files
+ |    |    |-- data_loader.py # data processor
+ |    |    |-- sentence_re.py # trainer
+ |    |    |-- utils.py
+ |    |-- model # classifier
+ |    |    |-- softmax_nn.py # main classifier
+ |    |    |-- modeling_bert.py 
+ |    |    |-- base_model.py # supporting the classifier, no modification required
+ |    |-- tokenization # tokenizers, no modification required
+ |    |-- pretrain.py # basic file
+ |    |-- utils.py # basic file
+ |-- opennre.egg-info
+ |-- results # saving the results
+ |    |-- test # results for test set
+ |    |-- val # results for validation set
+ |-- run.py   # main 
+```
