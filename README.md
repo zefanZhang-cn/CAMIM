@@ -47,9 +47,16 @@ CAMIM
  |    |    |-- ...
  |    |    |-- mre_dif_train_dif.pth # {imgname: [coordinates]}
  |    |    |-- ...
- |    |-- img_org       # original image data
- |    |-- img_vg   # visual object image data for original image
- |    |-- diffusion_pic   # generated image data
+ |    |-- img_org       # original image data, please download it according to the above link
+ |    |-- img_vg   # visual object image data for original image, please download it according to the above link
+ |    |-- diffusion_pic   # generated image data, please download it according to the above link
+ |    |-- caption   # Qwen caption data
+ |    |    |-- BLIP_train.txt ... # BLIP caption data
+ |    |    |-- caption_train.txt ... # Qwen caption data
+ |    |    |-- cogvlm_train.txt ... # Cogvlm caption data
+ |    |    |-- instruct_train.txt ... # Instruct-BLIP caption data
+ |    |    |-- llavanext_train.txt ... # Llavanext caption data
+ |    |    |-- minicpm_train.txt ... # minicpm caption data
  |    |-- ours_rel2id.json # target relations
  |-- opennre	# main framework 
  |    |-- encoder # main model
