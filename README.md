@@ -85,7 +85,7 @@ CAMIM
 `run.py` is used for running the whole program.
 
 ## Acknowledge
-Sincere thanks to [***HVPNeT***](https://github.com/zjunlp/HVPNeT) and [***TMR***](https://github.com/thecharm/TMR) for their contributions to this study. Undoubtedly, our success is inseparable from the efforts of any researcher who focuses on multimodal relation extraction tasks. Finally, we sincerely wish every researcher a wonderful scientific research!
+Sincerely thanks to [***HVPNeT***](https://github.com/zjunlp/HVPNeT) and [***TMR***](https://github.com/thecharm/TMR) for their contributions to this study. Undoubtedly, our success is inseparable from the efforts of any researcher who focuses on multimodal relation extraction tasks. Finally, we sincerely wish every researcher has wonderful scientific research!
 
 ## Citation
 
