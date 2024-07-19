@@ -10,4 +10,4 @@ Previous methods tend to introduce the issue of ***error sensitivity*** and be e
 The framework of the proposed Caption-Aware MultiModal Relation Extraction Network with Mutual Information Maximization (CAMIM). (a) We utilize the Multimodal Large Language Model to extract captions and encode them by BERT, leverage ResNet50 to encode the image, and translation image \cite{rethinking} to get object-level features \cite{HVPChen}. (b) In the Caption-Aware Module, we hierarchically aggregate features from different levels and feed them into the Cross-attention Module to interact. To reduce the risk of overfitting, we feed outputs and text features together into the Fusion Module. (c) We finally leverage Mutual Information to preserve the crucial information.
 
 ## Required Environment
-To run the codes, you need to install the requirements for [RE](requirement.txt).
+To run the codes, you need to install the requirements for [RE](requirements.txt).
