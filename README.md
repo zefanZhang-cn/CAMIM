@@ -1,7 +1,7 @@
 # Source Code of CAMIM for Multimodal Relation Extraction
 Official Implementation of our Paper "Caption-Aware Multimodal Relation Extraction with Mutual Information Maximization" (Authors: Zefan Zhang, Weiqi Zhang, Yanhui Li, Bai Tian, indicates equal contribution) in ACM MM 2024.
 ## Motivation
-.<img src="Figure/first.png" width="450" height="450" /> 
+<img src="Figure/first.png" width="450" height="450" /> 
 
 Previous methods tend to introduce the issue of ***error sensitivity*** and be easily affected by ***irrelevant object information*** from the image, such as the person in the red box. Therefore, we try to leverage ***detailed captions of entities*** in a given image, which can eliminate the influence of irrelevant objects and improve the efficiency of relation extraction.
 ## Model Architecture
