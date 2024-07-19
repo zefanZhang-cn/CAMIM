@@ -17,4 +17,9 @@ To run the codes, you need to install the requirements for [RE](requirements.txt
 ## Data Preparation
 * MNRE
   
-  You need to download three kinds of data to run the code.
+  You need to download three kinds of data to run the code.  
+  > 1.The raw images of [MNRE](), many thanks.  
+  > 2.The visual objects from the raw images from [HVPNeT](), many thanks.  
+  > 3.The generated images of [MNRE]() from TMR, many thanks.
+  > 4.Our  generated [captions]().
+  Then you should put folders ``img_org``,  ``img_vg``,  ``diffusion_pic``,  ``caption``  under the "./data" path.
