@@ -22,4 +22,9 @@ To run the codes, you need to install the requirements for [RE](requirements.txt
   > 2.The visual objects from the raw images from [HVPNeT](https://github.com/zjunlp/HVPNeT), many thanks.  
   > 3.The generated images from [TMR](https://github.com/thecharm/TMR), many thanks.
   > 4.Our  generated [Captions]().
+  
   Then you should put folders ``img_org``,  ``img_vg``,  ``diffusion_pic``,  ``caption``  under the "./data" path.
+
+## Path Structure
+The expected structures of Paths are:  
+Multimodal Relation Extraction
