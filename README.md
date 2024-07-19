@@ -5,7 +5,7 @@ Official Implementation of our Paper "Caption-Aware Multimodal Relation Extracti
 
 Previous methods tend to introduce the issue of ***error sensitivity*** and be easily affected by ***irrelevant object information*** from the image, such as the person in the red box. Therefore, we try to leverage ***detailed captions of entities*** in a given image, which can eliminate the influence of irrelevant objects and improve the efficiency of relation extraction.
 ## Model Architecture
-.<img src="Figure/model.png" width="1800" height="450" /> 
+<img src="Figure/model.png" width="1800" height="450" /> 
 
 The framework of the proposed Caption-Aware MultiModal Relation Extraction Network with Mutual Information Maximization (CAMIM). (a) We utilize the Multimodal Large Language Model to extract captions and encode them by BERT, leverage ResNet50 to encode the image, and translation image \cite{rethinking} to get object-level features \cite{HVPChen}. (b) In the Caption-Aware Module, we hierarchically aggregate features from different levels and feed them into the Cross-attention Module to interact. To reduce the risk of overfitting, we feed outputs and text features together into the Fusion Module. (c) We finally leverage Mutual Information to preserve the crucial information.
 
@@ -85,7 +85,7 @@ CAMIM
 `run.py` is used for running the whole program.
 
 ## Acknowledge
-Sincere thanks to HVPNeT and TMR for their contributions to this study. Undoubtedly, our success is inseparable from the efforts of any researcher who focuses on multimodal relation extraction tasks. Finally, we sincerely wish every researcher a wonderful scientific research!
+Sincere thanks to [***HVPNeT***](https://github.com/zjunlp/HVPNeT) and [***TMR***](https://github.com/thecharm/TMR) for their contributions to this study. Undoubtedly, our success is inseparable from the efforts of any researcher who focuses on multimodal relation extraction tasks. Finally, we sincerely wish every researcher a wonderful scientific research!
 
 ## Citation
 
