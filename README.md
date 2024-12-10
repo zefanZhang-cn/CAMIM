@@ -92,5 +92,33 @@ Sincerely thanks to [***HVPNeT***](https://github.com/zjunlp/HVPNeT) and [***TMR
 If you find this repo helpful, please cite the following:
 
 ``` latex
-
+@inproceedings{DBLP:conf/mm/ZhangZL024,
+  author       = {Zefan Zhang and
+                  Weiqi Zhang and
+                  Yanhui Li and
+                  Tian Bai},
+  editor       = {Jianfei Cai and
+                  Mohan S. Kankanhalli and
+                  Balakrishnan Prabhakaran and
+                  Susanne Boll and
+                  Ramanathan Subramanian and
+                  Liang Zheng and
+                  Vivek K. Singh and
+                  Pablo C{\'{e}}sar and
+                  Lexing Xie and
+                  Dong Xu},
+  title        = {Caption-Aware Multimodal Relation Extraction with Mutual Information
+                  Maximization},
+  booktitle    = {Proceedings of the 32nd {ACM} International Conference on Multimedia,
+                  {MM} 2024, Melbourne, VIC, Australia, 28 October 2024 - 1 November
+                  2024},
+  pages        = {1148--1157},
+  publisher    = {{ACM}},
+  year         = {2024},
+  url          = {https://doi.org/10.1145/3664647.3681219},
+  doi          = {10.1145/3664647.3681219},
+  timestamp    = {Wed, 06 Nov 2024 22:17:26 +0100},
+  biburl       = {https://dblp.org/rec/conf/mm/ZhangZL024.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
